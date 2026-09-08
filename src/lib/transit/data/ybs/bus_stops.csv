@@ -1,0 +1,2081 @@
+id,name,latitude,longitude,name_mm,road,township
+1,Nat Sin,16.868886,96.222571,နတ်စင်,No. 2 Main Road,South Dagon
+2,Nat Sin,16.869143,96.22241,နတ်စင်,No. 2 Main Road,South Dagon
+3,Gate Haung,16.902381,96.200097,ဂိတ်ဟောင်း,Bo Hmu Ba Htoo Road,North Dagon
+4,Gate Haung,16.902476,96.200042,ဂိတ်ဟောင်း,Bo Hmu Ba Htoo Road,North Dagon
+5,Sal Mile,16.91305,96.211413,(၁၀) မိုင်,Dagon University,North Dagon
+6,Sae-hnat-lone-Tan,16.830907,96.1634,(၁၂) လုံးတန်း,Yankin Road,Yankin
+7,Sae-hnat-lone-Tan,16.830835,96.163503,(၁၂) လုံးတန်း,Yankin Road,Yankin
+10,(Sae-Lay/ Sae-Ngar) Lan Sone,16.837107,96.186161,(၁၄/၁၅) လမ်းဆုံ,Yadanar Road,Thingangyun
+11,(Sae-Lay/ Sae-Ngar) Lan Sone,16.836842,96.185876,(၁၄/၁၅) လမ်းဆုံ,Yadanar Road,Thingangyun
+12,(Sae-Lay/ Sae-Ngar) Lan Sone,16.836957,96.185657,(၁၄/၁၅) လမ်းဆုံ,Thu Mingalar Road,South Okkalapa
+13,(Sae-Lay/ Sae-Ngar) Lan Sone,16.836996,96.185808,(၁၄/၁၅) လမ်းဆုံ,Thu Mingalar Road,South Okkalapa
+14,Padaythar,16.841681,96.183249,ပဒေသာ,Thu Mingalar Road,South Okkalapa
+15,Padaythar,16.842273,96.182639,ပဒေသာ,Thu Mingalar Road,South Okkalapa
+16,Nandawun Zay,16.85178,96.175829,နန္ဒဝန်ဈေး,Thu Mingalar Road,South Okkalapa
+17,Nandawun Zay,16.852036,96.175872,နန္ဒဝန်ဈေး,Thu Mingalar Road,South Okkalapa
+18,Sae-Hnit Thama,16.882275,96.03623,(၁၂) သမ,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+19,Sae-Hnit Thama,16.882419,96.036169,(၁၂) သမ,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+20,Kyaung Shae,16.899658,96.045927,ကျောင်းရှေ့,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+21,Kyaung Shae,16.899854,96.045886,ကျောင်းရှေ့,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+23,Sae-Ngar Zay Lay,16.890118,96.062261,(၁၅) ဈေးလေး,Kyansitthar Road,Hlaing Tharyar
+24,Nee Pyinyar Takke Tho,16.867924,96.011427,နည်းပညာတက္ကသိုလ်,University of Technology,Hlaing Tharyar
+25,Dagon Ayar A Way Pyay,16.878048,96.024103,ဒဂုံဧရာအဝေးပြေး,No. 5 Main Road,Hlaing Tharyar
+30,Tit Htate,16.878087,96.078418,(၁) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+31,Tit Htate,16.87818,96.078396,(၁) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+32,Nawaday,16.861391,96.068355,နဝဒေး,No. 5 Main Road,Hlaing Tharyar
+33,Nawaday,16.861356,96.068966,နဝဒေး,No. 5 Main Road,Hlaing Tharyar
+35,Dhamar Yon,16.861069,96.108151,ဓမ္မာရုံ,Bayint Naung Road,Mayangone
+36,Tayar-Chauk,16.843116,96.156519,(၁၀၆),Kabar Aye Pagoda Road,Mayangone
+37,Tayar-Chauk,16.843124,96.156666,(၁၀၆),Kabar Aye Pagoda Road,Mayangone
+38,Lan Wa/ Nawaday,16.867228,96.154818,လမ်းဝ/နဝဒေး,Thudhamar Road,North Okkalapa
+39,Sae-Mile Kone,16.888833,96.129917,(၁၀) မိုင်ကုန်း,Pyay Road,Insein
+40,Sae-Mile Kone,16.888977,96.129869,(၁၀) မိုင်ကုန်း,Pyay Road,Insein
+41,Tit Gate,16.915501,96.097224,(၁) ဂိတ်,Lower Mingalardon Road,Insein
+42,Tit Gate,16.915289,96.097312,(၁) ဂိတ်,Lower Mingalardon Road,Insein
+43,Japan Lan,16.905062,96.097686,ဂျပန်လမ်း,Lower Mingalardon Road,Insein
+44,Japan Lan,16.905025,96.09781,ဂျပန်လမ်း,Lower Mingalardon Road,Insein
+45,Htan Pin Kone,16.900292,96.124383,ထန်းပင်ကုန်း,No. 1 Main Road,Mingalardon
+46,Htan Pin Kone,16.900289,96.12411,ထန်းပင်ကုန်း,No. 1 Main Road,Mingalardon
+47,Tayar-Chauk,16.928333,96.120753,၁၀၆,Khayae Pin Road,Mingalardon
+48,Tayar-Chauk,16.928214,96.120621,၁၀၆,Khayae Pin Road,Mingalardon
+49,Naing Ngan Yae,16.938202,96.129981,နိုင်ငံရေး,No. 1 Main Road,Mingalardon
+50,Naing Ngan Yae,16.938629,96.129552,နိုင်ငံရေး,No. 1 Main Road,Mingalardon
+51,Sae-Hnit Lan,16.964759,96.148111,(၁၂) လမ်း,No. 3 Main Road,Mingalardon
+52,Sae-Hnit Lan,16.964962,96.147962,(၁၂) လမ်း,No. 3 Main Road,Mingalardon
+55,Nilar,16.992381,96.144242,နီလာ,No. 3 Main Road,Mingalardon
+56,Nilar,16.99277,96.143972,နီလာ,No. 3 Main Road,Mingalardon
+57,Tit Numpad,16.974734,96.124237,(၁) နံပါတ်,No. 1 Main Road,Mingalardon
+58,Tit Numpad,16.974884,96.124058,(၁) နံပါတ်,No. 1 Main Road,Mingalardon
+59,Daewoo,17.018606,96.131843,ဒေဝူး,No. 1 Main Road,Mingalardon
+60,Daewoo,17.018411,96.131438,ဒေဝူး,No. 1 Main Road,Mingalardon
+61,Nwe Khwe,17.022482,96.140549,နွယ်ခွေ,No. 3 Set Thwe Road,Mingalardon
+62,Nwe Khwe,17.022687,96.140088,နွယ်ခွေ,No. 3 Set Thwe Road,Mingalardon
+63,Nwe Khwe,17.022154,96.134316,နွယ်ခွေ,No. 1 Main Road,Mingalardon
+64,Nwe Khwe,17.022236,96.134595,နွယ်ခွေ,No. 1 Main Road,Mingalardon
+65,Tit Yat Kwat,17.026319,96.13614,(၁) ရပ်ကွက်,No. 3 Set Thwe Road,Mingalardon
+66,Tit Yat Kwat,17.026483,96.136247,(၁) ရပ်ကွက်,No. 3 Set Thwe Road,Mingalardon
+67,Nwar Chan,16.994815,96.091222,နွားခြံ,No. 4 Main Road,Shwe Pyithar
+68,Nwar Chan,16.994695,96.091051,နွားခြံ,No. 4 Main Road,Shwe Pyithar
+69,Danyin Gone Lan Sone,16.933233,96.101971,ဒညင်းကုန်းလမ်းဆုံ,Lower Mingalardon Road,Insein
+70,Danyin Gone Lan Sone,16.933347,96.101758,ဒညင်းကုန်းလမ်းဆုံ,Lower Mingalardon Road,Insein
+71,Gate Haung,16.963966,96.096508,ဂိတ်ဟောင်း,No. 4 Main Road,Shwe Pyithar
+72,Gate Haung,16.964731,96.096057,ဂိတ်ဟောင်း,No. 4 Main Road,Shwe Pyithar
+73,Danyin Gone Lan Sone,16.934088,96.103477,ဒညင်းကုန်းလမ်းဆုံ,Khayae Pin Road,Insein
+74,Danyin Gone Lan Sone,16.933879,96.103257,ဒညင်းကုန်းလမ်းဆုံ,Khayae Pin Road,Insein
+77,Sae-Lay Lan Sone,16.933589,96.087651,(၁၄) လမ်းဆုံ,Palae Road,Shwe Pyithar
+78,Sae-Lay Lan Sone,16.933613,96.087894,(၁၄) လမ်းဆုံ,Palae Road,Shwe Pyithar
+79,Sae-Lay Lan Sone,16.933362,96.088471,(၁၄) လမ်းဆုံ,Shwe Pyi Thar Bridge Road,Insein
+80,Sae-Lay Lan Sone,16.933532,96.088466,(၁၄) လမ်းဆုံ,Shwe Pyi Thar Bridge Road,Insein
+83,Htan Chauk Pin,16.956804,96.076328,ထန်းခြောက်ပင်,Bogyoke Aung San Road,Shwe Pyithar
+84,Htan Chauk Pin,16.956968,96.076414,ထန်းခြောက်ပင်,Bogyoke Aung San Road,Shwe Pyithar
+85,Nawarat,16.97258,96.075976,နဝရတ်,Bayint Naung Road,Shwe Pyithar
+86,Nawarat,16.972977,96.076004,နဝရတ်,Bayint Naung Road,Shwe Pyithar
+87,Kwin Kyaung,16.791499,96.123183,ကွင်းကျောင်း,Kyee Myin Daing Kannar Road,Ahlone
+88,Kwin Kyaung,16.791815,96.122913,ကွင်းကျောင်း,Kyee Myin Daing Kannar Road,Ahlone
+89,Sin Min Zay,16.788381,96.124349,ဆင်မင်းဈေး,Kyee Myin Daing Kannar Road,Ahlone
+90,Sin Min Zay,16.789089,96.123955,ဆင်မင်းဈေး,Kyee Myin Daing Kannar Road,Ahlone
+91,Thiri Mingalar Zay,16.793428,96.122795,သီရိမင်္ဂလာဈေး,Kyee Myin Daing Kannar Road,Ahlone
+92,Thiri Mingalar Zay,16.793387,96.123043,သီရိမင်္ဂလာဈေး,Kyee Myin Daing Kannar Road,Ahlone
+93,Chan Mar Phee,16.78736,96.129506,ချန်မာဖီ,Lower Kyee Myin Daing Road,Ahlone
+94,Chan Mar Phee,16.787536,96.129549,ချန်မာဖီ,Lower Kyee Myin Daing Road,Ahlone
+95,Sin Min Zay,16.790543,96.127962,ဆင်မင်းဈေး,Lower Kyee Myin Daing Road,Ahlone
+96,Sin Min Zay,16.790742,96.12801,ဆင်မင်းဈေး,Lower Kyee Myin Daing Road,Ahlone
+97,White Taw,16.793536,96.126588,ဝှိုက်တော,Lower Kyee Myin Daing Road,Ahlone
+98,White Taw,16.793686,96.126614,ဝှိုက်တော,Lower Kyee Myin Daing Road,Ahlone
+99,Ahlone Sar Taik,16.785149,96.131317,အလုံစာတိုက်,Lower Kyee Myin Daing Road,Ahlone
+100,Ahlone Sar Taik,16.785383,96.131267,အလုံစာတိုက်,Lower Kyee Myin Daing Road,Ahlone
+101,Htaw Li Kwae,16.781445,96.130209,ထော်လီကွေ့,Kyee Myin Daing Kannar Road,Ahlone
+102,Htaw Li Kwae,16.781329,96.130003,ထော်လီကွေ့,Kyee Myin Daing Kannar Road,Ahlone
+103,Thit Taw,16.782209,96.127727,သစ်တော,Kyee Myin Daing Kannar Road,Ahlone
+104,Thit Taw,16.782335,96.12792,သစ်တော,Kyee Myin Daing Kannar Road,Ahlone
+108,Bogyoke Kwae,16.780237,96.136731,ဗိုလ်ချုပ်ကွေ့,Bogyoke Aung San Road,Ahlone
+109,Jama Khar Nar,16.783082,96.1332,ဂျမခါနာ,Lower Kyee Myin Daing Road,Ahlone
+110,Jama Khar Nar,16.7831,96.133294,ဂျမခါနာ,Lower Kyee Myin Daing Road,Ahlone
+111,Kyone Gyi Gate,16.777325,96.136566,ကျုံးကြီးဂိတ်,Kyee Myin Daing Kannar Road,Ahlone
+112,Kyone Gyi Gate,16.777538,96.136664,ကျုံးကြီးဂိတ်,Kyee Myin Daing Kannar Road,Ahlone
+113,Kyone Gyi Gate,16.777523,96.137045,ကျုံးကြီးဂိတ်,Kyee Myin Daing Kannar Road,Ahlone
+114,Thakhin Mya Pan Chan,16.778282,96.135448,သခင်မြပန်းခြံ,Kyee Myin Daing Kannar Road,Ahlone
+115,Thakhin Mya Pan Chan,16.778411,96.135751,သခင်မြပန်းခြံ,Kyee Myin Daing Kannar Road,Ahlone
+117,Sein Gyun,16.781942,96.143846,စိန်ဂျွန်း,Pyay Road,Dagon
+118,Sein Gyun,16.783011,96.143589,စိန်ဂျွန်း,Pyay Road,Dagon
+119,Kili,16.775087,96.139433,ကီလီ,Strand Road,Lanmadaw
+121,Maw Tin,16.774862,96.142339,မော်တင်,Mahabandoola Road,Lanmadaw
+122,Maw Tin,16.774464,96.142194,မော်တင်,Strand Road,Lanmadaw
+123,Maw Tin,16.774627,96.142315,မော်တင်,Strand Road,Lanmadaw
+124,Kili,16.777481,96.140525,ကလီ,Anawrahta Road,Lanmadaw
+125,Sanpya,16.778647,96.144935,စံပြ,Phone Gyi Road,Lanmadaw
+126,Sanpya,16.777905,96.145015,စံပြ,Phone Gyi Road,Lanmadaw
+127,Sanpya,16.777391,96.144236,စံပြ,Anawrahta Road,Lanmadaw
+129,Latha,16.772114,96.15142,လသာ,Strand Road,Latha
+130,Latha,16.777129,96.151594,လသာ,Anawrahta Road,Latha
+131,Maung Khaing,16.774456,96.15187,မောင်ခိုင်,Mahabandoola Road,Latha
+132,Nyaung Pin Lay Zay,16.772605,96.146209,ညောင်ပင်လေးဈေး,Strand Road,Latha
+133,Sae-ngar Lan/ Nyaung Pin Lay Zay,16.777373,96.14642,(၁၅) လမ်း / ညောင်ပင်လေးဈေး,Anawrahta Road,Lanmadaw
+134,Sae-ngar Lan,16.774744,96.146441,(၁၅) လမ်း,Mahabandoola Road,Latha
+136,Chauk Htat Yone,16.770799,96.157348,(၆) ထပ်ရုံး,Strand Road,Pabedan
+137,Kone Zay Tan,16.777052,96.155092,ကုန်ဈေးတန်း,Anawrahta Road,Pabedan
+138,Lan Thone Sae,16.776964,96.157234,လမ်း(၃၀),Anawrahta Road,Pabedan
+139,Lan Thone Sae,16.771921,96.156615,လမ်း(၃၀),Merchant Road,Pabedan
+141,Sule Myodaw Khan Ma,16.775754,96.158879,ဆူးလေမြို့တော်ခန်းမ,Sule Pagoda Road,Kyauktada
+143,Theingyi Zay/ Kone Zay Tan,16.774497,96.153833,သိမ်ကြီးဈေး/ကုန်ဈေးတန်း,Mahabandoola Road,Pabedan
+144,Yoke Shin Yon,16.777455,96.158736,ရုပ်ရှင်ရုံ,Sule Pagoda Road,Pabedan
+145,Bar lan,16.776803,96.160718,ဘားလမ်း,Anawrahta Road,Kyauktada
+146,Bokalay Zay,16.774037,96.165841,ဘိုကလေးဈေး,Mahabandoola Road,Kyauktada
+147,Bokalay Zay,16.771597,96.166374,ဘိုကလေးဈေး,Merchant Road,Kyauktada
+148,Pansodan,16.776707,96.163806,ပန်းဆိုးတန်း,Anawrahta Road,Kyauktada
+149,Pansodan,16.774167,96.163094,ပန်းဆိုးတန်း,Mahabandoola Road,Kyauktada
+151,(Pansodan Seikkanthar),16.771652,96.163083,ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း),Merchant Road,Kyauktada
+152,Sule Pan Chan,16.774246,96.159554,ဆူးလေပန်းခြံ,Mahabandoola Road / Mahabandoola Garden,Kyauktada
+154,Kyel Ngar Pwint,16.772389,96.166984,ကြယ်ငါးပွင့်,Thein Phyu Road,Botahtaung
+155,Lan Ngar Sae,16.771426,96.171255,လမ်း(၅၀),Merchant Road,Botahtaung
+156,Lan Ngar Sae,16.778734,96.171312,လမ်း(၅၀),Bogyoke Aung San Road,Kyauktada
+157,Lan Ngar Sae,16.773863,96.171237,လမ်း(၅၀),Mahabandoola Road,Botahtaung
+158,Lay-sae-chauk Lan,16.776532,96.168562,(၄၆) လမ်း,Anawrahta Road,Kyauktada
+159,Lay-sae-chauk Lan,16.773967,96.168453,(၄၆) လမ်း,Mahabandoola Road,Botahtaung
+160,Sein Paul,16.777445,96.167201,စိန်ပေါ(လ်),Thein Phyu Road,Botahtaung
+161,Si Saing,16.775845,96.172617,ဆီဆိုင်,Botahtaung Pagoda Road,Botahtaung
+162,Ye Sa Khan,16.771447,96.172554,ရဲစခန်း,Botahtaung Pagoda Road,Botahtaung
+163,Pansodan,16.769358,96.16083,ပန်းဆိုးတန်း,Strand Road,Seikkan
+165,Sar Taik Kyee,16.769155,96.162463,စာတိုက်ကြီး,Strand Road,Seikkan
+166,Baho Yone,16.76919,96.167048,ဗဟိုရုံး,Strand Road,Seikkan
+167,Botahtaung Paya,16.769592,96.172507,ဗိုလ်တထောင်ဘုရား,Strand Road,Seikkan
+168,Botahtaung Paya,16.769252,96.171831,ဗိုလ်တထောင်ဘုရား,Strand Road,Seikkan
+172,Mandalay Lan,16.8744,96.198868,မန္တလေးလမ်း,Pin Lon Road,North Dagon
+173,Mandalay Lan,16.874343,96.199035,မန္တလေးလမ်း,Pin Lon Road,North Dagon
+174,Pansodan,16.779171,96.162356,ပန်းဆိုးတန်း,Bogyoke Aung San Road,Kyauktada
+175,Lan Ngar Sae,16.776462,96.170963,လမ်း(၅၀),Anawrahta Road,Kyauktada
+176,Lay-sae-chauk Lan,16.77888,96.168154,(၄၆) လမ်း,Bogyoke Aung San Road,Kyauktada
+177,Thein Phyu Zay,16.784569,96.167519,သိမ်ဖြူဈေး,Thein Phyu Road,Mingalar Taung Nyunt
+178,Thein Phyu Zay,16.784877,96.167626,သိမ်ဖြူဈေး,Thein Phyu Road,Mingalar Taung Nyunt
+181,Masalar Set,16.790037,96.169454,မဆလာစက်,Banyardala Road,Mingalar Taung Nyunt
+182,Masalar Set,16.790188,96.169403,မဆလာစက်,Banyardala Road,Mingalar Taung Nyunt
+183,Mingalar Mon Zay,16.793953,96.172827,မင်္ဂလာမွန်ဈေး,Mill Road,Mingalar Taung Nyunt
+184,Mingalar Mon Zay,16.794101,96.172931,မင်္ဂလာမွန်ဈေး,Mill Road,Mingalar Taung Nyunt
+185,Mingalar Zay/ Layy Lan,16.791508,96.172476,မင်္ဂလာဈေး/ (၄)လမ်း,Banyardala Road,Mingalar Taung Nyunt
+186,Mingalar Zay/ Layy Lan,16.791641,96.172439,မင်္ဂလာဈေး/ (၄)လမ်း,Banyardala Road,Mingalar Taung Nyunt
+187,Thein Phyu Sar Taik,16.78681,96.167691,သိမ်ဖြူစာတိုက်,Thein Phyu Road,Mingalar Taung Nyunt
+188,Thein Phyu Sar Taik,16.786857,96.167645,သိမ်ဖြူစာတိုက်,Thein Phyu Road,Mingalar Taung Nyunt
+189,Say Yon Gyi,16.779525,96.150563,ဆေးရုံကြီး,Bogyoke Aung San Road,Latha
+190,Thayet Taw Kyaung,16.779782,96.145659,သရက်တောကျောင်း,Bogyoke Aung San Road,Latha
+191,Bogyoke Zay,16.779395,96.154447,ဗိုလ်ချုပ်ဈေး,Bogyoke Aung San Road,Pabedan
+193,Sauk Lote Yae,16.783229,96.153431,ဆောက်လုပ်ရေး,Shwedagon Pagoda Road,Dagon
+194,Youk Lan,16.782682,96.158951,ယောက်လမ်း,Alanpya Pagoda Road,Dagon
+195,Youk Lan,16.785509,96.159488,ယောက်လမ်း,Gyo Phyu Road,Mingalar Taung Nyunt
+196,Bago Kalat,16.786334,96.142429,ပဲခူးကလပ်,Pyay Road,Dagon
+197,Bago Kalat,16.787245,96.142052,ပဲခူးကလပ်,Pyay Road,Dagon
+198,Halpin,16.79028,96.141303,ဟယ်(လ်)ပင်,Pyay Road,Dagon
+199,Halpin,16.791058,96.140842,ဟယ်(လ်)ပင်,Pyay Road,Dagon
+201,Taung Phat Moke,16.793821,96.151069,တောင်ဘက်မုခ်,Shwedagon Pagoda Road,Dagon
+202,Kyauk Taing,16.788753,96.157194,ကျောက်တိုင်,ZOOlogical Garden Road,Dagon
+203,Kyauk Taing,16.789041,96.157484,ကျောက်တိုင်,ZOOlogical Garden Road,Dagon
+204,Ashae Phat Moke,16.798262,96.151938,အရှေ့ဘက်မုခ်,RZarNi Road,Dagon
+205,Ashae Phat Moke,16.798164,96.151804,အရှေ့ဘက်မုခ်,RZarNi Road,Dagon
+206,Myauk Phat Moke,16.800997,96.14897,မြောက်ဘက်မုခ်,RZarNi Road,Dagon
+207,Myauk Phat Moke,16.801158,96.149107,မြောက်ဘက်မုခ်,RZarNi Road,Dagon
+208,Bahan Thone Lan,16.79706,96.157028,ဗဟန်းသုံးလမ်း,Bahan Road,Bahan
+209,Bahan Thone Lan,16.798049,96.157069,ဗဟန်းသုံးလမ်း,Bahan Road,Bahan
+210,Yae Khae Saing,16.801598,96.157907,ရေခဲဆိုင်,Koe Min Ko Chin Road,Bahan
+211,Yae Khae Saing,16.800975,96.159515,ရေခဲဆိုင်,Nat Mauk Road,Bahan
+212,Yae Khae Saing,16.80111,96.159473,ရေခဲဆိုင်,Nat Mauk Road,Bahan
+213,Nat Mauk Kyaung Shae,16.800321,96.166352,နတ်မောက်ကျောင်းရှေ့,Nat Mauk Road,Bahan
+214,Nat Mauk Kyaung Shae,16.800196,96.166261,နတ်မောက်ကျောင်းရှေ့,Nat Mauk Road,Bahan
+215,Jamar,16.801169,96.160922,ဂျမား,Nat Mauk Road,Bahan
+216,Jamar,16.8013,96.160913,ဂျမား,Nat Mauk Road,Bahan
+217,Phoe Sein Lan,16.800151,96.167644,ဖိုးစိန်လမ်း,Nat Mauk Road,Bahan
+218,Say Yon,16.79922,96.170368,ဆေးရုံ,Nat Mauk Road,Bahan
+219,Say Yon,16.799372,96.170384,ဆေးရုံ,Nat Mauk Road,Bahan
+222,Link Lan,16.805999,96.147233,လင့်လမ်း,Shwe Gon Road,Bahan
+223,Link Lan,16.806091,96.147421,လင့်လမ်း,Shwe Gon Road,Bahan
+224,Oak Lan,16.804344,96.151185,အုတ်လမ်း,West Shwe Gon Daing Road,Bahan
+225,Oak Lan,16.804481,96.151227,အုတ်လမ်း,West Shwe Gon Daing Road,Bahan
+226,Bandar Pin,16.809994,96.160769,ဗန်ဒါပင်,East Shwe Gon Daing Road,Bahan
+227,Bandar Pin,16.810236,96.160738,ဗန်ဒါပင်,East Shwe Gon Daing Road,Bahan
+228,Shwe Gon Daing,16.805331,96.154423,ရွှေဂုံတိုင်,West Shwe Gon Daing Road,Bahan
+229,Shwe Gon Daing,16.805529,96.154406,ရွှေဂုံတိုင်,West Shwe Gon Daing Road,Bahan
+230,Shwe Gon Daing,16.805195,96.155777,ရွှေဂုံတိုင်,Kabar Aye Pagoda Road,Bahan
+231,Shwe Gon Daing,16.80655,96.156077,ရွှေဂုံတိုင်,East Shwe Gon Daing Road,Bahan
+232,Chauk Htat Kyee,16.811207,96.165464,(၆) ထပ်ကြီး,East Shwe Gon Daing Road,Bahan
+233,Chauk Htat Kyee,16.811227,96.165963,(၆) ထပ်ကြီး,East Shwe Gon Daing Road,Bahan
+234,Ngar Htat Kyee,16.810501,96.16332,(၅) ထပ်ကြီး,East Shwe Gon Daing Road,Bahan
+235,Ngar Htat Kyee,16.810709,96.163007,(၅) ထပ်ကြီး,East Shwe Gon Daing Road,Bahan
+236,Awine Htate/ Tamwe,16.811852,96.170802,အဝိုင်းထိပ်/ တာမွေ,West Horse Race Course Road,Tamwe
+237,Awine Htate/ Tamwe,16.811882,96.17109,အဝိုင်းထိပ်/ တာမွေ,West Horse Race Course Road,Tamwe
+238,Byaing Yae Oh Sin,16.806494,96.172126,ဗျိုင်းရေအိုးစင်,Banyardala Road,Tamwe
+239,Byaing Yae Oh Sin,16.806694,96.172174,ဗျိုင်းရေအိုးစင်,Banyardala Road,Tamwe
+240,Home Lan,16.797408,96.122379,ဟုမ်းလမ်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+241,Home Lan,16.797669,96.122432,ဟုမ်းလမ်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+242,Thal Kwin,16.800933,96.122099,သဲကွင်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+243,Thal Kwin,16.800936,96.122253,သဲကွင်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+244,Home Lan,16.797192,96.126132,ဟုမ်းလမ်း,Lower Kyee Myin Daing Road,Kyee Myin Daing
+245,Home Lan,16.798018,96.126237,ဟုမ်းလမ်း,Lower Kyee Myin Daing Road,Kyee Myin Daing
+246,Kyaung Shae,16.800365,96.126217,ကျောင်းရှေ့,Lower Kyee Myin Daing Road,Kyee Myin Daing
+247,Kyaung Shae,16.800607,96.126045,ကျောင်းရှေ့,Lower Kyee Myin Daing Road,Kyee Myin Daing
+248,Kyaung Shae,16.803718,96.123337,ကျောင်းရှေ့,Bargayar Road,San Chaung
+249,Kyaung Shae,16.803901,96.123831,ကျောင်းရှေ့,Bargayar Road,San Chaung
+250,Kyee Myin Daing Nya Zay,16.809934,96.125931,ကြည်မြင်တိုင်ညဈေး,Upper Kyee Myin Daing Road,Kyee Myin Daing
+251,Kyee Myin Daing Nya Zay,16.809455,96.126008,ကြည်မြင်တိုင်ညဈေး,Upper Kyee Myin Daing Road,Kyee Myin Daing
+252,Sar Taik,16.804178,96.122149,စာတိုက်,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+253,Sar Taik,16.804266,96.122279,စာတိုက်,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+254,Koe Htat Kyee,16.803777,96.128096,(၉) ထပ်ကြီး,Bargayar Road,San Chaung
+255,Koe Htat Kyee,16.803859,96.128141,(၉) ထပ်ကြီး,Bargayar Road,San Chaung
+256,Kyee Myin Daing Butar,16.806301,96.125743,ကြည့်မြင်တိုင်ဘူတာ,Upper Kyee Myin Daing Road,Kyee Myin Daing
+257,Kyee Myin Daing Butar,16.806369,96.125883,ကြည့်မြင်တိုင်ဘူတာ,Upper Kyee Myin Daing Road,Kyee Myin Daing
+258,Kyee Myin Daing Nya Zay,16.809356,96.121984,ကြည့်မြင်တိုင်ညဈေး,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+259,Kyee Myin Daing Nya Zay,16.809123,96.121825,ကြည့်မြင်တိုင်ညဈေး,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+260,Shan Lan,16.803776,96.131501,ရှမ်းလမ်း,Bargayar Road,San Chaung
+261,Shan Lan,16.803839,96.131842,ရှမ်းလမ်း,Bargayar Road,San Chaung
+262,Hantharwaddy,16.811923,96.135036,ဟံသာဝတီ,Pyay Road,San Chaung
+263,Hantharwaddy,16.811936,96.134801,ဟံသာဝတီ,Pyay Road,San Chaung
+264,Mahar Myaing,16.806672,96.13654,မဟာမြိုင်,Pyay Road,San Chaung
+265,Mahar Myaing,16.808138,96.135891,မဟာမြိုင်,Pyay Road,San Chaung
+266,Myaynigone,16.803804,96.138814,မြေနီကုန်း,Bargayar Road,San Chaung
+267,Myaynigone,16.803748,96.138143,မြေနီကုန်း,Bargayar Road,San Chaung
+268,Myaynigone,16.799544,96.138511,မြေနီကုန်း (ပြည်လမ်း),Pyay Road,San Chaung
+269,Myaynigone,16.805399,96.136748,မြေနီကုန်း (ပြည်လမ်း),Pyay Road,San Chaung
+272,Shwe Man,16.803697,96.136183,ရွှေမန်း,Bargayar Road,San Chaung
+273,Shwe Man,16.803827,96.136105,ရွှေမန်း,Bargayar Road,San Chaung
+274,Wizaya Plaza,16.8052,96.143334,ဝိဇယပလာဇာ,Dhamazedi Road,Bahan
+277,Nat Sin Lan,16.814537,96.12196,နတ်စင်လမ်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+278,Nat Sin Lan,16.8147,96.121781,နတ်စင်လမ်း,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+279,Nat Sin Lan,16.814508,96.125932,နတ်စင်လမ်း,Upper Kyee Myin Daing Road,Kyee Myin Daing
+280,Nat Sin Lan,16.814462,96.126023,နတ်စင်လမ်း,Upper Kyee Myin Daing Road,Kyee Myin Daing
+281,B.R.B,16.828871,96.124352,ဘီအာဘီ,Baho Road,Kamayut
+282,B.R.B,16.829474,96.124027,ဘီအာဘီ,Baho Road,Kamayut
+283,Hantharwaddy,16.816229,96.126039,ဟံသာဝတီ,Upper Kyee Myin Daing Road,Kyee Myin Daing
+284,Hantharwaddy,16.816321,96.125938,ဟံသာဝတီ,Upper Kyee Myin Daing Road,Kyee Myin Daing
+287,Hledan,16.827952,96.130435,လှည်းတန်း,Yangon-Insein Road,Kamayut
+288,Hledan,16.827969,96.130198,လှည်းတန်း,Yangon-Insein Road,Kamayut
+289,Hledan Zay,16.826457,96.128887,လှည်းတန်းဈေး,Hledan Road,Kamayut
+290,Hledan Zay,16.826594,96.128806,လှည်းတန်းဈေး,Hledan Road,Kamayut
+291,Kannar Zay,16.812434,96.121964,ကမ်းနားဈေး,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+292,Kannar Zay,16.812512,96.12181,ကမ်းနားဈေး,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+293,Khaing Shwe Wah,16.8257,96.125134,ခိုင်ရွှေဝါ,Baho Road,Kamayut
+294,Khaing Shwe Wah,16.825997,96.125155,ခိုင်ရွှေဝါ,Baho Road,Kamayut
+295,Kyaung Shae/ Kone Sin,16.825525,96.126583,ကျောင်းရှေ့/ကုန်းဆင်း,Hledan Road,Kamayut
+296,Kyaung Shae/ Kone Sin,16.825357,96.126665,ကျောင်းရှေ့/ကုန်းဆင်း,Hledan Road,Kamayut
+297,Pyi Yeik Mon,16.822004,96.125767,ပြည်ရိပ်မွန်,Baho Road,Kamayut
+298,Pyi Yeik Mon,16.822108,96.125836,ပြည်ရိပ်မွန်,Baho Road,Kamayut
+299,Salin Kwin,16.812025,96.12605,စလင်းကွင်း,Upper Kyee Myin Daing Road,Kyee Myin Daing
+300,Salin Kwin,16.81273,96.125929,စလင်းကွင်း,Upper Kyee Myin Daing Road,Kyee Myin Daing
+301,Sinmalite,16.819289,96.121971,ဆင်မလိုက်,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+302,Sinmalite,16.819689,96.121818,ဆင်မလိုက်,Kyee Myin Daing Kannar Road,Kyee Myin Daing
+303,Ta Kaung,16.854806,96.173462,တကောင်း,Thu Mingalar Road,South Okkalapa
+304,Ta Kaung,16.854922,96.173107,တကောင်း,Thu Mingalar Road,South Okkalapa
+307,Thinbaw Kyin,16.82442,96.123027,သင်္ဘောကျင်း,Bayint Naung Road,Kamayut
+308,Thinbaw Kyin,16.82436,96.122837,သင်္ဘောကျင်း,Bayint Naung Road,Kamayut
+309,Yae Kyaung,16.830092,96.121861,ရေကြောင်း,Bayint Naung Road,Kamayut
+310,Yae Kyaung,16.830031,96.121648,ရေကြောင်း,Bayint Naung Road,Kamayut
+311,Ye Win,16.817803,96.12658,ရဲဝင်း,Baho Road,Kamayut
+312,Ye Win,16.818096,96.126442,ရဲဝင်း,Baho Road,Kamayut
+318,Kyaung Shae/ Dhamar Yon,16.826485,96.132192,ကျောင်းရှေ့/ဓမ္မာရုံ,University Avenue Road,Kamayut
+319,Saik Pyoe Yay,16.817862,96.133326,စိုက်ပျိုးရေး,Pyay Road,Kamayut
+320,Saik Pyoe Yay,16.817303,96.133263,စိုက်ပျိုးရေး,Pyay Road,Kamayut
+321,Har Mit Tic,16.813086,96.155949,ဟာမစ်တစ်,Kabar Aye Pagoda Road,Bahan
+322,Har Mit Tic,16.814847,96.155824,ဟာမစ်တစ်,Kabar Aye Pagoda Road,Bahan
+323,Kokkaing/ Kyaung Shae,16.820664,96.155299,ကုက္ကိုင်း/ ကျောင်းရှေ့,Kabar Aye Pagoda Road,Bahan
+324,Kokkaing/ Kyaung Shae,16.820593,96.155206,ကုက္ကိုင်း/ ကျောင်းရှေ့,Kabar Aye Pagoda Road,Bahan
+325,Set Hmu Tit/Myanmar Plaza,16.826941,96.154453,စက်မှု (၁)/မြန်မာပလာဇာ,Kabar Aye Pagoda Road,Bahan
+326,Set Hmu Tit,16.827675,96.15721,စက်မှု (၁),No. 1 Industrial Road,Yankin
+327,Set Hmu Tit,16.827536,96.157324,စက်မှု (၁),No. 1 Industrial Road,Yankin
+330,Yankin Zay,16.828822,96.159214,ရန်ကင်းဈေး,Yanshin Street,Yankin
+331,Yankin Zay,16.82892,96.159207,ရန်ကင်းဈေး,Yanshin Street,Yankin
+332,Awine Htate/ Tamwe,16.811491,96.169976,အဝိုင်းထိပ်/ တာမွေ,East Shwe Gon Daing Road,Bahan
+333,Awine Htate/ Tamwe,16.811647,96.17015,အဝိုင်းထိပ်/ တာမွေ,East Shwe Gon Daing Road,Bahan
+334,Awine Lay,16.825246,96.171418,အဝိုင်းလေး,Moe Kaung Road,Yankin
+335,Awine Lay,16.825667,96.171504,အဝိုင်းလေး,Moe Kaung Road,Yankin
+336,Hmat Tan Yone,16.82733,96.171032,မှတ်တမ်းရုံး,Moe Kaung Road,Yankin
+337,Hmat Tan Yone,16.827556,96.170742,မှတ်တမ်းရုံး,Moe Kaung Road,Yankin
+338,Kalar Zay,16.822483,96.172094,ကုလားဈေး,East Horse Race Course Road,Tamwe
+339,Kalar Zay,16.82238,96.171954,ကုလားဈေး,East Horse Race Course Road,Tamwe
+340,Kyar Hmat Taing,16.829017,96.163738,ကြားမှတ်တိုင်,Yankin Road,Yankin
+341,Kyar Hmat Taing,16.829251,96.163823,ကြားမှတ်တိုင်,Yankin Road,Yankin
+342,Kyaung Shae,16.815407,96.172656,ကျောင်းရှေ့,East Horse Race Course Road,Tamwe
+343,Kyaung Shae,16.815446,96.172466,ကျောင်းရှေ့,East Horse Race Course Road,Tamwe
+344,Lan Sone,16.818935,96.172527,လမ်းဆုံ,East Horse Race Course Road,Tamwe
+345,Lan Sone,16.819241,96.172281,လမ်းဆုံ,East Horse Race Course Road,Tamwe
+346,Lan Sone,16.817532,96.166528,လမ်းဆုံ,U Chit Maung Road,Bahan
+347,Lan Sone,16.817595,96.16674,လမ်းဆုံ,U Chit Maung Road,Bahan
+348,Min Lan,16.819495,96.165249,မင်းလမ်း,U Chit Maung Road,Bahan
+349,Min Lan,16.819669,96.164948,မင်းလမ်း,U Chit Maung Road,Bahan
+350,Mya Lan,16.815803,96.168246,မြလမ်း,West Horse Race Course Road,Bahan
+351,Mya Lan,16.816393,96.16748,မြလမ်း,West Horse Race Course Road,Bahan
+354,Zay Kwae,16.822503,96.162803,ဈေးကွေ့,U Chit Maung Road,Bahan
+355,Zay Kwae,16.822303,96.162665,ဈေးကွေ့,U Chit Maung Road,Bahan
+356,Athin Taik,16.823072,96.183366,အသင်းတိုက်,Lay Daung Kan Road,Thingangyun
+357,Athin Taik,16.823051,96.183464,အသင်းတိုက်,Lay Daung Kan Road,Thingangyun
+358,Kaw Set,16.813765,96.188295,ကော်စက်,Thanthumar Road,Thingangyun
+359,Kaw Set,16.813903,96.188372,ကော်စက်,Thanthumar Road,Thingangyun
+360,Khap Chee Yar,16.826177,96.186584,ခပ်ချီးယား,Lay Daung Kan Road,Thingangyun
+361,Khap Chee Yar,16.826198,96.186498,ခပ်ချီးယား,Lay Daung Kan Road,Thingangyun
+363,Tamwe Zay Haung/ Akhun Lut Zay,16.813353,96.174892,တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး,Kyaikkasan Road,Tamwe
+364,Than Lan,16.819789,96.178082,သံလမ်း,Lay Daung Kan Road,Thingangyun
+365,Than Lan,16.819962,96.178332,သံလမ်း,Lay Daung Kan Road,Thingangyun
+366,Zawana,16.827762,96.187952,ဇဝန,Lay Daung Kan Road,Thingangyun
+367,Zawana,16.828079,96.18817,ဇဝန,Lay Daung Kan Road,Thingangyun
+368,Zawana,16.828169,96.187952,ဇဝန,Thu Mingalar Road,Thingangyun
+369,Zawana,16.828347,96.187928,ဇဝန,Thu Mingalar Road,Thingangyun
+370,A.B.C,16.79996,96.186879,အေဘီစီ,Upper Pazundaung Road,Pazundaung
+371,A.B.C,16.79994,96.186782,အေဘီစီ,Upper Pazundaung Road,Pazundaung
+372,Arthawka,16.80733,96.180163,အာသောက,Thamain Bayan Road,Tamwe
+373,Arthawka,16.807242,96.180101,အာသောက,Thamain Bayan Road,Tamwe
+374,Aung Mingalar,16.796309,96.176624,အောင်မင်္ဂလာ,Banyardala Road,Mingalar Taung Nyunt
+375,Aung Mingalar,16.796486,96.176834,အောင်မင်္ဂလာ,Banyardala Road,Mingalar Taung Nyunt
+376,Chauk Lan,16.803755,96.185249,(၆) လမ်း,Upper Pazundaung Road,Pazundaung
+377,Chauk Lan,16.803807,96.185081,(၆) လမ်း,Upper Pazundaung Road,Pazundaung
+378,Kyauk Myaung Zay,16.804034,96.175738,ကျောက်မြောင်းဈေး,Kyaikkasan Road,Tamwe
+379,Kyauk Myaung Zay,16.804151,96.175646,ကျောက်မြောင်းဈေး,Kyaikkasan Road,Tamwe
+380,Tamwe Bali,16.80953,96.177036,တာမွေဗလီ,Thamain Bayan Road,Tamwe
+381,Tamwe Bali,16.809481,96.176962,တာမွေဗလီ,Thamain Bayan Road,Tamwe
+382,Tamwe Plaza,16.810675,96.175352,တာမွေပလာဇာ,Thamain Bayan Road,Tamwe
+383,Tamwe Plaza,16.810901,96.175102,တာမွေပလာဇာ,Thamain Bayan Road,Tamwe
+384,Tamwe Zay/ Tamwe Bali,16.807522,96.176273,တာမွေဈေး/ တာမွေဗလီ,Kyaikkasan Road,Tamwe
+385,Tamwe Zay/ Tamwe Bali,16.807725,96.176172,တာမွေဈေး/ တာမွေဗလီ,Kyaikkasan Road,Tamwe
+387,Thida,16.799399,96.176018,သီတာ,Banyardala Road,Mingalar Taung Nyunt
+388,Thida,16.799387,96.175793,သီတာ,Banyardala Road,Mingalar Taung Nyunt
+389,Yone Lay,16.797084,96.186241,ရုံးလေး,Upper Pazundaung Road,Pazundaung
+390,Yone Lay,16.797218,96.186182,ရုံးလေး,Upper Pazundaung Road,Pazundaung
+391,Zay Lay,16.809825,96.183666,ဈေးလေး,Thanthumar Road,Thingangyun
+392,Zay Lay,16.809926,96.183588,ဈေးလေး,Thanthumar Road,Thingangyun
+395,Tit Zay Kwae,16.796412,96.195341,(၁) ဈေးကွေ့,Min Nandar Road,Thaketa
+396,Tit Zay Kwae,16.796488,96.195482,(၁) ဈေးကွေ့,Min Nandar Road,Thaketa
+397,Anawmar,16.80388,96.201768,အနော်မာ,Ayar Wun Main Road,Thaketa
+398,Anawmar,16.803926,96.201911,အနော်မာ,Ayar Wun Main Road,Thaketa
+399,Anawmar,16.795174,96.19815,အနော်မာ,Zingama Road,Thaketa
+400,Anawmar,16.795256,96.198171,အနော်မာ,Zingama Road,Thaketa
+403,Kyauk Taing,16.804242,96.196145,ကျောက်တိုင်,Ayar Wun Main Road,Thaketa
+404,Kyauk Taing,16.804258,96.196239,ကျောက်တိုင်,Ayar Wun Main Road,Thaketa
+405,Kyauk Taing,16.803722,96.195947,ကျောက်တိုင်,Min Nandar Road,Thaketa
+406,Kyauk Taing,16.804654,96.195043,ကျောက်တိုင်,Min Nandar Road,Thaketa
+407,Myayni Lan,16.802389,96.19669,မြေနီလမ်း,Min Nandar Road,Thaketa
+408,Myayni Lan,16.802469,96.19656,မြေနီလမ်း,Min Nandar Road,Thaketa
+409,Tat Phwet,16.799601,96.196862,တပ်ဖွဲ့,Min Nandar Road,Thaketa
+410,Tat Phwet,16.799613,96.196778,တပ်ဖွဲ့,Min Nandar Road,Thaketa
+411,Bokalay Zay,16.769081,96.164641,ဘိုကလေးဈေး,Strand Road,Pazundaung
+412,Bokalay Zay,16.769119,96.164778,ဘိုကလေးဈေး,Strand Road,Pazundaung
+413,Botahtaung Zay,16.769349,96.174957,ဗိုလ်တထောင်ဈေး,Strand Road,Pazundaung
+414,Botahtaung Zay,16.769167,96.174863,ဗိုလ်တထောင်ဈေး,Strand Road,Pazundaung
+415,Gandee,16.77384,96.174372,ဂန္ဓီ,Mahabandoola Road,Pazundaung
+416,Gandee,16.773779,96.174183,ဂန္ဓီ,Mahabandoola Road,Pazundaung
+418,Gandee,16.771189,96.174722,ဂန္ဓီ,Merchant Road,Pazundaung
+421,Lin Sadaung,16.768981,96.180341,လင်းစဒေါင်း,Strand Road,Pazundaung
+422,Lin Sadaung,16.76915,96.180462,လင်းစဒေါင်း,Strand Road,Pazundaung
+423,Masalar Set/ Gandi,16.776354,96.174737,မဆလာစက်/ ဂန္ဓီ,Anawrahta Road,Botahtaung
+424,Thida Seik,16.774333,96.180194,သီတာဆိပ်,Lower Pazundaung Road,Pazundaung
+425,Thida Seik,16.77462,96.180076,သီတာဆိပ်,Lower Pazundaung Road,Pazundaung
+426,Dhamar Yon,16.776521,96.197328,ဓမ္မာရုံ,Yamonar Road,Daw Bon
+427,Dhamar Yon,16.777404,96.196148,ဓမ္မာရုံ,Yamonar Road,Daw Bon
+430,Man Pyae,16.778397,96.19404,မာန်ပြေ,Yamonar Road,Daw Bon
+431,Man Pyae,16.778429,96.193757,မာန်ပြေ,Yamonar Road,Daw Bon
+432,Shukhinthar,16.774682,96.201276,ရှုခင်းသာ,Shukinthar Myo Pat Road,Thaketa
+433,Shukhinthar,16.775021,96.200396,ရှုခင်းသာ,Shukinthar Myo Pat Road,Thaketa
+435,Thone Gate Haung,16.777583,96.195345,(၃) ဂိတ်ဟောင်း,Myintawthar Road,Daw Bon
+436,Thone Gate Haung,16.777644,96.195532,(၃) ဂိတ်ဟောင်း,Myintawthar Road,Daw Bon
+439,Athin Taik,16.790336,96.183245,အသင်းတိုက်,Upper Pazundaung Road,Mingalar Taung Nyunt
+440,Athin Taik,16.790253,96.183298,အသင်းတိုက်,Upper Pazundaung Road,Mingalar Taung Nyunt
+441,Koe Lan,16.792376,96.185023,(၉) လမ်း,Upper Pazundaung Road,Mingalar Taung Nyunt
+442,Koe Lan,16.792319,96.185123,(၉) လမ်း,Upper Pazundaung Road,Mingalar Taung Nyunt
+443,Mingalar Zay,16.791773,96.174681,မင်္ဂလာဈေး,Mill Road,Mingalar Taung Nyunt
+444,Mingalar Zay,16.791778,96.174517,မင်္ဂလာဈေး,Mill Road,Mingalar Taung Nyunt
+445,Nyaung Tan,16.778142,96.175494,ညောင်တန်း,Lower Pazundaung Road,Pazundaung
+446,Nyaung Tan,16.778577,96.175247,ညောင်တန်း,Lower Pazundaung Road,Pazundaung
+447,Pazundaung Zay,16.780225,96.174547,ပုဇွန်တောင်ဈေး,Upper Pazundaung Road,Pazundaung
+448,Pazundaung Zay,16.781613,96.174297,ပုဇွန်တောင်ဈေး,Upper Pazundaung Road,Pazundaung
+449,Sar Taik,16.784402,96.174941,စာတိုက်,Upper Pazundaung Road,Pazundaung
+450,Sar Taik,16.78448,96.174855,စာတိုက်,Upper Pazundaung Road,Pazundaung
+451,Warso,16.782555,96.182733,ဝါဆို,Yamonar Road,Daw Bon
+452,Warso,16.782604,96.183742,ဝါဆို,Yamonar Road,Daw Bon
+453,Yuzana Plaza/ Lan Kyal,16.794242,96.175678,ယုဇနပလာဇာ/လမ်းကျယ်,Banyardala Road,Mingalar Taung Nyunt
+454,Yuzana Plaza/ Lan Kyal,16.794463,96.175586,ယုဇနပလာဇာ/လမ်းကျယ်,Banyardala Road,Mingalar Taung Nyunt
+455,Nal Myay Yon,16.790959,96.201848,နယ်မြေရုံး,Myintawthar Road,Thaketa
+456,Nal Myay Yon,16.790887,96.20202,နယ်မြေရုံး,Myintawthar Road,Thaketa
+457,Ashae Kyar,16.78042,96.196865,အရှေ့ကြား,Myintawthar Road,Thaketa
+458,Ashae Kyar,16.780624,96.196846,အရှေ့ကြား,Myintawthar Road,Thaketa
+459,Htu Par Yon,16.793805,96.201005,ထူပါရုံ,Zingama Road,Thaketa
+460,Htu Par Yon,16.793742,96.201358,ထူပါရုံ,Zingama Road,Thaketa
+461,Khin Ma Ma Kyar,16.783882,96.198539,ခင်မမကြား,Myintawthar Road,Thaketa
+462,Khin Ma Ma Kyar,16.784193,96.198575,ခင်မမကြား,Myintawthar Road,Thaketa
+463,Sar Taik,16.788826,96.201028,စာတိုက်,Myintawthar Road,Thaketa
+464,Sar Taik,16.789011,96.200877,စာတိုက်,Myintawthar Road,Thaketa
+465,Si Saing,16.786302,96.199553,ဆီဆိုင်,Myintawthar Road,Thaketa
+466,Si Saing,16.78632,96.199774,ဆီဆိုင်,Myintawthar Road,Thaketa
+467,Thadar Yon,16.793654,96.193935,သဒ္ဓါရုံ,Min Nandar Road,Thaketa
+468,Thadar Yon,16.793775,96.194093,သဒ္ဓါရုံ,Min Nandar Road,Thaketa
+469,Thinbaw Kyin,16.781903,96.188016,သင်္ဘောကျင်း,Min Nandar Road,Thaketa
+470,Thinbaw Kyin,16.781991,96.187698,သင်္ဘောကျင်း,Min Nandar Road,Thaketa
+471,Thinbaw Kyin,16.781965,96.187147,သင်္ဘောကျင်း,Yamonar Road,Daw Bon
+472,Thinbaw Kyin,16.781294,96.188718,သင်္ဘောကျင်း,Yamonar Road,Daw Bon
+473,Wet Su,16.789535,96.19194,ဝက်စု,Min Nandar Road,Thaketa
+474,Wet Su,16.789452,96.191791,ဝက်စု,Min Nandar Road,Thaketa
+475,Yan Aung,16.785668,96.189918,ရန်အောင်,Min Nandar Road,Thaketa
+476,Yan Aung,16.786143,96.190049,ရန်အောင်,Min Nandar Road,Thaketa
+477,Yan Pyay,16.77991,96.191028,ရန်ပြေ,Yamonar Road,Daw Bon
+478,Yan Pyay,16.779838,96.191365,ရန်ပြေ,Yamonar Road,Daw Bon
+479,Nal Myay Yon,16.788995,96.205846,နယ်မြေရုံး,Shukinthar Myo Pat Road,Thaketa
+480,Nal Myay Yon,16.789417,96.205816,နယ်မြေရုံး,Shukinthar Myo Pat Road,Thaketa
+481,Khan Ma,16.790511,96.214546,ခန်းမ,Shukinthar Myo Pat Road,Thaketa
+482,Khan Ma,16.790942,96.214632,ခန်းမ,Shukinthar Myo Pat Road,Thaketa
+483,Kyaung Shae,16.778807,96.202652,ကျောင်းရှေ့,Shukinthar Myo Pat Road,Thaketa
+484,Kyaung Shae,16.779226,96.202563,ကျောင်းရှေ့,Shukinthar Myo Pat Road,Thaketa
+485,Kyel Ngar Pwint,16.791209,96.209632,ကြယ်ငါးပွင့်,Shukinthar Myo Pat Road,Thaketa
+486,Kyel Ngar Pwint,16.791294,96.210007,ကြယ်ငါးပွင့်,Shukinthar Myo Pat Road,Thaketa
+487,Lay-sae-koe Asane Gate,16.790983,96.211327,(၄၉) အစိမ်းဂိတ်,Shukinthar Myo Pat Road,Thaketa
+488,Lay-sae-koe Asane Gate,16.791127,96.211778,(၄၉) အစိမ်းဂိတ်,Shukinthar Myo Pat Road,Thaketa
+489,Mee Thwe Saing,16.781574,96.203753,မီးသွေးဆိုင်,Shukinthar Myo Pat Road,Thaketa
+490,Mee Thwe Saing,16.781887,96.203728,မီးသွေးဆိုင်,Shukinthar Myo Pat Road,Thaketa
+491,Ngar Kwae,16.791271,96.206392,(၅) ကွေ့,Zingama Road,Thaketa
+492,Ngar Kwae,16.791695,96.206537,(၅) ကွေ့,Zingama Road,Thaketa
+493,Ngar Kwae,16.790995,96.206627,(၅) ကွေ့,Shukinthar Myo Pat Road,Thaketa
+494,Ngar Kwae,16.79106,96.206414,(၅) ကွေ့,Shukinthar Myo Pat Road,Thaketa
+495,Si Saing,16.783991,96.204237,ဆီဆိုင်,Shukinthar Myo Pat Road,Thaketa
+496,Si Saing,16.784469,96.204035,ဆီဆိုင်,Shukinthar Myo Pat Road,Thaketa
+497,Waizayantar,16.791579,96.207443,ဝေဇယန္တာ,Shukinthar Myo Pat Road,Thaketa
+498,Waizayantar,16.791674,96.207644,ဝေဇယန္တာ,Shukinthar Myo Pat Road,Thaketa
+499,Yoke Shin Yon,16.792665,96.202841,ရုပ်ရှင်ရုံ,Myintawthar Road,Thaketa
+500,Yoke Shin Yon,16.793286,96.203017,ရုပ်ရှင်ရုံ,Myintawthar Road,Thaketa
+501,Yoke Shin Yon,16.792812,96.203151,ရုပ်ရှင်ရုံ,Zingama Road,Thaketa
+502,Yoke Shin Yon,16.792879,96.203407,ရုပ်ရှင်ရုံ,Zingama Road,Thaketa
+503,Sae-Thone Gate,16.793243,96.219589,(၁၃) ဂိတ်,Shukinthar Myo Pat Road,Thaketa
+504,Sae-Thone Gate,16.79369,96.219668,(၁၃) ဂိတ်,Shukinthar Myo Pat Road,Thaketa
+505,Gate Wa,16.790572,96.216842,ဂိတ်ဝ,Shukinthar Myo Pat Road,Thaketa
+506,Gate Wa,16.79125,96.217443,ဂိတ်ဝ,Shukinthar Myo Pat Road,Thaketa
+507,Lat Hmat Gate,16.77839,96.243879,လက်မှတ်ဂိတ်,Kyaik Khauk Pagoda Road,Thanlyin
+508,Lat Hmat Gate,16.778698,96.244222,လက်မှတ်ဂိတ်,Kyaik Khauk Pagoda Road,Thanlyin
+515,Khun Zay,16.798736,96.20583,(၇) ဈေး,Myintawthar Road,Thaketa
+516,Khun Zay,16.798962,96.205822,(၇) ဈေး,Myintawthar Road,Thaketa
+519,Kyan Mar Yae,16.796244,96.204615,ကျန်းမာရေး,Myintawthar Road,Thaketa
+520,Kyan Mar Yae,16.796623,96.204681,ကျန်းမာရေး,Myintawthar Road,Thaketa
+521,Kyaung Kwae,16.803613,96.206454,ကျောင်းကွေ့,Myintawthar Road,Thaketa
+522,Kyaung Kwae,16.803614,96.206572,ကျောင်းကွေ့,Myintawthar Road,Thaketa
+523,Kyaung Kwae/ Htuu Par Yone,16.803715,96.205867,ကျောင်းကွေ့/ထူပါရုံ,Ayar Wun Main Road,Thaketa
+524,Kyaung Kwae/ Htuu Par Yone,16.80381,96.205891,ကျောင်းကွေ့/ထူပါရုံ,Ayar Wun Main Road,Thaketa
+525,Myayni,16.803538,96.209864,မြေနီ,Ayar Wun Main Road,Thaketa
+526,Myayni,16.803656,96.210097,မြေနီ,Ayar Wun Main Road,Thaketa
+527,Paya Shae,16.801955,96.20669,ဘုရားရှေ့,Myintawthar Road,Thaketa
+528,Paya Shae,16.802075,96.206599,ဘုရားရှေ့,Myintawthar Road,Thaketa
+529,Shit Gate,16.804751,96.213528,(၈) ဂိတ်,Ayar Wun Main Road,Thaketa
+530,Shit Gate,16.804949,96.213742,(၈) ဂိတ်,Ayar Wun Main Road,Thaketa
+535,Ta Sal Zay,16.808245,96.220304,(၁၀) ဈေး,Ayar Wun Main Road,Thaketa
+536,Ta Sal Zay,16.808139,96.220355,(၁၀) ဈေး,Ayar Wun Main Road,Thaketa
+537,Thone-Sae-Lay Kar Gyi Gate,16.809509,96.223124,(၃၄) ကားကြီးဂိတ်,Ayar Wun Main Road,Thaketa
+538,Thone-Sae-Lay Kar Gyi Gate,16.810434,96.224488,(၃၄) ကားကြီးဂိတ်,Ayar Wun Main Road,Thaketa
+539,Awine,16.808276,96.217783,အဝိုင်း,Shukinthar Road,Thaketa
+540,Awine,16.807905,96.21795,အဝိုင်း,Shukinthar Road,Thaketa
+541,Thama College,16.755061,96.258146,သမကောလိပ်,Thanlyin,Thanlyin
+542,Lelyar Gate Yinn,16.804733,96.225606,လယ်ယာ (ဂိတ်ရင်း),Nawarat Pat Road,Thaketa
+543,Sauk Lote Yae,16.799077,96.224288,ဆောက်လုပ်ရေး,Shukinthar Myo Pat Road,Thaketa
+544,Sauk Lote Yae,16.799351,96.224252,ဆောက်လုပ်ရေး,Shukinthar Myo Pat Road,Thaketa
+545,Sauk Lote Yae,16.803077,96.223293,ဆောက်လုပ်ရေး,Thanlyin Tada Chint Road,Thaketa
+546,Sauk Lote Yae,16.803144,96.223492,ဆောက်လုပ်ရေး,Thanlyin Tada Chint Road,Thaketa
+547,Sauk Lote Yae,16.802921,96.223752,ဆောက်လုပ်ရေး,Yadanar Road,Thaketa
+548,Sauk Lote Yae,16.803463,96.22405,ဆောက်လုပ်ရေး,Yadanar Road,Thaketa
+549,Tadar Htate,16.801239,96.225542,တံတားထိပ်,Nawarat Pat Road,Thaketa
+550,Tadar Htate,16.801254,96.225282,တံတားထိပ်,Nawarat Pat Road,Thaketa
+551,Tayar-Shit Taung,16.806431,96.218966,(၁၀၈) တောင်,Thalyin Thada Chin Kat Road,Thaketa
+552,Tayar-Shit Taung,16.806466,96.21927,(၁၀၈) တောင်,Thalyin Thada Chin Kat Road,Thaketa
+553,Thaketa Awine,16.806115,96.216272,သာကေတအဝိုင်း,Ayar Wun Main Road,Thaketa
+555,Asean,16.806862,96.232308,အာဆီယံ,National Races Village,Thaketa
+557,Asean,16.807009,96.232514,အာဆီယံ,National Races Village,Thaketa
+558,Than Lan,16.811976,96.231978,သံလမ်း,Ayar Wun Main Road,Thaketa
+559,Than Lan,16.811974,96.232294,သံလမ်း,Ayar Wun Main Road,Thaketa
+561,Kyaung Lan,16.819895,96.200658,ကျောင်းလမ်း,Thanthumar Road,Thingangyun
+562,Kyaung Lan,16.819663,96.20058,ကျောင်းလမ်း,Thanthumar Road,Thingangyun
+563,Paw San Hmwe,16.821338,96.202879,ပေါ်ဆန်းမွှေး,Thanthumar Road,Thingangyun
+564,Paw San Hmwe,16.82127,96.20294,ပေါ်ဆန်းမွှေး,Thanthumar Road,Thingangyun
+565,Su Paung,16.818098,96.198024,စုပေါင်း,Thanthumar Road,Thingangyun
+566,Su Paung,16.818704,96.198759,စုပေါင်း,Thanthumar Road,Thingangyun
+569,Thuwunna Lan Sone,16.814838,96.190871,သုဝဏ္ဏလမ်းဆုံ,Thanthumar Road,Thingangyun
+570,Thuwunna Lan Sone,16.815039,96.191043,သုဝဏ္ဏလမ်းဆုံ,Thanthumar Road,Thingangyun
+571,Thuwunna Lan Sone,16.815588,96.189765,သုဝဏ္ဏလမ်းဆုံ,Waizayandar Road,Thingangyun
+572,Thuwunna Lan Sone,16.815698,96.190043,သုဝဏ္ဏလမ်းဆုံ,Waizayandar Road,Thingangyun
+573,Yae Set,16.816229,96.194275,ရေစက်,Thanthumar Road,Thingangyun
+574,Yae Set,16.81668,96.194881,ရေစက်,Thanthumar Road,Thingangyun
+577,Aung Zay Ya,16.825081,96.209117,အောင်ဇေယျ,Kamarkyi Road,Thingangyun
+578,Aung Zay Ya,16.825018,96.209532,အောင်ဇေယျ,Kamarkyi Road,Thingangyun
+579,Bayint Naung,16.822305,96.212298,ဘုရင့်နောင်,Kamarkyi Road,Thingangyun
+580,Bayint Naung,16.82258,96.211896,ဘုရင့်နောင်,Kamarkyi Road,Thingangyun
+582,Mee Don,16.823329,96.205473,မီးဒုံး,Thanthumar Road,Thingangyun
+583,Mee Don,16.823236,96.20547,မီးဒုံး,Thanthumar Road,Thingangyun
+584,Min Din,16.822284,96.204296,မင်းဒင်,Thanthumar Road,Thingangyun
+585,Min Din,16.822083,96.204216,မင်းဒင်,Thanthumar Road,Thingangyun
+586,Nyaung Pin,16.820809,96.213452,ညောင်ပင်,Kamarkyi Road,Thingangyun
+587,Nyaung Pin,16.820932,96.213044,ညောင်ပင်,Kamarkyi Road,Thingangyun
+589,Ta Yar Yone,16.948029,96.150443,တရားရုံး,No. 3 Main Road,Mingalardon
+590,Ta Yar Yone,16.948074,96.15053,တရားရုံး,No. 3 Main Road,Mingalardon
+591,Thuwunna Zay,16.824722,96.20649,သုဝဏ္ဏဈေး,Thanthumar Road,Thingangyun
+592,Thuwunna Zay,16.825194,96.206567,သုဝဏ္ဏဈေး,Thanthumar Road,Thingangyun
+593,Daywadaha,16.843956,96.198989,ဒေဝဒဟ,Yadanar Road,Thingangyun
+594,Daywadaha,16.844243,96.198775,ဒေဝဒဟ,Yadanar Road,Thingangyun
+595,Ar Nandar Paya,16.840423,96.194977,အာနန္ဒာဘုရား,Yadanar Road,Thingangyun
+596,Ar Nandar Paya,16.840692,96.194989,အာနန္ဒာဘုရား,Yadanar Road,Thingangyun
+597,Bawa Myint,16.837496,96.199818,ဘဝမြင့်,Lay Daung Kan Road,Thingangyun
+598,Bawa Myint,16.83714,96.19967,ဘဝမြင့်,Lay Daung Kan Road,Thingangyun
+599,Bawa Myint,16.841705,96.19641,ဘဝမြင့်,Yadanar Road,Thingangyun
+600,Bawa Myint,16.842046,96.19654,ဘဝမြင့်,Yadanar Road,Thingangyun
+601,B.O.C,16.832662,96.195074,ဘီအိုစီ,Lay Daung Kan Road,Thingangyun
+602,B.O.C,16.832867,96.195098,ဘီအိုစီ,Lay Daung Kan Road,Thingangyun
+605,Gate Haung,16.838916,96.192971,ဂိတ်ဟောင်း,Yadanar Road,South Okkalapa
+606,Gate Haung,16.839107,96.192977,ဂိတ်ဟောင်း,Yadanar Road,South Okkalapa
+609,Kalar Su,16.83501,96.19727,ကုလားစု,Lay Daung Kan Road,Thingangyun
+610,Kalar Su,16.834931,96.197397,ကုလားစု,Lay Daung Kan Road,Thingangyun
+611,Kyaikkasan Paya,16.837687,96.18816,ကျိုက္ကစံဘုရား,Yadanar Road,Thingangyun
+612,Kyaikkasan Paya,16.838744,96.191685,ကျိုက္ကစံဘုရား,Yadanar Road,Thingangyun
+613,Lai Sin Yone,16.845856,96.201056,လိုင်စင်ရုံး,Thanthumar Road,Thingangyun
+614,Lai Sin Yone,16.845868,96.200773,လိုင်စင်ရုံး,Thanthumar Road,Thingangyun
+615,Paya Lan,16.830734,96.193152,ဘုရားလမ်း,Lay Daung Kan Road,Thingangyun
+616,Paya Lan,16.831138,96.193347,ဘုရားလမ်း,Lay Daung Kan Road,Thingangyun
+626,Chan Aye/ Thwar Say,16.832865,96.20798,ချမ်းအေးသွားဆေး,Thanthumar Road,Thingangyun
+627,Chan Aye/ Thwar Say,16.833007,96.208106,ချမ်းအေးသွားဆေး,Thanthumar Road,Thingangyun
+628,Kar Gyi Gate,16.847393,96.20904,ကားကြီးဂိတ်,No. 2 Main Road,South Dagon
+629,Kar Gyi Gate,16.847381,96.209097,ကားကြီးဂိတ်,No. 2 Main Road,South Dagon
+630,Sanpya Zay Kwae,16.839497,96.2074,စံပြဈေးကွေ့,Thanthumar Road,Thingangyun
+631,Sanpya Zay Kwae,16.838398,96.207582,စံပြဈေးကွေ့,Thanthumar Road,Thingangyun
+632,Sanpya Zay/ Nga Moe Yeik,16.843208,96.204053,စံပြဈေး/ ငမိုးရိပ်,Thanthumar Road,Thingangyun
+633,Sanpya Zay/ Nga Moe Yeik,16.843309,96.203811,စံပြဈေး/ ငမိုးရိပ်,Thanthumar Road,Thingangyun
+634,Sanpya Zay/ Nga Moe Yeik,16.841911,96.204373,စံပြဈေး/ ငမိုးရိပ်,Lay Daung Kan Road,Thingangyun
+635,Sanpya Zay/ Nga Moe Yeik,16.842002,96.20458,စံပြဈေး/ ငမိုးရိပ်,Lay Daung Kan Road,Thingangyun
+636,Waibula,16.830175,96.208096,ဝေဘူလ,Thanthumar Road,Thingangyun
+637,Waibula,16.830512,96.207988,ဝေဘူလ,Thanthumar Road,Thingangyun
+638,Alo Taw Pyae,16.820004,96.238117,အလိုတော်ပြည့်,Ayar Wun Main Road,Thaketa
+639,Alo Taw Pyae,16.820019,96.238003,အလိုတော်ပြည့်,Ayar Wun Main Road,Thaketa
+640,Sauk Lote Yae,16.828674,96.240299,ဆောက်လုပ်ရေး,Pyi Htaung Su Main Road,South Dagon
+641,Sauk Lote Yae,16.828642,96.240614,ဆောက်လုပ်ရေး,Pyi Htaung Su Main Road,South Dagon
+642,Thit Sait,16.815399,96.236673,သစ်ဆိတ်,Ayar Wun Main Road,Thaketa
+643,Thit Sait,16.815545,96.236623,သစ်ဆိတ်,Ayar Wun Main Road,Thaketa
+644,G.E.C,16.843964,96.227274,ဂျီအီးစီ,Pyi Htaung Su Main Road,South Dagon
+645,G.E.C,16.844241,96.227087,ဂျီအီးစီ,Pyi Htaung Su Main Road,South Dagon
+646,Set Hmu Zone Hnit,16.841916,96.229725,စက်မှုဇုံ (၂),Pyi Htaung Su Main Road,South Dagon
+647,Set Hmu Zone Hnit,16.841933,96.229829,စက်မှုဇုံ (၂),Pyi Htaung Su Main Road,South Dagon
+648,Thit Saing Kwae,16.847489,96.223216,သစ်ဆိုင်ကွေ့,Pyi Htaung Su Main Road,South Dagon
+649,Ayeyarwaddy Lan Htate,16.837392,96.233259,ဧရာဝတီလမ်းထိပ်,Pyi Htaung Su Main Road,South Dagon
+650,Ayeyarwaddy Lan Htate,16.83734,96.233184,ဧရာဝတီလမ်းထိပ်,Pyi Htaung Su Main Road,South Dagon
+651,Chauk-sae-ngar Yat Kwet,16.83494,96.242734,(၆၅) ရပ်ကွက်,Ayar Wun Main Road,Thaketa
+652,Chauk-sae-ngar Yat Kwet,16.834918,96.242834,(၆၅) ရပ်ကွက်,Ayar Wun Main Road,Thaketa
+653,Kyar Kan,16.843766,96.231361,ကြာကန်,Hlawga Road,Shwe Pyithar
+654,Kyar Kan,16.843939,96.23139,ကြာကန်,Hlawga Road,Shwe Pyithar
+657,Set Hmu Zone Zay,16.838392,96.23263,စက်မှုဇုံဈေး,Pyi Htaung Su Main Road,South Dagon
+658,Set Hmu Zone Zay,16.838777,96.232492,စက်မှုဇုံဈေး,Pyi Htaung Su Main Road,South Dagon
+659,Shwe Taung Kyar Lan,16.834072,96.234116,ရွှေတောင်ကြားလမ်း,Pyi Htaung Su Main Road,South Dagon
+660,Shwe Taung Kyar Lan,16.834378,96.23405,ရွှေတောင်ကြားလမ်း,Pyi Htaung Su Main Road,South Dagon
+661,Sittaung Lan Htate,16.831646,96.234318,စစ်တောင်းလမ်းထိပ်,Pyi Htaung Su Main Road,South Dagon
+662,Sittaung Lan Htate,16.831916,96.234186,စစ်တောင်းလမ်းထိပ်,Pyi Htaung Su Main Road,South Dagon
+663,Thein Kyaung,16.837947,96.243789,သိမ်ကျောင်း,Ayar Wun Main Road,Thaketa
+664,Thein Kyaung,16.83858,96.24387,သိမ်ကျောင်း,Ayar Wun Main Road,Thaketa
+666,Thein Kyaung,16.838175,96.244158,သိမ်ကျောင်း,Ayar Wun Main Road,Thaketa
+667,Thitsar,16.845669,96.232836,သစ္စာ,Hlawga Road,Shwe Pyithar
+668,Thitsar,16.845891,96.232927,သစ္စာ,Hlawga Road,Shwe Pyithar
+673,Tadar Phyu,16.857555,96.212463,တံတားဖြူ,No. 2 Main Road,South Dagon
+674,Tadar Phyu,16.857583,96.212415,တံတားဖြူ,No. 2 Main Road,South Dagon
+675,Taung Myauk Lan Sone,16.861558,96.213489,တောင်/မြောက်လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+676,Taung Myauk Lan Sone,16.861616,96.213544,တောင်/မြောက်လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+677,Taung Myauk Lan Sone,16.858666,96.214548,တောင်/မြောက်လမ်းဆုံ,Pyi Htaung Su Main Road,South Dagon
+678,Taung Myauk Lan Sone,16.858706,96.214641,တောင်/မြောက်လမ်းဆုံ,Pyi Htaung Su Main Road,South Dagon
+679,Taung Myauk Lan Sone,16.862961,96.216418,တောင်/မြောက်လမ်းဆုံ,No. 2 Main Road,South Dagon
+680,Taung Myauk Lan Sone,16.863033,96.216406,တောင်/မြောက်လမ်းဆုံ,No. 2 Main Road,South Dagon
+681,Than Lan,16.854748,96.214781,သံလမ်း,Pyi Htaung Su Main Road,South Dagon
+682,Than Lan,16.854733,96.214847,သံလမ်း,Pyi Htaung Su Main Road,South Dagon
+687,Gate Haung,16.852311,96.2297,ဂိတ်ဟောင်း,Si Pin Road,South Dagon
+688,Gate Haung,16.852381,96.229623,ဂိတ်ဟောင်း,Si Pin Road,South Dagon
+691,Kone Padaythar,16.849757,96.227478,ကုန်ပဒေသာ,Si Pin Road,South Dagon
+692,Kone Padaythar,16.849945,96.227552,ကုန်ပဒေသာ,Si Pin Road,South Dagon
+693,Myo Oo Kyaung,16.86174,96.230188,မြို့ဦးကျောင်း,Maungmakan Kantha Road,South Dagon
+694,Myo Oo Kyaung,16.86177,96.230231,မြို့ဦးကျောင်း,Maungmakan Kantha Road,South Dagon
+695,Pan Chan,16.851407,96.21852,ပန်းခြံ,Pyi Htaung Su Main Road,South Dagon
+696,Pan Chan,16.851441,96.218557,ပန်းခြံ,Pyi Htaung Su Main Road,South Dagon
+701,Yauk Kaw,16.848306,96.22216,ယောက်ကော်,Pyi Htaung Su Main Road,South Dagon
+702,Yauk Kaw,16.848346,96.222224,ယောက်ကော်,Pyi Htaung Su Main Road,South Dagon
+703,Hnit-sae Zay,16.849593,96.236215,(၂၀) ဈေး,Hlawga Road,Shwe Pyithar
+704,Hnit-sae Zay,16.849672,96.236186,(၂၀) ဈေး,Hlawga Road,Shwe Pyithar
+705,Kar Lay Gate,16.851637,96.237986,ကားလေးဂိတ်,Hlawga Road,South Dagon
+706,Kone Taik,16.848083,96.234927,ကုန်တိုက်,Hlawga Road,South Dagon
+707,Kone Taik,16.848127,96.234885,ကုန်တိုက်,Hlawga Road,South Dagon
+710,Thapyay Nyo,16.86016,96.232161,သပြေညို,Maungmakan Kantha Road,South Dagon
+711,Thapyay Nyo,16.86016,96.232276,သပြေညို,Maungmakan Kantha Road,South Dagon
+712,Kyan Mar Yae,16.856131,96.232983,ကျန်းမာရေး,Si Pin Road,South Dagon
+713,Kyan Mar Yae,16.856348,96.233078,ကျန်းမာရေး,Si Pin Road,South Dagon
+714,Kyaung Shae,16.854354,96.231346,ကျောင်းရှေ့,Si Pin Road,South Dagon
+715,Kyaung Shae,16.854294,96.231405,ကျောင်းရှေ့,Si Pin Road,South Dagon
+716,Ngar-sae Lay Tha Ma,16.859733,96.245185,(၅၄) သမ,Hlawga Road,Shwe Pyithar
+717,Ngar-sae Lay Tha Ma,16.859781,96.245114,(၅၄) သမ,Hlawga Road,Shwe Pyithar
+718,Phone Gyi Kyaung Kwae,16.85421,96.240124,ဘုန်းကြီးကျောင်းကွေ့,Hlawga Road,South Dagon
+719,Phone Gyi Kyaung Kwae,16.854238,96.240262,ဘုန်းကြီးကျောင်းကွေ့,Hlawga Road,South Dagon
+720,Sae-shit Kwae,16.858028,96.234522,(၁၈) ကွေ့,Si Pin Road,South Dagon
+721,Sae-shit Kwae,16.858007,96.234595,(၁၈) ကွေ့,Si Pin Road,South Dagon
+724,Tadar Htate,16.856039,96.237464,တံတားထိပ်,Maungmakan Kantha Road,South Dagon
+729,Awaiyar,16.850523,96.244283,အဝေရာ,Maungmakan Kantha Road,South Dagon
+730,Awaiyar,16.850563,96.24438,အဝေရာ,Maungmakan Kantha Road,South Dagon
+731,Ayar Wun,16.849184,96.245913,ဧရာဝဏ်,Maungmakan Kantha Road,South Dagon
+732,Ayar Wun,16.84925,96.245988,ဧရာဝဏ်,Maungmakan Kantha Road,South Dagon
+733,Kun Yar Saing,16.863385,96.248403,ကွမ်းယာဆိုင်,Hlawga Road,Shwe Pyithar
+734,Kun Yar Saing,16.863655,96.24854,ကွမ်းယာဆိုင်,Hlawga Road,Shwe Pyithar
+735,Ngar-sae-chauk,16.861109,96.246373,(၅၆),Hlawga Road,Shwe Pyithar
+736,Ngar-sae-chauk,16.86127,96.246447,(၅၆),Hlawga Road,Shwe Pyithar
+739,(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay,16.870673,96.25488,(၇၀/၇၁) ဈေး,Hlawga Road,Shwe Pyithar
+740,(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay,16.870692,96.254836,(၇၀/၇၁) ဈေး,Hlawga Road,Shwe Pyithar
+741,Ah Kyaw Tae,16.877069,96.247142,အကြော်တဲ,Kyansitthar Road,South Dagon
+742,Ah Kyaw Tae,16.877428,96.247206,အကြော်တဲ,Kyansitthar Road,South Dagon
+743,Kar Gyi Gate,16.86709,96.251711,ကားကြီးဂိတ်,Hlawga Road,Shwe Pyithar
+744,Kar Gyi Gate,16.867169,96.251664,ကားကြီးဂိတ်,Hlawga Road,Shwe Pyithar
+745,Kyauk Lan,16.883455,96.234203,ကျောက်လမ်း,No. 2 Main Road,South Dagon
+746,Kyauk Lan,16.883578,96.234031,ကျောက်လမ်း,No. 2 Main Road,South Dagon
+747,Kyaung Shae,16.875457,96.248816,ကျောင်းရှေ့,Kyansitthar Road,South Dagon
+748,Kyaung Shae,16.875652,96.248869,ကျောင်းရှေ့,Kyansitthar Road,South Dagon
+757,Say Yon Shae,16.891062,96.239909,ဆေးရုံရှေ့,No. 2 Main Road,South Dagon
+758,Say Yon Shae,16.891247,96.23963,ဆေးရုံရှေ့,No. 2 Main Road,South Dagon
+761,U Tun Myat,16.893594,96.241781,ဦးထွန်းမြတ်,No. 2 Main Road,South Dagon
+762,U Tun Myat,16.893779,96.241561,ဦးထွန်းမြတ်,No. 2 Main Road,South Dagon
+763,War Saing Kwae,16.874348,96.250189,ဝါးဆိုင်ကွေ့,Kyansitthar Road,South Dagon
+764,War Saing Kwae,16.874574,96.250157,ဝါးဆိုင်ကွေ့,Kyansitthar Road,South Dagon
+765,Yone Shae,16.872617,96.256527,ရုံးရှေ့,Hlawga Road,Shwe Pyithar
+766,Yone Shae,16.872634,96.256658,ရုံးရှေ့,Hlawga Road,Shwe Pyithar
+771,Mya Nandar,16.835173,96.254615,မြနန္ဒာ,Bago River Road,Dagon Seikkan
+772,Mya Nandar,16.835048,96.255477,မြနန္ဒာ,Bago River Road,Dagon Seikkan
+773,Yadanar Lan,16.836588,96.249945,ရတနာလမ်း,Bago River Road,Dagon Seikkan
+774,Yadanar Lan,16.836612,96.249448,ရတနာလမ်း,Bago River Road,Dagon Seikkan
+779,Ma Wa Ta Yone Shae/Oh Eain,16.8324,96.264848,မဝတရုံးရှေ့/အိုးအိမ်,Bago River Road,Dagon Seikkan
+780,Ma Wa Ta Yone Shae/Oh Eain,16.832435,96.265106,မဝတရုံးရှေ့/အိုးအိမ်,Bago River Road,Dagon Seikkan
+781,(Moke Oo Yuzana Garden),16.832075,96.270439,မုခ်ဦး (ယုဇနဥယျာဉ်),Bago River Road,Dagon Seikkan
+782,(Moke Oo Yuzana Garden),16.832331,96.270191,မုခ်ဦး (ယုဇနဥယျာဉ်),Bago River Road,Dagon Seikkan
+787,Shit-sae-koe Kwae,16.842434,96.279679,(၈၉) ကွေ့,Kun At Min Thar Road,Dagon Seikkan
+788,Shit-sae-koe Kwae,16.842396,96.279742,(၈၉) ကွေ့,Kun At Min Thar Road,Dagon Seikkan
+789,Padauk Kwae,16.827115,96.269269,ပိတောက်ကွေ့,Kyun Shwe Wah Road,Dagon Seikkan
+790,Padauk Kwae,16.827136,96.269229,ပိတောက်ကွေ့,Kyun Shwe Wah Road,Dagon Seikkan
+791,Sae-Tit Lan,16.823557,96.267862,(၁၁) လမ်း,Kyun Shwe Wah Road,Dagon Seikkan
+792,Sae-Tit Lan,16.823533,96.267919,(၁၁) လမ်း,Kyun Shwe Wah Road,Dagon Seikkan
+795,Nwe Thar Gi,16.909648,96.156563,နွယ်သာဂီ,Khaymarthi Road,North Okkalapa
+796,Nwe Thar Gi,16.909884,96.156803,နွယ်သာဂီ,Khaymarthi Road,North Okkalapa
+797,May Dar Wi,16.899142,96.154958,မေဓာဝီ,Khaymarthi Road,North Okkalapa
+798,May Dar Wi,16.899902,96.154726,မေဓာဝီ,Khaymarthi Road,North Okkalapa
+799,Mya Yadanar,16.908166,96.155219,မြရတနာ,Khaymarthi Road,North Okkalapa
+800,Mya Yadanar,16.908164,96.155368,မြရတနာ,Khaymarthi Road,North Okkalapa
+801,Oakkar,16.902636,96.154599,ဥက္ကာ,Khaymarthi Road,North Okkalapa
+802,Oakkar,16.903042,96.154502,ဥက္ကာ,Khaymarthi Road,North Okkalapa
+805,Yoke Shin Yon,16.911175,96.160079,ရုပ်ရှင်ရုံ,Khaymarthi Road,North Okkalapa
+806,Yoke Shin Yon,16.911247,96.160115,ရုပ်ရှင်ရုံ,Khaymarthi Road,North Okkalapa
+807,Yone,16.906181,96.154698,ရုံး,Khaymarthi Road,North Okkalapa
+808,Yone,16.906204,96.154612,ရုံး,Khaymarthi Road,North Okkalapa
+809,Dhamar Yon,16.924184,96.157897,ဓမ္မာရုံ,Thudhamar Road,North Okkalapa
+810,Dhamar Yon,16.924162,96.158154,ဓမ္မာရုံ,Thudhamar Road,North Okkalapa
+812,Aung Mingalar A Way Pyay,16.926507,96.156078,အောင်မင်္ဂလာအဝေးပြေး,Thudhamar Road,North Okkalapa
+813,Aung Mingalar A Way Pyay,16.926474,96.156261,အောင်မင်္ဂလာအဝေးပြေး,Thudhamar Road,North Okkalapa
+814,Tat Htate,16.929566,96.154652,တပ်ထိပ်,Thudhamar Road,North Okkalapa
+815,Tat Htate,16.930007,96.154865,တပ်ထိပ်,Thudhamar Road,North Okkalapa
+818,Chauk Kwae,16.919091,96.162873,(၆) ကွေ့,Thudhamar Road,North Okkalapa
+819,Chauk Kwae,16.91846,96.16299,(၆) ကွေ့,Thudhamar Road,North Okkalapa
+820,Chauk Kwae,16.918907,96.163312,(၆) ကွေ့,Wai Bargi Road,North Okkalapa
+821,Chauk Kwae,16.918676,96.162578,(၆) ကွေ့,Wai Bargi Road,North Okkalapa
+822,Kar Gyi Gate,16.921713,96.171916,ကားကြီးဂိတ်,Wai Bargi Road,North Okkalapa
+823,Kar Gyi Gate,16.921852,96.172613,ကားကြီးဂိတ်,Wai Bargi Road,North Okkalapa
+824,Kar Gyi Gate,16.92179,96.171892,ကားကြီးဂိတ်,Wai Bargi Road,North Okkalapa
+825,Kyaung Lan,16.920714,96.167502,ကျောင်းလမ်း,Wai Bargi Road,North Okkalapa
+826,Kyaung Lan,16.920919,96.167799,ကျောင်းလမ်း,Wai Bargi Road,North Okkalapa
+827,Hmaw Kyun,16.922991,96.176299,မော်ကျွန်း,Bagan Road,North Dagon
+828,Hmaw Kyun,16.923073,96.176283,မော်ကျွန်း,Bagan Road,North Dagon
+829,Mee Thet,16.928064,96.183717,မီးသတ်,Bagan Road,North Okkalapa
+830,Mee Thet,16.928021,96.183518,မီးသတ်,Bagan Road,North Okkalapa
+831,Min Htoo Kyaw,16.926635,96.182047,မင်းထူးကျော်,Bagan Road,North Dagon
+833,Min Htoo Kyaw,16.926872,96.182244,မင်းထူးကျော်,Bagan Road,North Dagon
+834,Sal Myaung,16.924398,96.179411,ဆည်မြောင်း,Bagan Road,North Dagon
+835,Sal Myaung,16.924488,96.179371,ဆည်မြောင်း,Bagan Road,North Dagon
+838,Say Yon Kwae,16.930083,96.186191,ဆေးရုံကွေ့,Bagan Road,North Dagon
+839,Say Yon Kwae,16.93016,96.186101,ဆေးရုံကွေ့,Bagan Road,North Dagon
+842,Eindar,16.906969,96.16621,က္ကန္ဒာ,Thudhamar Road,North Okkalapa
+843,Eindar,16.90722,96.166135,က္ကန္ဒာ,Thudhamar Road,North Okkalapa
+844,Gate Haung Kwae,16.914071,96.17312,ဂိတ်ဟောင်းကွေ.,Khaymarthi Road,North Okkalapa
+846,Gate Haung Kwae,16.914128,96.173142,ဂိတ်ဟောင်းကွေ.,Khaymarthi Road,North Okkalapa
+847,Kan Tharyar,16.91307,96.165969,ကန်သာယာ,Khaymarthi Road,North Okkalapa
+848,Kan Tharyar,16.912555,96.165631,ကန်သာယာ,Thudhamar Road,North Okkalapa
+849,Kan Tharyar,16.913261,96.165377,ကန်သာယာ,Thudhamar Road,North Okkalapa
+850,Kan Tharyar,16.91322,96.165191,ကန်သာယာ,Thudhamar Road,North Okkalapa
+851,Kyaung Lan,16.913998,96.169365,ကျောင်းလမ်း,Khaymarthi Road,North Okkalapa
+852,Kyaung Lan,16.914037,96.169345,ကျောင်းလမ်း,Khaymarthi Road,North Okkalapa
+853,Kyoe Tadar,16.908271,96.172323,ကြိုးတံတား,Karuna Road,North Okkalapa
+854,Kyoe Tadar,16.908349,96.172353,ကြိုးတံတား,Karuna Road,North Okkalapa
+855,Myittar,16.911767,96.172823,မေတ္တာ,Thu Nandar Road,North Okkalapa
+856,Myittar,16.911973,96.172931,မေတ္တာ,Thu Nandar Road,North Okkalapa
+857,Ou Zanar,16.910726,96.166001,ဥဇ္ဇနာ,Thudhamar Road,North Okkalapa
+858,Ou Zanar,16.910967,96.165856,ဥဇ္ဇနာ,Thudhamar Road,North Okkalapa
+859,Sabei,16.914137,96.170832,စံပယ်,Khaymarthi Road,North Okkalapa
+860,Sabei,16.914213,96.170863,စံပယ်,Khaymarthi Road,North Okkalapa
+861,Thandar,16.898929,96.162291,သန္တာ,Thudhamar Road,North Okkalapa
+862,Thandar,16.899058,96.162163,သန္တာ,Thudhamar Road,North Okkalapa
+863,Thu Nandar,16.904362,96.165708,သုနန္ဒာ,Thudhamar Road,North Okkalapa
+864,Thu Nandar,16.903951,96.165427,သုနန္ဒာ,Thudhamar Road,North Okkalapa
+865,Waziyar,16.901507,96.16437,ဝဇီယာ,Thudhamar Road,North Okkalapa
+866,Waziyar,16.901323,96.164128,ဝဇီယာ,Thudhamar Road,North Okkalapa
+867,Za-myin-zwe Zay,16.911714,96.161796,(ဈ) ဈေး,Khaymarthi Road,North Okkalapa
+870,Duyar Lan,16.907541,96.181827,ဒူးယားလမ်း,Yarza Thingyan Road,North Dagon
+871,Duyar Lan,16.907581,96.182259,ဒူးယားလမ်း,Yarza Thingyan Road,North Dagon
+872,Dawei Gyaung,16.907723,96.176775,ထားဝယ်ချောင်,Yarza Thingyan Road,North Dagon
+873,Dawei Gyaung,16.90782,96.176711,ထားဝယ်ချောင်,Yarza Thingyan Road,North Dagon
+874,Kyan Mar Yae,16.907604,96.184924,ကျန်းမာရေး,Yarza Thingyan Road,North Dagon
+875,Kyan Mar Yae,16.907718,96.185024,ကျန်းမာရေး,Yarza Thingyan Road,North Dagon
+878,Ngar-sae Kwae,16.908472,96.187022,(၅၀) ကွေ့,Pyi Htaung Su Main Road,North Dagon
+879,Ngar-sae Kwae,16.908525,96.187086,(၅၀) ကွေ့,Pyi Htaung Su Main Road,North Dagon
+880,Yone Shae,16.887568,96.19861,ရုံးရှေ့,Pyi Htaung Su Main Road,North Dagon
+881,Yone Shae,16.887461,96.198773,ရုံးရှေ့,Pyi Htaung Su Main Road,North Dagon
+882,Ga-gyi Zay,16.896452,96.159434,(ဃ) ဈေး,Thudhamar Road,North Okkalapa
+883,Ga-gyi Zay,16.89677,96.159541,(ဃ) ဈေး,Thudhamar Road,North Okkalapa
+884,Gate Haung,16.893741,96.157579,ဂိတ်ဟောင်း,Industrial Road,North Okkalapa
+885,Kyauk Yae Twin,16.887911,96.154289,ကျောက်ရေတွင်း,Thudhamar Road,North Okkalapa
+886,Kyauk Yae Twin,16.889508,96.153712,ကျောက်ရေတွင်း,Thudhamar Road,North Okkalapa
+887,Myauk Okkalar Awine,16.89274,96.155061,မြောက်ဥက္ကလာအဝိုင်း,Thudhamar Road,North Okkalapa
+888,Myauk Okkalar Awine,16.892733,96.154689,မြောက်ဥက္ကလာအဝိုင်း,Thudhamar Road,North Okkalapa
+889,Phone Gyi Lan,16.881882,96.155511,ဘုန်းကြီးလမ်း,Thudhamar Road,North Okkalapa
+890,Phone Gyi Lan,16.882091,96.155217,ဘုန်းကြီးလမ်း,Thudhamar Road,North Okkalapa
+891,Yone Thit,16.895891,96.155854,ရုံးသစ်,Khaymarthi Road,North Okkalapa
+892,Yone Thit,16.89591,96.155777,ရုံးသစ်,Khaymarthi Road,North Okkalapa
+893,Gandar Yon,16.886544,96.164043,ဂန္ဓာရုံ,Bo Hmu Ba Htoo Road,North Dagon
+894,Gandar Yon,16.886599,96.164116,ဂန္ဓာရုံ,Bo Hmu Ba Htoo Road,North Dagon
+895,Khay Mar,16.885601,96.167122,ခေမာ,Bo Hmu Ba Htoo Road,North Dagon
+896,Khay Mar,16.885808,96.167793,ခေမာ,Bo Hmu Ba Htoo Road,North Dagon
+897,Khay Mar,16.885838,96.167698,ခေမာ,Bo Hmu Ba Htoo Road,North Dagon
+898,Kyaung Kwae,16.889468,96.174992,ကျောင်းကွေ့,Bo Hmu Ba Htoo Road,North Dagon
+899,Kyaung Kwae,16.889535,96.174954,ကျောင်းကွေ့,Bo Hmu Ba Htoo Road,North Dagon
+900,Phyo Sabei,16.887428,96.170941,ဖြိုးစံပယ်,Bo Hmu Ba Htoo Road,North Dagon
+901,Phyo Sabei,16.887479,96.170905,ဖြိုးစံပယ်,Bo Hmu Ba Htoo Road,North Dagon
+902,Ba Htoo Zay,16.89564,96.187053,ဗထူးဈေး,Bo Hmu Ba Htoo Road,North Dagon
+903,Ba Htoo Zay,16.895778,96.186991,ဗထူးဈေး,Bo Hmu Ba Htoo Road,North Dagon
+904,Banyardala,16.894691,96.185181,ဗညားဒလ,Bo Hmu Ba Htoo Road,North Dagon
+905,Banyardala,16.894789,96.185105,ဗညားဒလ,Bo Hmu Ba Htoo Road,North Dagon
+914,Kyan Mar Yae,16.891392,96.178698,ကျန်းမာရေး,Bo Hmu Ba Htoo Road,North Dagon
+915,Kyan Mar Yae,16.891451,96.178661,ကျန်းမာရေး,Bo Hmu Ba Htoo Road,North Dagon
+916,Kyaung Lay Shae,16.893628,96.18304,ကျောင်းလေးရှေ့,Bo Hmu Ba Htoo Road,North Dagon
+917,Kyaung Lay Shae,16.893696,96.183049,ကျောင်းလေးရှေ့,Bo Hmu Ba Htoo Road,North Dagon
+918,Lay-sae-lay Lan Sone,16.89259,96.181006,(၄၄) လမ်းဆုံ,Bo Hmu Ba Htoo Road,North Dagon
+919,Lay-sae-lay Lan Sone,16.892697,96.181052,(၄၄) လမ်းဆုံ,Bo Hmu Ba Htoo Road,North Dagon
+925,Khun/ Shit Lan Sone,16.891066,96.196774,(၇/၈) လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+926,Khun/ Shit Lan Sone,16.890983,96.196695,(၇/၈) လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+927,Khun/ Shit Lan Sone,16.892317,96.196048,(၇/၈) လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+928,Kone Padaythar,16.884204,96.200473,ကုန်ပဒေသာ,Pyi Htaung Su Main Road,North Dagon
+929,Kone Padaythar,16.884233,96.200554,ကုန်ပဒေသာ,Pyi Htaung Su Main Road,North Dagon
+930,Kyar Hmat Taing,16.89754,96.190648,ကြားမှတ်တိုင်,Bo Hmu Ba Htoo Road,North Dagon
+931,Kyar Hmat Taing,16.897672,96.190745,ကြားမှတ်တိုင်,Bo Hmu Ba Htoo Road,North Dagon
+935,Lay-sae-nga Hmat Taing,16.89475,96.194728,(၄၅) မှတ်တိုင်,Pyi Htaung Su Main Road,North Dagon
+936,Lay-sae-nga Hmat Taing,16.89524,96.194346,(၄၅) မှတ်တိုင်,Pyi Htaung Su Main Road,North Dagon
+945,Bo Min Gaung,16.890508,96.21328,ဗိုလ်မင်းခေါင်,Tapin Shwe Htee Road,North Dagon
+946,Bo Min Gaung,16.891267,96.213731,ဗိုလ်မင်းခေါင်,Tapin Shwe Htee Road,North Dagon
+951,Kyaung Lan Htate,16.889625,96.211413,ကျောင်းလမ်းထိပ်,Tapin Shwe Htee Road,North Dagon
+952,Kyaung Lan Htate,16.889974,96.211392,ကျောင်းလမ်းထိပ်,Tapin Shwe Htee Road,North Dagon
+963,Thone-sae-chauk Gate Haung,16.891842,96.215769,(၃၆) ဂိတ်ဟောင်း,Tapin Shwe Htee Road,North Dagon
+964,Thone-sae-chauk Gate Haung,16.892253,96.215533,(၃၆) ဂိတ်ဟောင်း,Tapin Shwe Htee Road,North Dagon
+967,Sae-Thone Gate,16.888208,96.226283,(၁၃) ဂိတ်,Kyansitthar Road,East Dagon
+968,Sae-Thone Gate,16.88868,96.226562,(၁၃) ဂိတ်,Kyansitthar Road,East Dagon
+969,Sae-Hnit Gate,16.893526,96.219009,(၁၂) ဂိတ်,Kyansitthar Road,East Dagon
+970,Sae-Hnit Gate,16.893321,96.218752,(၁၂) ဂိတ်,Kyansitthar Road,East Dagon
+973,Phone Gyi Lan,16.892068,96.220533,ဘုန်းကြီးလမ်း,Kyansitthar Road,East Dagon
+974,Phone Gyi Lan,16.892561,96.220962,ဘုန်းကြီးလမ်း,Kyansitthar Road,East Dagon
+975,Sadon Duu War,16.890528,96.222872,ဆဒုံဒူးဝါး,Kyansitthar Road,East Dagon
+976,Sadon Duu War,16.891083,96.223108,ဆဒုံဒူးဝါး,Kyansitthar Road,East Dagon
+977,Nar Yee Sin,16.866016,96.182987,နာရီစင်,Pin Lon Road,North Dagon
+978,Nar Yee Sin,16.86612,96.182842,နာရီစင်,Pin Lon Road,North Dagon
+979,Ah Kyaw Tae,16.874492,96.174237,အကြော်တဲ,U Wisara Road,North Dagon
+980,Ah Kyaw Tae,16.874506,96.174458,အကြော်တဲ,U Wisara Road,North Dagon
+981,Chauk Lan,16.8691,96.177924,(၆) လမ်း,U Wisara Road,North Dagon
+982,Chauk Lan,16.869185,96.177677,(၆) လမ်း,U Wisara Road,North Dagon
+983,Hong Kong,16.871791,96.176232,ဟောင်ကောင်,U Wisara Road,North Dagon
+984,Hong Kong,16.872015,96.176258,ဟောင်ကောင်,U Wisara Road,North Dagon
+990,Thin Win,16.866754,96.184512,သင်းဝင်,Pin Lon Road,North Dagon
+991,Thin Win,16.86691,96.184525,သင်းဝင်,Pin Lon Road,North Dagon
+992,Thone-sae-ngar Kwae,16.868091,96.187002,(၃၅) ကွေ့,Pin Lon Road,North Dagon
+993,Thone-sae-ngar Kwae,16.8683,96.187134,(၃၅) ကွေ့,Pin Lon Road,North Dagon
+996,Kyaung Lan,16.87145,96.193793,ကျောင်းလမ်း,Pin Lon Road,North Dagon
+997,Kyaung Lan,16.871301,96.193052,ကျောင်းလမ်း,Pin Lon Road,North Dagon
+1000,Settwe Yae,16.869602,96.189987,ဆက်သွယ်ရေး,Pin Lon Road,North Dagon
+1001,Settwe Yae,16.869856,96.190173,ဆက်သွယ်ရေး,Pin Lon Road,North Dagon
+1002,Sittaung Lan,16.872829,96.196371,စစ်တောင်းလမ်း,Pin Lon Road,North Dagon
+1003,Sittaung Lan,16.872971,96.196308,စစ်တောင်းလမ်း,Pin Lon Road,North Dagon
+1004,Swan In,16.880808,96.202354,စွမ်းအင်,Pyi Htaung Su Main Road,North Dagon
+1005,Swan In,16.880792,96.202458,စွမ်းအင်,Pyi Htaung Su Main Road,North Dagon
+1006,Arr Kasar Kwin,16.872658,96.206313,အားကစားကွင်း,Pyi Htaung Su Main Road,North Dagon
+1007,Ka Pa Ya,16.869957,96.2074,ကပရ,Pyi Htaung Su Main Road,North Dagon
+1008,Ma Wa Ta,16.87736,96.204306,မဝတ,Pyi Htaung Su Main Road,North Dagon
+1009,Ma Wa Ta,16.876963,96.204224,မဝတ,Pin Lon Road,North Dagon
+1010,Tadar Htate,16.866146,96.20902,တံတားထိပ်,Pyi Htaung Su Main Road,North Dagon
+1011,Lay Kyaung,16.874543,96.227658,လေကျောင်း,No. 2 Main Road,South Dagon
+1012,Lay Kyaung,16.874656,96.227508,လေကျောင်း,No. 2 Main Road,South Dagon
+1013,Tat Yin Thone,16.878229,96.230341,တပ်ရင်း (၃),No. 2 Main Road,South Dagon
+1014,Tat Yin Thone,16.878599,96.230459,တပ်ရင်း (၃),No. 2 Main Road,South Dagon
+1015,Thin Tan Kyaung,16.871166,96.225125,သင်တန်းကျောင်း,No. 2 Main Road,South Dagon
+1016,Thin Tan Kyaung,16.871298,96.224895,သင်တန်းကျောင်း,No. 2 Main Road,South Dagon
+1017,A Aye Saing,16.903215,96.190032,အအေးဆိုင်,Pyi Htaung Su Main Road,North Dagon
+1018,A Aye Saing,16.903536,96.18977,အအေးဆိုင်,Pyi Htaung Su Main Road,North Dagon
+1019,Lay-sae-chauk Hmat Taing,16.898431,96.192738,(၄၆) မှတ်တိုင်,Pyi Htaung Su Main Road,North Dagon
+1020,Lay-sae-chauk Hmat Taing,16.898701,96.192479,(၄၆) မှတ်တိုင်,Pyi Htaung Su Main Road,North Dagon
+1021,Lay-sae-chauk Lan Sone,16.898455,96.192475,(၄၆) လမ်းဆုံ,Bo Hmu Ba Htoo Road,North Dagon
+1022,Lay-sae-chauk Lan Sone,16.898651,96.192679,(၄၆) လမ်းဆုံ,Bo Hmu Ba Htoo Road,North Dagon
+1023,Myawaddy,16.901472,96.190893,မြဝတီ,Pyi Htaung Su Main Road,North Dagon
+1024,Myawaddy,16.901493,96.190987,မြဝတီ,Pyi Htaung Su Main Road,North Dagon
+1025,Sein Pan,16.900506,96.196462,စိန်ပန်း,Bo Hmu Ba Htoo Road,North Dagon
+1026,Sein Pan,16.900613,96.196505,စိန်ပန်း,Bo Hmu Ba Htoo Road,North Dagon
+1027,Zay Lay,16.901286,96.197918,ဈေးလေး,Bo Hmu Ba Htoo Road,North Dagon
+1028,Zay Lay,16.901389,96.198009,ဈေးလေး,Bo Hmu Ba Htoo Road,North Dagon
+1029,Awine,16.910383,96.21343,အဝိုင်း,Dagon University,North Dagon
+1030,Awine,16.910664,96.212889,အဝိုင်း,Dagon University,North Dagon
+1031,Dagon Takke Tho,16.916878,96.212859,ဒဂုံတက္ကသိုလ်,Dagon University,North Dagon
+1032,Moke Wa,16.902379,96.21724,မုခ်ဝ,Min Ye Kyaw Swar Road,North Dagon
+1033,Moke Wa,16.902558,96.217155,မုခ်ဝ,Min Ye Kyaw Swar Road,North Dagon
+1034,Moke Wa,16.904514,96.204163,မုခ်ဝ,Bo Hmu Ba Htoo Road,North Dagon
+1035,Moke Wa,16.904565,96.204101,မုခ်ဝ,Bo Hmu Ba Htoo Road,North Dagon
+1036,Yone Shae,16.914898,96.210383,ရုံးရှေ့,Dagon University,North Dagon
+1037,Si Pin,16.930661,96.235281,စည်ပင်,Min Ye Kyaw Swar Road,East Dagon
+1038,Si Pin,16.930883,96.235631,စည်ပင်,Min Ye Kyaw Swar Road,East Dagon
+1039,Baho Zay,16.840565,96.17272,ဗဟိုဈေး,Thitsar Road,Yankin
+1040,Baho Zay,16.840362,96.172768,ဗဟိုဈေး,Thitsar Road,Yankin
+1041,Kyauk Kone,16.831231,96.169702,ကျောက်ကုန်း,Moe Kaung Road,Yankin
+1042,Kyauk Kone,16.831339,96.169832,ကျောက်ကုန်း,Moe Kaung Road,Yankin
+1043,Kyauk Kone Htate,16.832317,96.166994,ကျောက်ကုန်းထိပ်,Aung Zeya Road,Yankin
+1044,Kyauk Kone Htate,16.832501,96.166892,ကျောက်ကုန်းထိပ်,Aung Zeya Road,Yankin
+1047,Moe Kaung,16.837755,96.166164,မိုးကောင်း,Kanbe Road,Yankin
+1048,Than Lan,16.838986,96.169914,သံလမ်း,Kanbe Road,Yankin
+1049,Than Lan,16.833597,96.172949,သံလမ်း,Yadanar Road,Yankin
+1050,Than Lan,16.833704,96.172897,သံလမ်း,Yadanar Road,Yankin
+1051,Yankin Sar Taik,16.834688,96.162728,ရန်ကင်းစာတိုက်,Yankin Road,Yankin
+1052,Yankin Sar Taik,16.834796,96.1626,ရန်ကင်းစာတိုက်,Yankin Road,Yankin
+1053,Aung Yadanar,16.835243,96.186482,အောင်ရတနာ,Thu Mingalar Road,South Okkalapa
+1054,Aung Yadanar,16.835304,96.186638,အောင်ရတနာ,Thu Mingalar Road,South Okkalapa
+1055,Kalar Paya,16.834791,96.180452,ကုလားဘုရား,Yadanar Road,Thingangyun
+1056,Kalar Paya,16.834883,96.180404,ကုလားဘုရား,Yadanar Road,Thingangyun
+1057,Ponnami,16.843635,96.177033,ပုဏ္ဏမီ,Thitsar Road,South Okkalapa
+1058,Ponnami,16.843469,96.176554,ပုဏ္ဏမီ,Thitsar Road,South Okkalapa
+1059,Sae-Chauk Kwae,16.833764,96.176424,(၁၆) ကွေ့,Yadanar Road,Thingangyun
+1060,Sae-Chauk Kwae,16.833882,96.176488,(၁၆) ကွေ့,Yadanar Road,Thingangyun
+1061,Sar Taik,16.923592,96.133438,စာတိုက်,No. 1 Main Road,Mingalardon
+1062,Sar Taik,16.923187,96.133308,စာတိုက်,No. 1 Main Road,Mingalardon
+1065,Taung Okkalar Sar Taik,16.845928,96.179701,တောင်ဥက္ကလာစာတိုက်,Thitsar Road,South Okkalapa
+1066,Taung Okkalar Sar Taik,16.846384,96.179937,တောင်ဥက္ကလာစာတိုက်,Thitsar Road,South Okkalapa
+1067,Taung Okkalar Sar Taik,16.846687,96.179389,တောင်ဥက္ကလာစာတိုက်,Thu Mingalar Road,South Okkalapa
+1068,Taung Okkalar Sar Taik,16.846759,96.179625,တောင်ဥက္ကလာစာတိုက်,Thu Mingalar Road,South Okkalapa
+1069,Thayet Taw,16.832619,96.187951,သရက်တော,Thu Mingalar Road,Thingangyun
+1070,Yadanar Zay,16.835869,96.18307,ရတနာဈေး,Yadanar Road,Thingangyun
+1071,Yadanar Zay,16.835962,96.183033,ရတနာဈေး,Yadanar Road,Thingangyun
+1072,Yone Shae,16.844541,96.181267,ရုံးရှေ့,Thu Mingalar Road,South Okkalapa
+1073,Bay Li,16.860898,96.177126,ဘေလီ,Parami Road,South Okkalapa
+1074,Bay Li,16.86095,96.177093,ဘေလီ,Parami Road,South Okkalapa
+1075,Bay Li,16.859816,96.178963,ဘေလီ,Thanthumar Road,South Okkalapa
+1076,Inwa,16.849503,96.177506,အင်းဝ,Thu Mingalar Road,South Okkalapa
+1077,Inwa,16.849541,96.17771,အင်းဝ,Thu Mingalar Road,South Okkalapa
+1078,Myin Thar Zay,16.856761,96.181798,မြင်သာဈေး,Thanthumar Road,South Okkalapa
+1079,Myin Thar Zay,16.856844,96.181883,မြင်သာဈေး,Thanthumar Road,South Okkalapa
+1080,Paya Lan,16.847858,96.181458,ဘုရားလမ်း,Thitsar Road,South Okkalapa
+1081,Pinya,16.85943,96.176149,ပင်းယ,Parami Road,South Okkalapa
+1082,Taung Okkalar Paya,16.852719,96.185283,တောင်ဥက္ကလာပဘုရား,Thanthumar Road,South Okkalapa
+1083,Taung Okkalar Paya,16.852814,96.18543,တောင်ဥက္ကလာပဘုရား,Thanthumar Road,South Okkalapa
+1086,Moe Swe,16.850044,96.189497,မိုးစွေ,Thanthumar Road,South Okkalapa
+1087,Moe Swe,16.850142,96.189605,မိုးစွေ,Thanthumar Road,South Okkalapa
+1088,Thone-sae-tit Gate/ Tit Gate,16.848939,96.194274,(၃၁) ဂိတ်/(၁) ဂိတ်,Thanthumar Road,South Okkalapa
+1089,Se Man Kane,16.847434,96.19841,စီမံကိန်း,Thanthumar Road,South Okkalapa
+1090,Se Man Kane,16.847484,96.198476,စီမံကိန်း,Thanthumar Road,South Okkalapa
+1094,Awine,16.922555,96.054804,အဝိုင်း,West University Road,Hlaing Tharyar
+1096,Awine,16.922602,96.054869,အဝိုင်း,West University Road,Hlaing Tharyar
+1097,Kyaung Lan,16.890025,96.040129,ကျောင်းလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1098,Kyaung Lan,16.890095,96.04008,ကျောင်းလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1099,Yoe Lay,16.902596,96.047129,ရိုးလေး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1100,Yoe Lay,16.902666,96.047065,ရိုးလေး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1101,Mile Hnat-sae,16.922576,96.06975,မိုင် (၂၀),Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1102,Mile Hnat-sae,16.922762,96.069577,မိုင် (၂၀),Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1103,Bago Lan,16.887055,96.038171,ပဲခူးလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1104,Bago Lan,16.887218,96.03839,ပဲခူးလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1105,Shwe Yin Aye Paya,16.892693,96.042629,ရွှေရင်အေးဘုရား,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1106,Shwe Yin Aye Paya,16.892614,96.042726,ရွှေရင်အေးဘုရား,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1107,Site Kar Gate,16.891052,96.04603,ဆိုက်ကားဂိတ်,Shwe Yin Aye Kyaung Road,Hlaing Tharyar
+1108,Site Kar Gate,16.890908,96.045772,ဆိုက်ကားဂိတ်,Shwe Yin Aye Kyaung Road,Hlaing Tharyar
+1109,Zay Lay,16.884307,96.036973,ဈေးလေး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1110,Zay Lay,16.884532,96.037183,ဈေးလေး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+1111,Ah Hta Ka Thone,16.888619,96.051468,အထက (၃),Bo Aung Kyaw Street,Hlaing Tharyar
+1112,Ah Hta Ka Thone,16.889009,96.051317,အထက (၃),Bo Aung Kyaw Street,Hlaing Tharyar
+1113,Shwe Myin Pyan,16.884579,96.049719,ရွှေမြင်းပျံ,Bo Aung Kyaw Street,Hlaing Tharyar
+1114,Shwe Myin Pyan,16.884522,96.049813,ရွှေမြင်းပျံ,Bo Aung Kyaw Street,Hlaing Tharyar
+1115,Yin Htun,16.889769,96.048567,ရင်ထွန်း,Shwe Yin Aye Kyaung Street,Hlaing Tharyar
+1116,Yin Htun,16.889899,96.048591,ရင်ထွန်း,Shwe Yin Aye Kyaung Street,Hlaing Tharyar
+1118,Koe-Sae-Chauk Gate Haung,16.896708,96.064146,(၉၆) ဂိတ်ဟောင်း,Kyansitthar Road,Hlaing Tharyar
+1120,Shwe Thee Lay,16.891883,96.062883,ရွှေသီးလေး,Kyansitthar Road,Hlaing Tharyar
+1121,B.O.C,16.872649,96.03751,ဘီအိုစီ,No. 5 Main Road,Hlaing Tharyar
+1122,B.O.C,16.87254,96.0374,ဘီအိုစီ,No. 5 Main Road,Hlaing Tharyar
+1123,Sanay Ma,16.872309,96.041574,စနေမ,No. 5 Main Road,Hlaing Tharyar
+1124,Sanay Ma,16.872406,96.0416,စနေမ,No. 5 Main Road,Hlaing Tharyar
+1125,Thama Kone,16.874114,96.033579,သမကုန်း,No. 5 Main Road,Hlaing Tharyar
+1126,Thama Kone,16.874179,96.033695,သမကုန်း,No. 5 Main Road,Hlaing Tharyar
+1127,Chauk Tha Ma,16.879322,96.050608,(၆) သမ,Bo Aung Kyaw Road,Hlaing Tharyar
+1128,Chauk Tha Ma,16.879271,96.050704,(၆) သမ,Bo Aung Kyaw Road,Hlaing Tharyar
+1129,Mee Khwat Zay,16.874628,96.051537,မီးခွက်ဈေး,Bo Aung Kyaw Road,Hlaing Tharyar
+1130,Mee Khwat Zay,16.87372,96.050646,မီးခွက်ဈေး,Nyaung Done Road,Hlaing Tharyar
+1131,Mee Khwat Zay,16.874082,96.051997,မီးခွက်ဈေး,Nyaung Done Road,Hlaing Tharyar
+1132,Sauk Lote Yae,16.863965,96.055295,ဆောက်လုပ်ရေး,No. 5 Main Road,Hlaing Tharyar
+1133,Sauk Lote Yae,16.864181,96.055286,ဆောက်လုပ်ရေး,No. 5 Main Road,Hlaing Tharyar
+1134,Ngar Htate,16.876926,96.071316,(၅) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+1135,Ngar Htate,16.877059,96.071282,(၅) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+1138,Thone Htate,16.87758,96.075094,(၃) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+1139,Thone Htate,16.877696,96.075061,(၃) ထိပ်,Nyaung Done Road,Hlaing Tharyar
+1144,Paya Lan,16.862165,96.064365,ဘုရားလမ်း,No. 5 Main Road,Hlaing Tharyar
+1145,Paya Lan,16.862317,96.06468,ဘုရားလမ်း,No. 5 Main Road,Hlaing Tharyar
+1146,Zay Lay,16.865795,96.064644,ဈေးလေး,Kyansitthar Road,Hlaing Tharyar
+1148,Ah Sint Myint,16.859974,96.073195,အဆင့်မြင့်,No. 5 Main Road,Hlaing Tharyar
+1149,Ah Sint Myint,16.859898,96.072637,အဆင့်မြင့်,No. 5 Main Road,Hlaing Tharyar
+1152,Bogyoke,16.858331,96.077607,ဗိုလ်ချုပ်,No. 5 Main Road,Hlaing Tharyar
+1153,Bogyoke,16.858363,96.076993,ဗိုလ်ချုပ်,No. 5 Main Road,Hlaing Tharyar
+1154,Set Hmu Zone,16.856658,96.082186,စက်မှုဇုံ,No. 5 Main Road,Hlaing Tharyar
+1155,Set Hmu Zone,16.856749,96.082351,စက်မှုဇုံ,No. 5 Main Road,Hlaing Tharyar
+1156,Tat Htate,16.854992,96.086734,တပ်ထိပ်,No. 5 Main Road,Hlaing Tharyar
+1157,Tat Htate,16.854893,96.087846,တပ်ထိပ်,No. 5 Main Road,Hlaing Tharyar
+1160,Butar Yon Lan,16.836931,96.113665,ဘူတာရုံလမ်း,Bayint Naung Road,Hlaing
+1161,Butar Yon Lan,16.837755,96.11336,ဘူတာရုံလမ်း,Bayint Naung Road,Hlaing
+1162,Chaung Wa,16.833543,96.11603,ချောင်းဝ,Bayint Naung Road,Hlaing
+1163,Chaung Wa,16.833749,96.116288,ချောင်းဝ,Bayint Naung Road,Hlaing
+1164,O One,16.84079,96.112736,အိုဝမ်း,Bayint Naung Road,Hlaing
+1165,O One,16.840953,96.112497,အိုဝမ်း,Bayint Naung Road,Hlaing
+1166,Padauk Chaung/Thiri Mingalar Market,16.843603,96.112299,ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်,Bayint Naung Road,Hlaing
+1167,Padauk Chaung/Thiri Mingalar Market,16.843204,96.112132,ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်,Bayint Naung Road,Hlaing
+1168,Butar Yon Lan,16.837085,96.121295,ဘူတာရုံလမ်း,Baho Road,Hlaing
+1169,Butar Yon Lan,16.837213,96.121131,ဘူတာရုံလမ်း,Baho Road,Hlaing
+1170,Butar Yon Lan,16.837297,96.127752,ဘူတာရုံလမ်း,Yangon-Insein Road,Hlaing
+1171,Butar Yon Lan,16.837466,96.127449,ဘူတာရုံလမ်း,Yangon-Insein Road,Hlaing
+1172,Kamayut,16.840068,96.12051,ကမာရွတ်,Baho Road,Hlaing
+1173,Kamayut,16.840503,96.120273,ကမာရွတ်,Baho Road,Hlaing
+1174,San Yeik Nyein,16.830802,96.129527,စံရိပ်ငြိမ်,Yangon-Insein Road,Kamayut
+1175,San Yeik Nyein,16.831942,96.129545,စံရိပ်ငြိမ်,Yangon-Insein Road,Kamayut
+1176,Sin Yae Twin,16.833769,96.128565,ဆင်ရေတွင်း,Yangon-Insein Road,Kamayut
+1177,Sin Yae Twin,16.834326,96.128639,ဆင်ရေတွင်း,Yangon-Insein Road,Kamayut
+1178,Site Kar Gate,16.831456,96.123502,ဆိုက်ကားဂိတ်,Baho Road,Kamayut
+1179,Than Lan,16.845174,96.12593,သံလမ်း,Yangon-Insein Road,Hlaing
+1180,Than Lan,16.846071,96.125475,သံလမ်း,Yangon-Insein Road,Hlaing
+1181,Thukha,16.84047,96.127017,သုခ,Yangon-Insein Road,Hlaing
+1182,Thukha,16.840511,96.12683,သုခ,Yangon-Insein Road,Hlaing
+1183,Ywarma Kwae,16.833338,96.120733,ရွာမကွေ့,Bayint Naung Road,Hlaing
+1184,Ywarma Kwae,16.833461,96.119521,ရွာမကွေ့,Bayint Naung Road,Hlaing
+1185,Ywarma Kwae,16.834442,96.122012,ရွာမကွေ့,Baho Road,Hlaing
+1186,Chauk Mile Khawe,16.844326,96.135839,(၆) မိုင်ခွဲ,Pyay Road,Mayangone
+1187,Chauk Mile Khawe,16.844405,96.135706,(၆) မိုင်ခွဲ,Pyay Road,Mayangone
+1188,Marlar,16.832547,96.132826,မာလာ,Pyay Road,Kamayut
+1189,Marlar,16.832085,96.132472,မာလာ,Pyay Road,Kamayut
+1190,Tadar Phyu,16.83915,96.134757,တံတားဖြူ,Pyay Road,Hlaing
+1191,Tadar Phyu,16.837024,96.13421,တံတားဖြူ,Pyay Road,Hlaing
+1192,Bayint Naung Lan Sone,16.856972,96.108657,ဘုရင့်နောင်လမ်းဆုံ,Bayint Naung Road,Mayangone
+1193,Bayint Naung Lan Sone,16.862483,96.107566,ဘုရင့်နောင်လမ်းဆုံ,Bayint Naung Road,Mayangone
+1194,Bayint Naung Lan Sone,16.859507,96.109374,ဘုရင့်နောင်လမ်းဆုံ,Thamine Buteryon Road,Mayangone
+1195,Bayint Naung Lan Sone,16.85929,96.109229,ဘုရင့်နောင်လမ်းဆုံ,Thamine Buteryon Road,Mayangone
+1196,Buya,16.851361,96.109222,ဘုရ,Bayint Naung Road,Hlaing
+1197,Buya,16.851491,96.109528,ဘုရ,Bayint Naung Road,Hlaing
+1198,Oakyin,16.85443,96.116619,အုတ်ကျင်း,Baho Road,Hlaing
+1199,Oakyin,16.855305,96.116295,အုတ်ကျင်း,Baho Road,Hlaing
+1200,Sit Kyawe Yae/ Shaw Yawe,16.848125,96.111181,စစ်ကြောရေး/ လျှော်ရွေး,Bayint Naung Road,Hlaing
+1201,Sit Kyawe Yae/ Shaw Yawe,16.848166,96.110891,စစ်ကြောရေး/ လျှော်ရွေး,Bayint Naung Road,Hlaing
+1202,Thamine Lan Son,16.860963,96.114929,သမိုင်းလမ်းဆုံ,Baho Road,Mayangone
+1203,Than Lan,16.845245,96.118978,သံလမ်း,Baho Road,Hlaing
+1204,Than Lan,16.845237,96.119108,သံလမ်း,Baho Road,Hlaing
+1205,Thiri Myaing,16.850027,96.117797,သီရိမြိုင်,Baho Road,Hlaing
+1206,Thiri Myaing,16.850142,96.117637,သီရိမြိုင်,Baho Road,Hlaing
+1207,Zay Butar,16.860185,96.112882,ဈေးဘူတာ,Thamine Buteryon Road,Mayangone
+1208,Zay Butar,16.860017,96.112899,ဈေးဘူတာ,Thamine Buteryon Road,Mayangone
+1211,Bartar,16.852029,96.124148,ဘာတာ,Yangon-Insein Road,Hlaing
+1212,Bartar,16.85115,96.124556,ဘာတာ,Yangon-Insein Road,Hlaing
+1216,Kyway Tit,16.861235,96.120601,ကြွေ (၁),Thamine Buteryon Road,Mayangone
+1217,Oakyin,16.854916,96.123917,အုတ်ကျင်း,Yangon-Insein Road,Hlaing
+1218,Oakyin,16.855354,96.123574,အုတ်ကျင်း,Yangon-Insein Road,Hlaing
+1219,Paya Lan,16.85845,96.12323,ဘုရားလမ်း,Yangon-Insein Road,Hlaing
+1220,Thamine Lan Son,16.863127,96.122465,သမိုင်းလမ်းဆုံ,Kyaik Wine Pagoda Road,Mayangone
+1221,Thamine Lan Son,16.863193,96.122404,သမိုင်းလမ်းဆုံ,Kyaik Wine Pagoda Road,Mayangone
+1222,Thamine Lan Son,16.863581,96.121281,သမိုင်းလမ်းဆုံ,Yangon-Insein Road,Mayangone
+1223,Thamine Lan Son,16.861021,96.122327,သမိုင်းလမ်းဆုံ,Yangon-Insein Road,Mayangone
+1224,U Ba Han,16.86117,96.118397,ဦးဘဟန်,Thamine Buteryon Road,Mayangone
+1225,U Ba Han,16.861057,96.118408,ဦးဘဟန်,Thamine Buteryon Road,Mayangone
+1228,A.D,16.853071,96.140559,အေဒီ,Pyay Road,Hlaing
+1229,A.D,16.853606,96.140901,အေဒီ,Pyay Road,Hlaing
+1233,Khun-hnat Mile,16.856031,96.141375,(၇) မိုင်,Pyay Road,Mayangone
+1234,Khun-hnat Mile,16.856072,96.141118,(၇) မိုင်,Pyay Road,Mayangone
+1235,Kyaung Kwae,16.84793,96.136581,ကျောင်းကွေ့,Pyay Road,Hlaing
+1236,Chaw Twin Kone,16.848967,96.1573,ချော်တွင်းကုန်း,Kabar Aye Pagoda Road,Mayangone
+1237,Chaw Twin Kone,16.850165,96.158064,ချော်တွင်းကုန်း,Parami Road,Mayangone
+1238,Kabar Aye Paya/ Paya Lan,16.856873,96.156653,ကမ္ဘာအေးဘုရားလမ်း,Kabar Aye Pagoda Road,Mayangone
+1239,Kabar Aye Paya/ Paya Lan,16.858239,96.156087,ကမ္ဘာအေးဘုရားလမ်း,Kabar Aye Pagoda Road,Mayangone
+1240,Sar Taik,16.862603,96.155366,စာတိုက်,Kabar Aye Pagoda Road,Mayangone
+1241,Yeik Thar,16.838337,96.15606,ရိပ်သာ,Kabar Aye Pagoda Road,Mayangone
+1242,Yeik Thar,16.837892,96.155686,ရိပ်သာ,Kabar Aye Pagoda Road,Mayangone
+1245,Lan Ni,16.833776,96.155361,လမ်းနီ,Kabar Aye Pagoda Road,Mayangone
+1246,Lan Ni,16.83385,96.155108,လမ်းနီ,Kabar Aye Pagoda Road,Mayangone
+1247,Kaytu Marlar Kwae,16.856264,96.172132,ကေတုမာလာကွေ့,Parami Road,South Okkalapa
+1248,Nyaung Pin,16.853851,96.168164,ညောင်ပင်,Parami Road,Mayangone
+1249,Nyaung Pin,16.854191,96.168454,ညောင်ပင်,Parami Road,Mayangone
+1250,Kalar Kyaung,16.864784,96.121143,ကုလားကျောင်း,Yangon-Insein Road,Mayangone
+1251,Kalar Kyaung,16.865468,96.12075,ကုလားကျောင်း,Yangon-Insein Road,Mayangone
+1252,Kha Wae Chan,16.869492,96.119748,ခဝဲခြံ,Yangon-Insein Road,Mayangone
+1253,Kha Wae Chan,16.869274,96.119569,ခဝဲခြံ,Yangon-Insein Road,Mayangone
+1254,Kyaik Wine,16.866536,96.128669,ကျိုက်ဝိုင်း,Kyaik Wine Pagoda Road,Mayangone
+1255,Kyaik Wine,16.866632,96.1287,ကျိုက်ဝိုင်း,Kyaik Wine Pagoda Road,Mayangone
+1256,Ye Yan Aung,16.866135,96.126088,ရဲရန်အောင်,Kyaik Wine Pagoda Road,Mayangone
+1257,Ye Yan Aung,16.866219,96.126031,ရဲရန်အောင်,Kyaik Wine Pagoda Road,Mayangone
+1258,A One,16.875519,96.138371,အေဝမ်း,Pyay Road,Mayangone
+1259,A One,16.877626,96.137671,အေဝမ်း,Pyay Road,Mayangone
+1260,Mahar Si,16.872314,96.139678,မဟာစည်,Pyay Road,Mayangone
+1261,Mahar Si,16.872527,96.139943,မဟာစည်,Pyay Road,Mayangone
+1262,Myaing Hay Wun,16.866588,96.143537,မြိုင်ဟေဝန်ပန်းခြံ,Kabar Aye Pagoda Road,Mayangone
+1265,Myaing Hay Wun,16.866762,96.143437,မြိုင်ဟေဝန်ပန်းခြံ,Kabar Aye Pagoda Road,Mayangone
+1266,Shit Mile,16.864713,96.141169,(၈) မိုင်,Kyaik Wine Pagoda Road,Mayangone
+1267,Shit Mile,16.86568,96.141602,(၈) မိုင်,Kyaik Wine Pagoda Road,Mayangone
+1268,Shit Mile,16.867475,96.141751,(၈) မိုင်,Pyay Road,Mayangone
+1269,Shit Mile,16.867916,96.141234,(၈) မိုင်,Pyay Road,Mayangone
+1270,Ye Baw Haung,16.867446,96.137343,ရဲဘော်ဟောင်း,Kyaik Wine Pagoda Road,Mayangone
+1271,Ye Baw Haung,16.867512,96.137336,ရဲဘော်ဟောင်း,Kyaik Wine Pagoda Road,Mayangone
+1272,Hnit Zay,16.879066,96.158233,(၂) ဈေး,Thuzitar Road,North Okkalapa
+1273,Hnit Zay,16.879179,96.158356,(၂) ဈေး,Thuzitar Road,North Okkalapa
+1274,Hnit Zay,16.878722,96.156081,(၂) ဈေး,Thudhamar Road,North Okkalapa
+1275,Hnit Zay,16.879023,96.15585,(၂) ဈေး,Thudhamar Road,North Okkalapa
+1276,Kyaung Kwae,16.881386,96.158051,ကျောင်းကွေ့,Phone Gyi Road,North Okkalapa
+1277,Kyaung Kwae,16.881479,96.158035,ကျောင်းကွေ့,Phone Gyi Road,North Okkalapa
+1278,Kyaung Lan,16.876771,96.15867,ကျောင်းလမ်း,Thuzitar Street,North Okkalapa
+1279,Kyaung Lan,16.876689,96.158391,ကျောင်းလမ်း,Thuzitar Street,North Okkalapa
+1280,Lan Wa/ Nawaday,16.867192,96.154638,လမ်းဝ/နဝဒေး,Thudhamar Road,North Okkalapa
+1281,Ngar Lan,16.874128,96.156913,(၅) လမ်း,Thudhamar Road,North Okkalapa
+1282,Oak Pon Seik,16.87365,96.159584,အုတ်ပုံဆိပ်,Thanthumar Road,North Okkalapa
+1283,Oak Pon Seik,16.873691,96.159359,အုတ်ပုံဆိပ်,Thanthumar Road,North Okkalapa
+1284,Phone Gyi Lan,16.775318,96.144917,ဘုန်းကြီးလမ်း,Phone Gyi Road,Lanmadaw
+1286,Lay-Thone-Ngar Hmat Taing,16.870478,96.16174,(၄၃၅) မှတ်တိုင်,Thanthumar Road,North Okkalapa
+1287,Lay-Thone-Ngar Hmat Taing,16.870354,96.161612,(၄၃၅) မှတ်တိုင်,Thanthumar Road,North Okkalapa
+1288,Lay-Thone-Chauk Hmat Taing,16.866689,96.168215,(၄၃၆) မှတ်တိုင်,Thanthumar Road,North Okkalapa
+1289,Lay-Thone-Chauk Hmat Taing,16.86673,96.167815,(၄၃၆) မှတ်တိုင်,Thanthumar Road,North Okkalapa
+1290,Kar Lay Gate,16.87786,96.171649,ကားလေးဂိတ်,U Wisara Road,North Dagon
+1291,Kar Lay Gate,16.877917,96.171775,ကားလေးဂိတ်,U Wisara Road,North Dagon
+1292,Saik Shae,16.875323,96.173,စိုက်ရှေ့,U Wisara Road,North Dagon
+1293,Saik Shae,16.875632,96.173029,စိုက်ရှေ့,U Wisara Road,North Dagon
+1294,A Way Pyay,16.888535,96.122893,အဝေးပြေး,Pyay Road,Insein
+1295,A Way Pyay,16.888652,96.123012,အဝေးပြေး,Pyay Road,Insein
+1296,Saw Bwar Gyi Kone Lan Sone,16.891841,96.120034,စော်ဘွားကြီးကုန်းလမ်းဆုံ,Pyay Road,Insein
+1297,Saw Bwar Gyi Kone Lan Sone,16.892049,96.119814,စော်ဘွားကြီးကုန်းလမ်းဆုံ,Pyay Road,Insein
+1298,Koe Mile,16.880519,96.13626,(၉) မိုင်,Pyay Road,Mayangone
+1299,Koe Mile,16.88178,96.134868,(၉) မိုင်,Pyay Road,Mayangone
+1300,Koe Mile Khawe,16.883847,96.135885,(၉) မိုင်ခွဲ,Pyay Road,Mayangone
+1301,Koe Mile Khawe,16.884384,96.135772,(၉) မိုင်ခွဲ,Pyay Road,Mayangone
+1302,Myo Thit Zay,16.879021,96.099776,မြို့သစ်ဈေးု,Bayint Naung Road,Insein
+1303,Myo Thit Zay,16.879113,96.10005,မြို့သစ်ဈေးု,Bayint Naung Road,Insein
+1304,Nyaung Pin,16.881558,96.099194,ညောင်ပင်,Bayint Naung Road,Insein
+1305,Nyaung Pin,16.881487,96.09901,ညောင်ပင်,Bayint Naung Road,Insein
+1306,Padauk Lan,16.875474,96.101509,ပိတောက်လမ်း,Bayint Naung Road,Insein
+1307,Padauk Lan,16.875571,96.101649,ပိတောက်လမ်း,Bayint Naung Road,Insein
+1308,Bayint Naung Zay/ Zay Pwae Yon,16.864245,96.106743,ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ,Bayint Naung Road,Mayangone
+1309,Bayint Naung Zay/ Zay Pwae Yon,16.864492,96.10685,ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ,Bayint Naung Road,Mayangone
+1310,B.P.I,16.874841,96.116313,ဘီပီအိုင်,Yangon-Insein Road,Insein
+1311,B.P.I,16.875179,96.116361,ဘီပီအိုင်,Yangon-Insein Road,Insein
+1312,Kyoe Kone,16.878483,96.112781,ကြို့ကုန်း,Yangon-Insein Road,Insein
+1313,Kyoe Kone,16.878437,96.112635,ကြို့ကုန်း,Yangon-Insein Road,Insein
+1314,Kyoe Kone Lan Sone,16.871474,96.104232,ကြို့ကုန်းလမ်းဆုံ,Bayint Naung Road,Insein
+1315,Kyoe Kone Lan Sone,16.871653,96.104367,ကြို့ကုန်းလမ်းဆုံ,Bayint Naung Road,Insein
+1316,Myo Thit,16.878032,96.111656,မြို့သစ်,Baho Road,Insein
+1317,Myo Thit,16.877994,96.111597,မြို့သစ်,Baho Road,Insein
+1318,Aye Theikdi/ Thayet Taw,16.894614,96.10185,အေးသိဒ္ဓိ/ သရက်တော,Lower Mingalardon Road,Insein
+1319,Aye Theikdi/ Thayet Taw,16.894799,96.102108,အေးသိဒ္ဓိ/ သရက်တော,Lower Mingalardon Road,Insein
+1320,Htaung Boo Wa,16.886136,96.10034,ထောင်ဘူးဝ,Hlaing River Road,Insein
+1321,Htaung Boo Wa,16.886196,96.100313,ထောင်ဘူးဝ,Hlaing River Road,Insein
+1322,Insein Kannar,16.883422,96.094077,အင်းစိန်ကမ်းနား,Hlaing River Road,Insein
+1323,Insein Kannar,16.883501,96.093983,အင်းစိန်ကမ်းနား,Hlaing River Road,Insein
+1324,Insein Zay,16.886955,96.102533,အင်းစိန်ဈေး,Hlaing River Road,Insein
+1325,Insein Zay,16.886884,96.102552,အင်းစိန်ဈေး,Hlaing River Road,Insein
+1326,Lay-sae-shit Gate,16.886319,96.097508,(၄၈) ဂိတ်,Bayint Naung Road,Insein
+1327,Min Zedi,16.890692,96.095794,မင်းစေတီ,Bayint Naung Road,Insein
+1328,Min Zedi,16.890684,96.095572,မင်းစေတီ,Bayint Naung Road,Insein
+1329,Pauk Taw Wa,16.884871,96.097901,ပေါက်တောဝ,Bayint Naung Road,Insein
+1330,Pauk Taw Wa,16.884824,96.09771,ပေါက်တောဝ,Bayint Naung Road,Insein
+1331,Pauk Taw Wa,16.885269,96.098151,ပေါက်တောဝ,Hlaing River Road,Insein
+1332,Pauk Taw Wa,16.885152,96.097108,ပေါက်တောဝ,Hlaing River Road,Insein
+1333,Sayardaw Gyi,16.894618,96.094546,ဆရာတော်ကြီး,Bayint Naung Road,Insein
+1334,Sayardaw Gyi,16.894572,96.094723,ဆရာတော်ကြီး,Bayint Naung Road,Insein
+1335,Ywarma,16.898546,96.095397,ရွာမ,Bayint Naung Road,Insein
+1336,Ywarma,16.898277,96.095501,ရွာမ,Bayint Naung Road,Insein
+1337,Ywarma,16.898234,96.099052,ရွာမ,Lower Mingalardon Road,Insein
+1338,Ywarma,16.898134,96.098918,ရွာမ,Lower Mingalardon Road,Insein
+1339,Ar Lain Ngar Sint,16.89148,96.116596,အာလိန်ငါးဆင့်,Lan Thit Road,Insein
+1340,Ar Lain Ngar Sint,16.891578,96.11659,အာလိန်ငါးဆင့်,Lan Thit Road,Insein
+1341,B.O.C,16.884947,96.110104,ဘီအိုစီ,Yangon-Insein Road,Insein
+1342,B.O.C,16.88492,96.109908,ဘီအိုစီ,Yangon-Insein Road,Insein
+1343,Insein Gon Tadar/ Hino Gade,16.887982,96.105951,အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်,Lower Mingalardon Road,Insein
+1344,Insein Gon Tadar/ Hino Gade,16.888134,96.105893,အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်,Lower Mingalardon Road,Insein
+1345,Insein Pan Chan,16.887532,96.107586,အင်းစိန်ပန်းခြံ,Min Gyi Road,Insein
+1346,Insein Pan Chan,16.887646,96.107788,အင်းစိန်ပန်းခြံ,Min Gyi Road,Insein
+1347,Insein Say Yon Gyi,16.892232,96.105865,အင်းစိန်ဆေးရုံကြီး,Min Gyi Road,Insein
+1348,Insein Say Yon Gyi,16.892273,96.105639,အင်းစိန်ဆေးရုံကြီး,Min Gyi Road,Insein
+1349,Ma Nya Ka,16.896944,96.105124,မညက,Min Gyi Street,Insein
+1350,Ma Nya Ka,16.897026,96.104942,မညက,Min Gyi Street,Insein
+1351,Oakyin Wa,16.89041,96.111393,အုတ်ကျင်းဝ,Lan Thit Road,Insein
+1352,Oakyin Wa,16.890592,96.111455,အုတ်ကျင်းဝ,Lan Thit Road,Insein
+1353,Workshop,16.891116,96.114663,ဝပ်ရှော့,Lan Thit Road,Insein
+1354,Workshop,16.8912,96.114669,ဝပ်ရှော့,Lan Thit Road,Insein
+1355,Phot Kan Zay,16.907714,96.097556,ဖော့ကန်ဈေး,Lower Mingalardon Road,Insein
+1356,Phot Kan Zay,16.907638,96.097676,ဖော့ကန်ဈေး,Lower Mingalardon Road,Insein
+1357,Pyi Taw Thar,16.900697,96.095564,ပြည်တော်သာ,Bayint Naung Road,Insein
+1358,Pyi Taw Thar,16.900814,96.095425,ပြည်တော်သာ,Bayint Naung Road,Insein
+1359,Pyi Taw Thar,16.90078,96.097833,ပြည်တော်သာ,Min Gyi Road,Insein
+1360,Pyi Taw Thar,16.900613,96.097855,ပြည်တော်သာ,Min Gyi Road,Insein
+1361,Pyi Taw Thar/ G.T.I Htate,16.900989,96.097094,ပြည်တော်သာ/(GTI)ထိပ်,Lower Mingalardon Road,Insein
+1362,Pyi Taw Thar/ G.T.I Htate,16.900422,96.097188,ပြည်တော်သာ/(GTI)ထိပ်,Lower Mingalardon Road,Insein
+1363,Saung Hnit,16.91195,96.097264,ဆောင် (၂),Lower Mingalardon Road,Insein
+1364,Saung Hnit,16.911906,96.09734,ဆောင် (၂),Lower Mingalardon Road,Insein
+1365,Thayet Taw,16.902189,96.102985,သရက်တော,Min Gyi Road,Insein
+1366,Thayet Taw,16.9023,96.102895,သရက်တော,Min Gyi Road,Insein
+1367,Bo Kone,16.900902,96.10639,ဗိုလ်ကုန်း,Min Gyi Road,Insein
+1368,Bo Kone,16.900917,96.1067,ဗိုလ်ကုန်း,Min Gyi Road,Insein
+1369,Hight Pak,16.898659,96.10567,ဟိုက်ပက်,Min Gyi Road,Insein
+1370,Hight Pak,16.898823,96.105523,ဟိုက်ပက်,Min Gyi Road,Insein
+1371,Kalar Paya,16.905704,96.128996,ကုလားဘုရား,No. 1 Main Road,Mingalardon
+1372,Kalar Paya,16.905906,96.128758,ကုလားဘုရား,No. 1 Main Road,Mingalardon
+1373,Pan Chan Kone,16.91071,96.131977,ပန်းခြံကုန်း,No. 1 Main Road,Mingalardon
+1374,Pan Chan Kone,16.91101,96.131931,ပန်းခြံကုန်း,No. 1 Main Road,Mingalardon
+1375,Tit-Koe-Koe,16.931731,96.085049,၁၉၉,Shwe Pyi Thar Bridge Road,Insein
+1376,Tit-Koe-Koe,16.932261,96.085623,၁၉၉,Shwe Pyi Thar Bridge Road,Insein
+1377,Aung San Zay,16.921587,96.09761,အောင်ဆန်းဈေး,Lower Mingalardon Road,Insein
+1378,Aung San Zay,16.921325,96.097682,အောင်ဆန်းဈေး,Lower Mingalardon Road,Insein
+1379,Bo Chan,16.93007,96.100991,ဘိုခြံ,Lower Mingalardon Road,Insein
+1380,Bo Chan,16.930007,96.101098,ဘိုခြံ,Lower Mingalardon Road,Insein
+1381,Kyaung Gate,16.917884,96.097462,ကျောင်းဂိတ်,Lower Mingalardon Road,Insein
+1382,Kyaung Gate,16.917978,96.097381,ကျောင်းဂိတ်,Lower Mingalardon Road,Insein
+1383,Ywar Thit,16.925496,96.098534,ရွာသစ်,Lower Mingalardon Road,Insein
+1384,Ywar Thit,16.925463,96.098605,ရွာသစ်,Lower Mingalardon Road,Insein
+1385,Asar Set,16.932314,96.112023,အစာစက်,Khayae Pin Road,Insein
+1386,Asar Set,16.932264,96.112169,အစာစက်,Khayae Pin Road,Insein
+1387,Chauk Lay Chauk,16.930992,96.114231,၆၄၆,Khayae Pin Road,Mingalardon
+1388,Chauk Lay Chauk,16.931012,96.114592,၆၄၆,Khayae Pin Road,Mingalardon
+1389,Pan Chan,16.929905,96.116613,ပန်းခြံ,Khayae Pin Road,Mingalardon
+1390,Pan Chan,16.929913,96.117084,ပန်းခြံ,Khayae Pin Road,Mingalardon
+1391,Yae Set,16.932786,96.106947,ရေစက်,Khayae Pin Road,Insein
+1392,Yae Set,16.932608,96.107056,ရေစက်,Khayae Pin Road,Insein
+1393,B.O.C,16.915951,96.13452,ဘီအိုစီ,No. 1 Main Road,Mingalardon
+1394,B.O.C,16.915565,96.134779,ဘီအိုစီ,No. 1 Main Road,Mingalardon
+1395,Khayae Pin Lan Khawe,16.92929,96.12982,ခရေပင်လမ်းခွဲ,Khayae Pin Road,Mingalardon
+1396,Khayae Pin Lan Khawe,16.9283,96.132085,ခရေပင်လမ်းခွဲ,Khayae Pin Road,Mingalardon
+1397,Khayae Pin Lan Khawe,16.927303,96.131706,ခရေပင်လမ်းခွဲ,No. 1 Main Road,Mingalardon
+1398,Khayae Pin Lan Khawe,16.927233,96.131463,ခရေပင်လမ်းခွဲ,No. 1 Main Road,Mingalardon
+1399,Say Kyaung,16.92003,96.134199,ဆေးကျောင်း,No. 1 Main Road,Mingalardon
+1400,Say Kyaung,16.920334,96.133931,ဆေးကျောင်း,No. 1 Main Road,Mingalardon
+1401,Thone Yarthi,16.931647,96.141277,သုံးရာသီ,Khayae Pin Road,Mingalardon
+1402,Thone Yarthi,16.931715,96.141234,သုံးရာသီ,Khayae Pin Road,Mingalardon
+1403,Yar Thet Pan,16.930114,96.137014,ရာသက်ပန်,Khayae Pin Road,Mingalardon
+1404,Yar Thet Pan,16.930159,96.13694,ရာသက်ပန်,Khayae Pin Road,Mingalardon
+1405,Kyaikkalei/ Suppaline,16.944294,96.127986,ကျိုက္ကလဲ့/ ဆပ်ပလိုင်း,No. 1 Main Road,Mingalardon
+1406,Kyaikkalei/ Suppaline,16.944757,96.128118,ကျိုက္ကလဲ့/ ဆပ်ပလိုင်း,No. 1 Main Road,Mingalardon
+1407,Kyaikkalot,16.951129,96.127038,ကျိုက္ကလို့,No. 1 Main Road,Mingalardon
+1408,Kyaikkalot,16.952053,96.12702,ကျိုက္ကလို့,No. 1 Main Road,Mingalardon
+1409,Mingalardon Zay,16.934113,96.13039,မင်္ဂလာဒုံဈေး,No. 1 Main Road,Mingalardon
+1410,Mingalardon Zay,16.93479,96.130131,မင်္ဂလာဒုံဈေး,No. 1 Main Road,Mingalardon
+1411,Waryar Let,16.960714,96.127084,ဝါယာလက်,No. 1 Main Road,Mingalardon
+1412,Waryar Let,16.961806,96.126746,ဝါယာလက်,No. 1 Main Road,Mingalardon
+1413,Yae Kyi I,16.965784,96.127299,ရေကြည်အိုင်,No. 1 Main Road,Mingalardon
+1414,Yae Kyi I,16.966603,96.12743,ရေကြည်အိုင်,No. 1 Main Road,Mingalardon
+1415,Alal Pauk,16.940851,96.151727,အလယ်ပေါက်,No. 3 Main Road,Mingalardon
+1416,Alal Pauk,16.94088,96.151796,အလယ်ပေါက်,No. 3 Main Road,Mingalardon
+1417,Ah-Hmat-Thone Lan Sone,16.935503,96.153047,အမှတ် (၃) လမ်းဆုံ,No. 3 Main Road,Mingalardon
+1418,Ah-Hmat-Thone Lan Sone,16.93573,96.152263,အမှတ် (၃) လမ်းဆုံ,No. 3 Main Road,Mingalardon
+1419,Ah-Hmat-Thone Lan Sone,16.936658,96.152904,အမှတ် (၃) လမ်းဆုံ,No. 3 Main Road,Mingalardon
+1420,Nyaung Pin,16.957062,96.148998,ညောင်ပင်,No. 3 Main Road,Mingalardon
+1421,Nyaung Pin,16.95706,96.148898,ညောင်ပင်,No. 3 Main Road,Mingalardon
+1422,Oh Eain,16.953123,96.149546,အိုးအိမ်,No. 3 Main Road,Mingalardon
+1423,Oh Eain,16.95324,96.149663,အိုးအိမ်,No. 3 Main Road,Mingalardon
+1424,Thingangyun,16.962465,96.148174,သင်္ဃန်းကျွန်း,No. 3 Main Road,Mingalardon
+1425,Thingangyun,16.962531,96.14805,သင်္ဃန်းကျွန်း,No. 3 Main Road,Mingalardon
+1426,Bo Chan,16.980232,96.126419,ဘိုခြံ,No. 1 Main Road,Mingalardon
+1427,Bo Chan,16.980499,96.12687,ဘိုခြံ,No. 1 Main Road,Mingalardon
+1428,Hmoe Yon,16.989006,96.144592,မှိုရုံ,No. 3 Main Road,Mingalardon
+1429,Hmoe Yon,16.989058,96.144511,မှိုရုံ,No. 3 Main Road,Mingalardon
+1432,London Set Yon,16.99669,96.144637,လန်ဒန်စက်ရုံ,No. 3 Main Road,Mingalardon
+1433,London Set Yon,16.996964,96.14457,လန်ဒန်စက်ရုံ,No. 3 Main Road,Mingalardon
+1438,Paya Lay,16.996841,96.130271,ဘုရားလေး,No. 1 Main Road,Mingalardon
+1439,Paya Lay,16.997059,96.130496,ဘုရားလေး,No. 1 Main Road,Mingalardon
+1440,Saing Bote,16.994324,96.144149,ဆိုင်းဘုတ်,No. 3 Main Road,Mingalardon
+1441,Saing Bote,16.994598,96.143961,ဆိုင်းဘုတ်,No. 3 Main Road,Mingalardon
+1442,Shan Su,16.987558,96.127256,ရှမ်းစု,No. 1 Main Road,Mingalardon
+1443,Shan Su,16.987948,96.127188,ရှမ်းစု,No. 1 Main Road,Mingalardon
+1444,Sin Min,16.970032,96.126548,ဆင်မင်း,No. 1 Main Road,Mingalardon
+1445,Sin Min,16.970278,96.126763,ဆင်မင်း,No. 1 Main Road,Mingalardon
+1446,Ye Baw Haung,16.991406,96.13111,ရဲဘော်ဟောင်း,No. 1 Main Road,Mingalardon
+1447,Ye Baw Haung,16.991488,96.130938,ရဲဘော်ဟောင်း,No. 1 Main Road,Mingalardon
+1448,Chauk Lan,16.970638,96.14793,(၆) လမ်း,No. 3 Main Road,Mingalardon
+1449,Chauk Lan,16.970759,96.147804,(၆) လမ်း,No. 3 Main Road,Mingalardon
+1450,Palae Eain Yar,16.968784,96.148012,ပုလဲအိမ်ယာ,No. 3 Main Road,Mingalardon
+1451,Palae Eain Yar,16.968965,96.147828,ပုလဲအိမ်ယာ,No. 3 Main Road,Mingalardon
+1452,Palae Lan Sone,16.981853,96.147111,ပုလဲလမ်းဆုံ,No. 3 Main Road,Mingalardon
+1453,Palae Lan Sone,16.981894,96.147208,ပုလဲလမ်းဆုံ,No. 3 Main Road,Mingalardon
+1454,Tadar Phyu,16.977331,96.147704,တံတားဖြူ,No. 3 Main Road,Mingalardon
+1455,Tadar Phyu,16.977427,96.147582,တံတားဖြူ,No. 3 Main Road,Mingalardon
+1456,Thone Thone Lone,16.983855,96.14639,သုံးသုံးလုံး,No. 3 Main Road,Mingalardon
+1457,Thone Thone Lone,16.984005,96.146486,သုံးသုံးလုံး,No. 3 Main Road,Mingalardon
+1458,Yakhine Kyaung,16.973986,96.147809,ရခိုင်ကျောင်း,No. 3 Main Road,Mingalardon
+1459,Yakhine Kyaung,16.974953,96.147677,ရခိုင်ကျောင်း,No. 3 Main Road,Mingalardon
+1460,C.P Light,17.020607,96.133626,စီပီလိုက်,No. 1 Main Road,Mingalardon
+1461,C.P Light,17.020661,96.133389,စီပီလိုက်,No. 1 Main Road,Mingalardon
+1462,Chan Pauk,17.007909,96.12743,ခြံပေါက်,No. 1 Main Road,Mingalardon
+1463,Chan Pauk,17.008303,96.127274,ခြံပေါက်,No. 1 Main Road,Mingalardon
+1464,Kon Ta La Paung,17.000553,96.144451,ကုန်းတလပေါင်,No. 3 Main Road,Mingalardon
+1465,Kon Ta La Paung,17.000719,96.144592,ကုန်းတလပေါင်,No. 3 Main Road,Mingalardon
+1466,Kone Htate,17.004641,96.129039,ကုန်းထိပ်,No. 1 Main Road,Mingalardon
+1467,Kone Htate,17.004467,96.128899,ကုန်းထိပ်,No. 1 Main Road,Mingalardon
+1468,Kyaung Shae,17.031112,96.13193,ကျောင်းရှေ့,No. 1 Main Road,Mingalardon
+1469,Kyaung Shae,17.03121,96.13214,ကျောင်းရှေ့,No. 1 Main Road,Mingalardon
+1470,Lay Yat Kwet,17.024106,96.138485,(၄) ရပ်ကွက်,No. 3 Set Thwe Road,Mingalardon
+1471,Lay Yat Kwet,17.024279,96.138594,(၄) ရပ်ကွက်,No. 3 Set Thwe Road,Mingalardon
+1472,Mwae Myu Yae,17.013839,96.127337,မွေးမြူရေး,No. 1 Main Road,Mingalardon
+1473,Mwae Myu Yae,17.013882,96.127163,မွေးမြူရေး,No. 1 Main Road,Mingalardon
+1474,Seagull,17.016311,96.128071,ဆေးဂဲလ်,No. 1 Main Road,Mingalardon
+1475,Seagull,17.01645,96.128565,ဆေးဂဲလ်,No. 1 Main Road,Mingalardon
+1476,Site Thit,17.015094,96.145324,ဆိုက်သစ်,No. 3 Set Thwe Road,Mingalardon
+1477,Site Thit,17.015301,96.145109,ဆိုက်သစ်,No. 3 Set Thwe Road,Mingalardon
+1478,Tat Yin Koe,17.002538,96.144294,တပ်ရင်း (၉),No. 3 Main Road,Mingalardon
+1479,Tat Yin Koe,17.003503,96.144455,တပ်ရင်း (၉),No. 3 Main Road,Mingalardon
+1480,War Saing,17.019924,96.142881,ဝါးဆိုင်,No. 3 Set Thwe Road,Mingalardon
+1481,War Saing,17.020084,96.142601,ဝါးဆိုင်,No. 3 Set Thwe Road,Mingalardon
+1482,Yae Set,17.00633,96.144749,ရေစက်,No. 3 Main Road,Mingalardon
+1483,Yae Set,17.006413,96.144607,ရေစက်,No. 3 Main Road,Mingalardon
+1484,Yae Sin,17.010048,96.127278,ရေစင်,No. 1 Main Road,Mingalardon
+1485,Yae Sin,17.010217,96.127598,ရေစင်,No. 1 Main Road,Mingalardon
+1486,Htauk Kyant Lan Sone,17.042732,96.131957,ထောက်ကြန့်လမ်းဆုံ,No. 2 Main Road,Htauk Kyant
+1487,Htauk Kyant Lan Sone,17.04265,96.131818,ထောက်ကြန့်လမ်းဆုံ,No. 2 Main Road,Htauk Kyant
+1488,Oak Pho,16.9737,96.094465,အုတ်ဖို,No. 4 Main Road,Shwe Pyithar
+1489,Oak Pho,16.974234,96.094226,အုတ်ဖို,No. 4 Main Road,Shwe Pyithar
+1490,Ponnya,16.979047,96.093711,ပုည,No. 4 Main Road,Shwe Pyithar
+1491,Ponnya,16.979082,96.093515,ပုည,No. 4 Main Road,Shwe Pyithar
+1492,Thabarwa,16.988892,96.092881,သဘာဝ,No. 4 Main Road,Shwe Pyithar
+1493,Thabarwa,16.988871,96.092581,သဘာဝ,No. 4 Main Road,Shwe Pyithar
+1494,Than Phyu,16.971547,96.094999,သံဖြူ,No. 4 Main Road,Shwe Pyithar
+1495,Than Phyu,16.972031,96.094562,သံဖြူ,No. 4 Main Road,Shwe Pyithar
+1496,Thardukan,16.983793,96.093191,သာဓုကန်,No. 4 Main Road,Shwe Pyithar
+1497,Thardukan,16.983834,96.093429,သာဓုကန်,No. 4 Main Road,Shwe Pyithar
+1498,Ye Chauk,16.967871,96.095731,ရဲ (၆),No. 4 Main Road,Shwe Pyithar
+1499,Ye Chauk,16.968733,96.095243,ရဲ (၆),No. 4 Main Road,Shwe Pyithar
+1502,Butar Zay,16.933668,96.094363,ဘူတာဈေး,Shwe Pyi Thar Bridge Road,Insein
+1503,Butar Zay,16.933783,96.093165,ဘူတာဈေး,Shwe Pyi Thar Bridge Road,Insein
+1506,Kan Tharyar,16.950087,96.100641,ကန်သာယာ,No. 4 Main Road,Shwe Pyithar
+1507,Kan Tharyar,16.950132,96.100757,ကန်သာယာ,No. 4 Main Road,Shwe Pyithar
+1508,Kyaung Lan,16.951632,96.10014,ကျောင်းလမ်း,No. 4 Main Road,Shwe Pyithar
+1509,Kyaung Lan,16.951929,96.099834,ကျောင်းလမ်း,No. 4 Main Road,Shwe Pyithar
+1510,Myin Hlae Gate,16.94414,96.10285,မြင်းလှည်းဂိတ်,No. 4 Main Road,Shwe Pyithar
+1511,Myin Hlae Gate,16.944725,96.102603,မြင်းလှည်းဂိတ်,No. 4 Main Road,Shwe Pyithar
+1512,Phone Gyi Kyaung,16.942795,96.102796,ဘုန်းကြီးကျောင်း,No. 4 Main Road,Shwe Pyithar
+1513,Phone Gyi Kyaung,16.942929,96.102614,ဘုန်းကြီးကျောင်း,No. 4 Main Road,Shwe Pyithar
+1514,Sauk Lote Yae,16.941071,96.102753,ဆောက်လုပ်ရေး,No. 4 Main Road,Shwe Pyithar
+1515,Sauk Lote Yae,16.94143,96.102625,ဆောက်လုပ်ရေး,No. 4 Main Road,Shwe Pyithar
+1516,Shwe Pyi Thar Kwae,16.961085,96.097016,ရွှေပြည်သာကွေ့,No. 4 Main Road/ Bogyoke Aung San Road,Shwe Pyithar
+1517,Shwe Pyi Thar Kwae,16.96143,96.096723,ရွှေပြည်သာကွေ့,No. 4 Main Road/ Bogyoke Aung San Road,Shwe Pyithar
+1518,Sit Tat,16.958026,96.097347,စစ်တပ်,No. 4 Main Road,Shwe Pyithar
+1519,Sit Tat,16.958198,96.097592,စစ်တပ်,No. 4 Main Road,Shwe Pyithar
+1522,Yae Sin,16.959964,96.092112,ရေစင်,Bogyoke Aung San Road,Shwe Pyithar
+1523,Yae Sin,16.95977,96.091937,ရေစင်,Bogyoke Aung San Road,Shwe Pyithar
+1530,Tit-Koe-Koe Gate Haung,16.93712,96.08689,(၁၉၉) ဂိတ်ဟောင်း,Palae Road,Shwe Pyithar
+1531,Tit-Koe-Koe Gate Haung,16.937112,96.086735,(၁၉၉) ဂိတ်ဟောင်း,Palae Road,Shwe Pyithar
+1534,Palae Lan,16.94389,96.084671,ပုလဲလမ်း,Industrial Road,Shwe Pyithar
+1535,Palae Lan,16.944008,96.084482,ပုလဲလမ်း,Industrial Road,Shwe Pyithar
+1536,Phone Gyi Kyaung Kwae,16.940866,96.08565,ဘုန်းကြီးကျောင်းကွေ့,Palae Road,Shwe Pyithar
+1537,Phone Gyi Kyaung Kwae,16.941051,96.085907,ဘုန်းကြီးကျောင်းကွေ့,Palae Road,Shwe Pyithar
+1538,Pyaw Bwal,16.949098,96.082861,ပျော်ဘွယ်,Palae Road,Shwe Pyithar
+1539,Pyaw Bwal,16.948988,96.082772,ပျော်ဘွယ်,Palae Road,Shwe Pyithar
+1540,Tadar Htate,16.9388,96.087006,တံတားထိပ်,Palae Road,Shwe Pyithar
+1541,Tadar Htate,16.938822,96.08684,တံတားထိပ်,Palae Road,Shwe Pyithar
+1542,Zin Yaw,16.947057,96.0833,ဇင်ယော်,Palae Road,Shwe Pyithar
+1543,Zin Yaw,16.946979,96.083439,ဇင်ယော်,Palae Road,Shwe Pyithar
+1554,Shit-Sae-Tit Gate,16.951868,96.082014,(၈၁) ဂိတ်,Palae Road,Shwe Pyithar
+1555,Shit-Sae-Tit Gate,16.951909,96.082197,(၈၁) ဂိတ်,Palae Road,Shwe Pyithar
+1556,Kar Gyi Gate,16.96158,96.077876,ကားကြီးဂိတ်,Bayint Naung Road,Shwe Pyithar
+1557,Kar Gyi Gate,16.961626,96.077767,ကားကြီးဂိတ်,Bayint Naung Road,Shwe Pyithar
+1558,Kar Lay Gate,16.956271,96.080888,ကားလေးဂိတ်,Bogyoke Aung San Road,Shwe Pyithar
+1559,Kar Lay Gate,16.956507,96.080984,ကားလေးဂိတ်,Bogyoke Aung San Road,Shwe Pyithar
+1560,Khaung Thone Lone,16.957061,96.084074,ခေါင်သုံးလုံး,Bogyoke Aung San Road,Shwe Pyithar
+1561,Khaung Thone Lone,16.957204,96.083989,ခေါင်သုံးလုံး,Bogyoke Aung San Road,Shwe Pyithar
+1562,Say Khan,16.958488,96.076839,ဆေးခန်း,Bayint Naung Road,Shwe Pyithar
+1563,Say Khan,16.958593,96.076747,ဆေးခန်း,Bayint Naung Road,Shwe Pyithar
+1564,Shwe Nyar Maung,16.963536,96.078356,ရွှေညာမောင်,Bayint Naung Road,Shwe Pyithar
+1565,Shwe Nyar Maung,16.964019,96.07857,ရွှေညာမောင်,Bayint Naung Road,Shwe Pyithar
+1566,Taw Win,16.965855,96.07841,တော်ဝင်,Bayint Naung Road,Shwe Pyithar
+1567,Taw Win,16.965999,96.078163,တော်ဝင်,Bayint Naung Road,Shwe Pyithar
+1568,Than Lan,16.95783,96.087239,သံလမ်း,Bogyoke Aung San Road,Shwe Pyithar
+1569,Than Lan,16.957995,96.087282,သံလမ်း,Bogyoke Aung San Road,Shwe Pyithar
+1570,Koe Thone Lone,16.98212,96.074427,ကိုးသုံးလုံး,Mahar Myaing Road,Shwe Pyithar
+1571,Koe Thone Lone,16.982206,96.074491,ကိုးသုံးလုံး,Mahar Myaing Road,Shwe Pyithar
+1572,Na-gyi Kwae,16.982995,96.071271,(ဏ) ကွေ့,Mahar Myaing Road,Shwe Pyithar
+1573,Na-gyi Kwae,16.983009,96.071154,(ဏ) ကွေ့,Mahar Myaing Road,Shwe Pyithar
+1574,Yone Shae,16.982581,96.072419,ရုံးရှေ့,Mahar Myaing Road,Shwe Pyithar
+1575,Yone Shae,16.982645,96.072432,ရုံးရှေ့,Mahar Myaing Road,Shwe Pyithar
+1576,Kyaw Swar,16.968802,96.077172,ကျော်စွာ,Bayint Naung Road,Shwe Pyithar
+1577,Kyaw Swar,16.969006,96.076959,ကျော်စွာ,Bayint Naung Road,Shwe Pyithar
+1578,Nga Mauk Zay,16.979462,96.076968,ငမောက်ဈေး,Bayint Naung Road,Shwe Pyithar
+1579,Nga Mauk Zay,16.979686,96.076878,ငမောက်ဈေး,Bayint Naung Road,Shwe Pyithar
+1580,Sin Hnat Kaung,16.981726,96.075986,ဆင်နှစ်ကောင်,Mahar Myaing Road,Shwe Pyithar
+1581,Sin Hnat Kaung,16.98184,96.076065,ဆင်နှစ်ကောင်,Mahar Myaing Road,Shwe Pyithar
+1582,Thone Htate,16.981393,96.077317,(၃) ထိပ်,Bayint Naung Road,Shwe Pyithar
+1583,Thone Htate,16.981545,96.077389,(၃) ထိပ်,Bayint Naung Road,Shwe Pyithar
+1584,Yae Chan Sin,16.976683,96.076269,ရေချမ်းစင်,Bayint Naung Road,Shwe Pyithar
+1585,Yae Chan Sin,16.976668,96.076081,ရေချမ်းစင်,Bayint Naung Road,Shwe Pyithar
+1586,Auk Gate,17.001291,96.066589,အောက်ဂိတ်,Hlawga Road,Shwe Pyithar
+1587,Auk Gate,17.001119,96.06665,အောက်ဂိတ်,Hlawga Road,Shwe Pyithar
+1588,Aung Chan Thar,16.989082,96.071328,အောင်ချမ်းသာ,Mahabandoola Road,Shwe Pyithar
+1589,Aung Chan Thar,16.988992,96.071181,အောင်ချမ်းသာ,Mahabandoola Road,Shwe Pyithar
+1590,Aung Myittar,16.990608,96.070684,အောင်မေတ္တာ,Mahabandoola Road,Shwe Pyithar
+1591,Aung Myittar,16.990694,96.070792,အောင်မေတ္တာ,Mahabandoola Road,Shwe Pyithar
+1592,Nyein Chan Yae,16.986573,96.071834,ငြိမ်းချမ်းရေး,Mahabandoola Road,Shwe Pyithar
+1593,Nyein Chan Yae,16.98657,96.071965,ငြိမ်းချမ်းရေး,Mahabandoola Road,Shwe Pyithar
+1594,Computer,16.998734,96.088477,ကွန်ပျူတာ,No. 4 Main Road,Shwe Pyithar
+1595,Kwet Thit,17.003742,96.084903,ကွက်သစ်,No. 4 Main Road,Shwe Pyithar
+1596,Kwet Thit,17.003676,96.084684,ကွက်သစ်,No. 4 Main Road,Shwe Pyithar
+1597,Kyaung Shae,17.005113,96.08281,ကျောင်းရှေ့,Hlawga Road,Shwe Pyithar
+1598,Kyaung Shae,17.005204,96.082726,ကျောင်းရှေ့,Hlawga Road,Shwe Pyithar
+1599,Padonmar,17.001721,96.086299,ပဒုမ္မာ,No. 4 Main Road,Shwe Pyithar
+1600,Padonmar,17.001617,96.086153,ပဒုမ္မာ,No. 4 Main Road,Shwe Pyithar
+1601,Tar Sone,17.005483,96.083442,တာဆုံ,No. 4 Main Road,Shwe Pyithar
+1602,Tar Sone,17.005592,96.083367,တာဆုံ,No. 4 Main Road,Shwe Pyithar
+1603,Sae-Chauk Kwae,16.935857,96.180042,(၁၆) ကွေ့,Innwa Road,North Okkalapa
+1604,Tadar Phyu,16.932671,96.189228,တံတားဖြူ,Bagan Road,North Okkalapa
+1605,Tadar Phyu,16.932756,96.189151,တံတားဖြူ,Bagan Road,North Okkalapa
+1606,Dhamar Yon,16.921494,96.170038,ဓမ္မာရုံ,Wai Bargi Road,North Okkalapa
+1607,Dhamar Yon,16.921451,96.169455,ဓမ္မာရုံ,Wai Bargi Road,North Okkalapa
+1610,Thone Zay,16.781521,96.197234,(၃) ဈေး,Myintawthar Road,Thaketa
+1611,Thone Zay,16.782074,96.197677,(၃) ဈေး,Myintawthar Road,Thaketa
+1612,Myo Oo Zedi,16.862104,96.212784,မြို့ဦးစေတီ,Pyi Htaung Su Main Road,North Dagon
+1613,Myo Oo Zedi,16.862332,96.212663,မြို့ဦးစေတီ,Pyi Htaung Su Main Road,North Dagon
+1616,See Pwar Yay Takke Tho,16.929015,96.268065,စီးပွားရေးတက္ကသိုလ်,No. 2 Main Road,South Dagon
+1617,See Pwar Yay Takke Tho,16.929084,96.267896,စီးပွားရေးတက္ကသိုလ်,No. 2 Main Road,South Dagon
+1618,Mee Point,16.778739,96.247226,မီးပွိုင့်,Kyaik Khauk Pagoda Road,Thanlyin
+1619,Mee Point,16.778957,96.247032,မီးပွိုင့်,Kyaik Khauk Pagoda Road,Thanlyin
+1621,Phoe Myay,16.76179,96.246359,ဖိုးမြေ,Bogyoke Road,Thanlyin
+1622,Phoe Myay,16.761831,96.24652,ဖိုးမြေ,Bogyoke Road,Thanlyin
+1623,Yone Shae,16.760886,96.248676,ရုံးရှေ့,Bogyoke Road,Thanlyin
+1624,Yone Shae,16.761071,96.248912,ရုံးရှေ့,Bogyoke Road,Thanlyin
+1625,Out Kwae,16.760886,96.250929,အောက်ကွေ့,Bogyoke Road,Thanlyin
+1626,Out Kwae,16.760814,96.251112,အောက်ကွေ့,Bogyoke Road,Thanlyin
+1627,A Paw Kwae,16.760208,96.252088,အပေါ်ကွေ့,Bogyoke Road,Thanlyin
+1628,A Paw Kwae,16.760382,96.252367,အပေါ်ကွေ့,Bogyoke Road,Thanlyin
+1629,Aung Chan Thar,16.745437,96.265006,အောင်ချမ်းသာ,Kyaik Khauk Pagoda Road,Thanlyin
+1630,Aung Chan Thar,16.745619,96.265293,အောင်ချမ်းသာ,Kyaik Khauk Pagoda Road,Thanlyin
+1631,Sae-Shit Kone,16.739825,96.26804,(၁၈) ကုန်း,Kyaik Khauk Pagoda Road,Thanlyin
+1632,Sae-Shit Kone,16.739455,96.268619,(၁၈) ကုန်း,Kyaik Khauk Pagoda Road,Thanlyin
+1633,Paya Shae,16.730598,96.272482,ဘုရားရှေ့,Kyaik Khauk Pagoda Road,Thanlyin
+1634,Paya Shae,16.730064,96.272653,ဘုရားရှေ့,Kyaik Khauk Pagoda Road,Thanlyin
+1637,Nyaung Pin,16.729817,96.279691,ညောင်ပင်,No. 6 Main Road,Thanlyin
+1638,Nyaung Pin,16.729945,96.279253,ညောင်ပင်,No. 6 Main Road,Thanlyin
+1639,Kunn Yar Saing,16.731071,96.283168,ကွမ်းယာဆိုင်,No. 6 Main Road,Thanlyin
+1640,Kunn Yar Saing,16.731306,96.283165,ကွမ်းယာဆိုင်,No. 6 Main Road,Thanlyin
+1641,A Shae Paing Takke Tho,16.733832,96.288276,အရှေ.ပိုင်းတက္ကသိုလ်,No. 6 Main Road,Thanlyin
+1642,A Shae Paing Takke Tho,16.732856,96.286828,အရှေ.ပိုင်းတက္ကသိုလ်,No. 6 Main Road,Thanlyin
+1643,Thama College,16.754991,96.258495,သမကောလိပ်,Thanlyin,Thanlyin
+1644,Gate Haung,17.044148,96.126373,ဂိတ်ဟောင်း,Yangon-Pyay Main Road,Htauk Kyant
+1645,Gate Haung,17.044476,96.126072,ဂိတ်ဟောင်း,Yangon-Pyay Main Road,Htauk Kyant
+1646,Nine Gate,17.051925,96.119561,(၉) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1647,Nine Gate,17.051861,96.119764,(၉) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1648,Shit-Sae-Hnit,17.054993,96.119843,(၈၂),Yangon-Pyay Main Road,Htauk Kyant
+1649,Shit-Sae-Hnit,17.05509,96.119447,(၈၂),Yangon-Pyay Main Road,Htauk Kyant
+1650,Sauk Lote Yae,17.057523,96.118519,ဆောက်လုပ်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1651,Sauk Lote Yae,17.057564,96.11882,ဆောက်လုပ်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1652,Kyant Khaing Yae,17.060272,96.117575,ကြံ့ခိုင်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1653,Kyant Khaing Yae,17.060764,96.117232,ကြံ့ခိုင်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1654,Yae Oh Sin,17.064128,96.117232,ရေအိုးစင်,Yangon-Pyay Main Road,Htauk Kyant
+1655,Yae Oh Sin,17.064375,96.116889,ရေအိုးစင်,Yangon-Pyay Main Road,Htauk Kyant
+1656,Hnit Gate,17.065605,96.116331,(၂) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1657,Hnit Gate,17.065646,96.115859,(၂) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1658,Yoke Than,17.069667,96.112107,ရုပ်သံ,Yangon-Pyay Main Road,Htauk Kyant
+1659,Yoke Than,17.069564,96.11185,ရုပ်သံ,Yangon-Pyay Main Road,Htauk Kyant
+1660,Ta-Sae-Ngar,17.07418,96.108813,တစ်ဆယ့်ငါး,Yangon-Pyay Main Road,Htauk Kyant
+1661,Ta-Sae-Ngar,17.074045,96.109255,တစ်ဆယ့်ငါး,Yangon-Pyay Main Road,Htauk Kyant
+1662,Mee Sat,17.076985,96.107278,မီးစက်,Yangon-Pyay Main Road,Htauk Kyant
+1663,Mee Sat,17.076754,96.107647,မီးစက်,Yangon-Pyay Main Road,Htauk Kyant
+1664,Say Khan,17.083296,96.103079,ဆေးခန်း,Yangon-Pyay Main Road,Htauk Kyant
+1665,Say Khan,17.083194,96.10276,ဆေးခန်း,Yangon-Pyay Main Road,Htauk Kyant
+1666,Kyat Phyu Kan,17.086369,96.100841,ကြက်ဖြူကန်,Yangon-Pyay Main Road,Htauk Kyant
+1667,Kyat Phyu Kan,17.086258,96.100549,ကြက်ဖြူကန်,Yangon-Pyay Main Road,Htauk Kyant
+1668,Ye Baw Zay,17.094034,96.095166,ရဲဘော်ဈေး,Yangon-Pyay Main Road,Htauk Kyant
+1669,Ye Baw Zay,17.09413,96.094786,ရဲဘော်ဈေး,Yangon-Pyay Main Road,Htauk Kyant
+1670,San Chaung Pauk,17.095839,96.092856,စမ်းချောင်းပေါက်,Yangon-Pyay Main Road,Htauk Kyant
+1671,San Chaung Pauk,17.095716,96.092513,စမ်းချောင်းပေါက်,Yangon-Pyay Main Road,Htauk Kyant
+1672,Main Ma Line,17.096823,96.091011,မိန်းမလိုင်း,Yangon-Pyay Main Road,Htauk Kyant
+1673,Main Ma Line,17.096659,96.090753,မိန်းမလိုင်း,Yangon-Pyay Main Road,Htauk Kyant
+1674,Sae-Thit Taw,17.097972,96.088865,ဆယ့်တစ်တော,Yangon-Pyay Main Road,Htauk Kyant
+1675,Sae-Thit Taw,17.09789,96.088436,ဆယ့်တစ်တော,Yangon-Pyay Main Road,Htauk Kyant
+1676,Koe-Sae-Tit Gate,17.100925,96.084445,(၉၁) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1677,Koe-Sae-Tit Gate,17.100884,96.084144,(၉၁) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1678,Set Thwe Yae,17.104617,96.079381,ဆက်သွယ်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1679,Set Thwe Yae,17.10433,96.079509,ဆက်သွယ်ရေး,Yangon-Pyay Main Road,Htauk Kyant
+1680,Bo Thin Tan,17.10556,96.078222,ဗိုလ်သင်တန်း,Yangon-Pyay Main Road,Htauk Kyant
+1681,Bo Thin Tan,17.105355,96.077921,ဗိုလ်သင်တန်း,Yangon-Pyay Main Road,Htauk Kyant
+1682,Say Tat,17.106709,96.076505,ဆေးတပ်,Yangon-Pyay Main Road,Htauk Kyant
+1683,Say Tat,17.106627,96.076248,ဆေးတပ်,Yangon-Pyay Main Road,Htauk Kyant
+1684,Maw Taw Yin,17.108103,96.074531,မော်တော်ယာဉ်,Yangon-Pyay Main Road,Htauk Kyant
+1685,Maw Taw Yin,17.108185,96.074188,မော်တော်ယာဉ်,Yangon-Pyay Main Road,Htauk Kyant
+1686,Lay Tat,17.109047,96.073097,လေတပ်,Yangon-Pyay Main Road,Htauk Kyant
+1687,Lay Tat,17.108718,96.073033,လေတပ်,Yangon-Pyay Main Road,Htauk Kyant
+1690,Supplies,17.106729,96.060115,ဆပ်ပလိုင်း,Yangon-Pyay Main Road,Htauk Kyant
+1691,Supplies,17.106442,96.060094,ဆပ်ပလိုင်း,Yangon-Pyay Main Road,Htauk Kyant
+1692,Sae-Chauk Gate,17.106811,96.053828,(၁၆) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1693,Sae-Chauk Gate,17.106545,96.053785,(၁၆) ဂိတ်,Yangon-Pyay Main Road,Htauk Kyant
+1694,Yone Pauk,17.106256,96.052553,ရုံးပေါက်,Yangon-Pyay Main Road,Htauk Kyant
+1695,Yone Pauk,17.106032,96.052519,ရုံးပေါက်,Yangon-Pyay Main Road,Htauk Kyant
+1696,A Hmat Lay,17.103821,96.049681,အမှတ် (၄),Yangon-Pyay Main Road,Hmaw Bi
+1697,A Hmat Lay,17.103613,96.049851,အမှတ် (၄),Yangon-Pyay Main Road,Hmaw Bi
+1698,Yoke Shin Yon,17.101048,96.046041,ရုပ်ရှင်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1699,Yoke Shin Yon,17.100894,96.04603,ရုပ်ရှင်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1700,Hmaw Bi Zay,17.100933,96.042672,မှော်ဘီဈေး,Yangon-Pyay Main Road,Hmaw Bi
+1701,Hmaw Bi Zay,17.100766,96.042622,မှော်ဘီဈေး,Yangon-Pyay Main Road,Hmaw Bi
+1702,Hmaw Bi Kar Lay Gate,17.100609,96.040028,မှော်ဘီကားလေးဂိတ်,Yangon-Pyay Main Road,Hmaw Bi
+1703,Hmaw Bi Kar Lay Gate,17.100536,96.040107,မှော်ဘီကားလေးဂိတ်,Yangon-Pyay Main Road,Hmaw Bi
+1704,Thayet Taw Pauk,17.099162,96.038855,သရက်တောပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1705,Thayet Taw Pauk,17.098981,96.038893,သရက်တောပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1706,(Mee Sat Hmaw Bi),17.098238,96.037885,မီးစက် (မှော်ဘီ),Yangon-Pyay Main Road,Hmaw Bi
+1707,(Mee Sat Hmaw Bi),17.098033,96.038142,မီးစက် (မှော်ဘီ),Yangon-Pyay Main Road,Hmaw Bi
+1708,Htan Ta Pin Tar Sone,17.09799,96.035419,ထန်းတပင်တာဆုံ,Yangon-Pyay Main Road,Hmaw Bi
+1709,Htan Ta Pin Tar Sone,17.098082,96.035578,ထန်းတပင်တာဆုံ,Yangon-Pyay Main Road,Hmaw Bi
+1710,Su Paung Yone,17.105247,96.019466,စုပေါင်းရုံး,Yangon-Pyay Main Road,Hmaw Bi
+1711,Su Paung Yone,17.105452,96.01956,စုပေါင်းရုံး,Yangon-Pyay Main Road,Hmaw Bi
+1712,U Thu Mingala,17.110251,96.014928,ဦးသုမင်္ဂလ,Yangon-Pyay Main Road,Hmaw Bi
+1713,U Thu Mingala,17.110131,96.014819,ဦးသုမင်္ဂလ,Yangon-Pyay Main Road,Hmaw Bi
+1714,Daung Lay Kwae,17.115281,96.01063,ဒေါင်းလေးကွေ့,Yangon-Pyay Main Road,Hmaw Bi
+1715,Daung Lay Kwae,17.115322,96.01033,ဒေါင်းလေးကွေ့,Yangon-Pyay Main Road,Hmaw Bi
+1716,Own Chan,17.120777,96.008184,အုန်းခြံ,Yangon-Pyay Main Road,Hmaw Bi
+1717,Own Chan,17.120695,96.008012,အုန်းခြံ,Yangon-Pyay Main Road,Hmaw Bi
+1718,G.T.C Site Thit,17.124427,96.006639,ဂျီတီစီဆိုက်သစ်,Yangon-Pyay Main Road,Hmaw Bi
+1719,G.T.C Site Thit,17.124304,96.006424,ဂျီတီစီဆိုက်သစ်,Yangon-Pyay Main Road,Hmaw Bi
+1720,G.T.C Yae Oh,17.126929,96.005523,ဂျီတီစီရေအိုး,Yangon-Pyay Main Road,Hmaw Bi
+1721,G.T.C Yae Oh,17.127175,96.005266,ဂျီတီစီရေအိုး,Yangon-Pyay Main Road,Hmaw Bi
+1722,G.T.C Alal Pauk,17.12902,96.004665,ဂျီတီစီအလယ်ပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1723,G.T.C Alal Pauk,17.129102,96.00445,ဂျီတီစီအလယ်ပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1724,Aung Chan Thar,17.131112,96.003549,အောင်ချမ်းသာ,Yangon-Pyay Main Road,Hmaw Bi
+1725,Aung Chan Thar,17.131276,96.003807,အောင်ချမ်းသာ,Yangon-Pyay Main Road,Hmaw Bi
+1726,Oak Set,17.133776,96.002689,အုတ်စက်,Yangon-Pyay Main Road,Hmaw Bi
+1727,Oak Set,17.133655,96.00239,အုတ်စက်,Yangon-Pyay Main Road,Hmaw Bi
+1728,Myo Chaung,17.137264,96.001232,မြို့ချောင်း,Yangon-Pyay Main Road,Hmaw Bi
+1729,Myo Chaung,17.137018,96.00106,မြို့ချောင်း,Yangon-Pyay Main Road,Hmaw Bi
+1730,Lan Ni Lay,17.138361,96.000695,လမ်းနီလေး,Yangon-Pyay Main Road,Hmaw Bi
+1731,Lan Ni Lay,17.138494,96.000416,လမ်းနီလေး,Yangon-Pyay Main Road,Hmaw Bi
+1733,Japan Site,17.140421,95.999799,ဂျပန်ဆိုက်,Yangon-Pyay Main Road,Hmaw Bi
+1734,Japan Site,17.140706,95.99953,ဂျပန်ဆိုက်,Yangon-Pyay Main Road,Hmaw Bi
+1735,Equator,17.142308,95.999261,အီကွေတာ,Yangon-Pyay Main Road,Hmaw Bi
+1736,Equator,17.142267,95.999097,အီကွေတာ,Yangon-Pyay Main Road,Hmaw Bi
+1737,Phanat Sat,17.148816,95.998179,ဖိနပ်စက်,Yangon-Pyay Main Road,Hmaw Bi
+1738,Phanat Sat,17.148787,95.997884,ဖိနပ်စက်,Yangon-Pyay Main Road,Hmaw Bi
+1739,Baw Lone Sat Yone,17.149839,95.997776,ဘောလုံးစက်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1740,Baw Lone Sat Yone,17.149925,95.998,ဘောလုံးစက်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1741,Baw Lone Ye Gate,17.152027,95.997713,ဘောလုံးရဲဂိတ်,Yangon-Pyay Main Road,Hmaw Bi
+1742,Baw Lone Ye Gate,17.152068,95.997369,ဘောလုံးရဲဂိတ်,Yangon-Pyay Main Road,Hmaw Bi
+1743,Say War,17.153954,95.997455,ဆေးဝါး,Yangon-Pyay Main Road,Hmaw Bi
+1744,Say War,17.15379,95.997155,ဆေးဝါး,Yangon-Pyay Main Road,Hmaw Bi
+1745,Mani,17.156414,95.997026,မနီ,Yangon-Pyay Main Road,Hmaw Bi
+1746,Mani,17.156578,95.996726,မနီ,Yangon-Pyay Main Road,Hmaw Bi
+1747,Site Thit,17.161007,95.996168,ဆိုက်သစ်,Yangon-Pyay Main Road,Hmaw Bi
+1748,Site Thit,17.161089,95.995867,ဆိုက်သစ်,Yangon-Pyay Main Road,Hmaw Bi
+1749,Kalar Kone,17.164146,95.995554,ကုလားကုန်း,Yangon-Pyay Main Road,Hmaw Bi
+1750,Kalar Kone,17.164017,95.995309,ကုလားကုန်း,Yangon-Pyay Main Road,Hmaw Bi
+1751,Kyat Chan Pauk,17.167854,95.994966,ကြက်ခြံပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1752,Kyat Chan Pauk,17.168101,95.99458,ကြက်ခြံပေါက်,Yangon-Pyay Main Road,Hmaw Bi
+1753,Sauk Lote Yae Thit,17.169049,95.993825,ဆောက်လုပ်ရေးသစ်,Yangon-Pyay Main Road,Hmaw Bi
+1754,Sauk Lote Yae Thit,17.168962,95.993679,ဆောက်လုပ်ရေးသစ်,Yangon-Pyay Main Road,Hmaw Bi
+1755,Chan Aye,17.170848,95.991747,ချမ်းအေး,Yangon-Pyay Main Road,Hmaw Bi
+1756,Chan Aye,17.170848,95.991361,ချမ်းအေး,Yangon-Pyay Main Road,Hmaw Bi
+1757,Sauk Lote Yae (Mee Sat Hmaw Bi),17.173267,95.989044,ဆောက်လုပ်ရေး (မှော်ဘီ),Yangon-Pyay Main Road,Hmaw Bi
+1758,Sauk Lote Yae (Mee Sat Hmaw Bi),17.173062,95.988915,ဆောက်လုပ်ရေး (မှော်ဘီ),Yangon-Pyay Main Road,Hmaw Bi
+1759,Pha-Ye Khinn,17.175809,95.984795,ဖရဲခင်း,Yangon-Pyay Main Road,Hmaw Bi
+1760,Pha-Ye Khinn,17.175604,95.984581,ဖရဲခင်း,Yangon-Pyay Main Road,Hmaw Bi
+1761,Than-Ma-Ni Sat Yon,17.177449,95.982778,သံမဏိစက်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1762,Than-Ma-Ni Sat Yon,17.177285,95.982521,သံမဏိစက်ရုံ,Yangon-Pyay Main Road,Hmaw Bi
+1763,Nat Sin Lan,17.178187,95.981877,နတ်စင်လမ်း,Yangon-Pyay Main Road,Hmaw Bi
+1764,Nat Sin Lan,17.178269,95.982091,နတ်စင်လမ်း,Yangon-Pyay Main Road,Hmaw Bi
+1765,Kywe Lan,17.179622,95.981019,ကျွဲလမ်း,Yangon-Pyay Main Road,Hmaw Bi
+1766,Kywe Lan,17.179335,95.980933,ကျွဲလမ်း,Yangon-Pyay Main Road,Hmaw Bi
+1767,Myaung Takar Tar Sone,17.181918,95.97471,မြောင်းတကာတာဆုံ,Yangon-Pyay Main Road,Taik Kyi
+1768,Myaung Takar Tar Sone,17.181793,95.974547,မြောင်းတကာတာဆုံ,Yangon-Pyay Main Road,Taik Kyi
+1769,Myaung Takar Sein Kalar,17.183038,95.971834,မြောင်းတကာစိန်ကုလား,Yangon-Pyay Main Road,Taik Kyi
+1770,Myaung Takar Sein Kalar,17.182774,95.97172,မြောင်းတကာစိန်ကုလား,Yangon-Pyay Main Road,Taik Kyi
+1771,Myaung Takar Yae Kyaw,17.18733,95.969045,မြောင်းတကာရေကျော်,Yangon-Pyay Main Road,Taik Kyi
+1772,Myaung Takar Yae Kyaw,17.187084,95.968745,မြောင်းတကာရေကျော်,Yangon-Pyay Main Road,Taik Kyi
+1773,Myauk Chaw Kone,17.201679,95.962136,မျောက်ချောကုန်း,Yangon-Pyay Main Road,Taik Kyi
+1774,Myauk Chaw Kone,17.202007,95.961835,မျောက်ချောကုန်း,Yangon-Pyay Main Road,Taik Kyi
+1775,Ywar Lal,17.208689,95.962265,ရွာလယ်,Yangon-Pyay Main Road,Taik Kyi
+1776,Ywar Lal,17.20873,95.962007,ရွာလယ်,Yangon-Pyay Main Road,Taik Kyi
+1777,Gone Kwae,17.211643,95.961621,ကုန်းကွေ့,Yangon-Pyay Main Road,Taik Kyi
+1778,Gone Kwae,17.211735,95.961313,ကုန်းကွေ့,Yangon-Pyay Main Road,Taik Kyi
+1779,Kyun Chaung,17.214592,95.961921,ကျွန်းချောင်း,Yangon-Pyay Main Road,Taik Kyi
+1780,Kyun Chaung,17.214592,95.961578,ကျွန်းချောင်း,Yangon-Pyay Main Road,Taik Kyi
+1781,Nga-Pyaw Chan,17.220126,95.962522,ငှက်ပျောခြံ,Yangon-Pyay Main Road,Taik Kyi
+1782,Nga-Pyaw Chan,17.220003,95.962265,ငှက်ပျောခြံ,Yangon-Pyay Main Road,Taik Kyi
+1783,Yone Htein Thone,17.226111,95.960968,ရုံးထိန်း (၃),Yangon-Pyay Main Road,Taik Kyi
+1784,Yone Htein Thone,17.226029,95.960693,ရုံးထိန်း (၃),Yangon-Pyay Main Road,Taik Kyi
+1787,Inn Yat Kyee,17.254568,95.958585,အင်းယက်ကြီး,Yangon-Pyay Main Road,Taik Kyi
+1788,Inn Yat Kyee,17.254461,95.958386,အင်းယက်ကြီး,Yangon-Pyay Main Road,Taik Kyi
+1789,Kan Kone,17.268613,95.954711,ကန်ကုန်း,Yangon-Pyay Main Road,Taik Kyi
+1790,Kan Kone,17.26866,95.954546,ကန်ကုန်း,Yangon-Pyay Main Road,Taik Kyi
+1791,Taik Kyi Tar Gwa Tar Sone,17.288078,95.97068,တိုက်ကြီးတာခွ,Yangon-Pyay Main Road,Taik Kyi
+1792,Taik Kyi Tar Gwa Tar Sone,17.288119,95.970529,တိုက်ကြီးတာခွ,Yangon-Pyay Main Road,Taik Kyi
+1793,Taik Kyi Phaung Gyi Lan Khwe,17.294142,95.975529,တိုက်ကြီးဖောင်ကြီးလမ်းခွဲ,Yangon-Pyay Main Road,Taik Kyi
+1794,Taik Kyi Phaung Gyi Lan Khwe,17.294142,95.975229,တိုက်ကြီးဖောင်ကြီးလမ်းခွဲ,Yangon-Pyay Main Road,Taik Kyi
+1795,Taik Kyi Khan Ma,17.311269,95.966341,တိုက်ကြီးခန်းမ,Yangon-Pyay Main Road,Taik Kyi
+1796,Taik Kyi Khan Ma,17.311105,95.966084,တိုက်ကြီးခန်းမ,Yangon-Pyay Main Road,Taik Kyi
+1797,Taik Kyi Zay,17.313891,95.963622,တိုက်ကြီးဈေး,Yangon-Pyay Main Road,Taik Kyi
+1798,Taik Kyi Zay,17.31384,95.963472,တိုက်ကြီးဈေး,Yangon-Pyay Main Road,Taik Kyi
+1800,Aung Thukha,16.778113,96.247347,အောင်သုခ,Bogyoke Nay Win Road,Thanlyin
+1801,Aung Thukha,16.778087,96.247427,အောင်သုခ,Bogyoke Nay Win Road,Thanlyin
+1802,Yay Nan Gate,16.773066,96.246677,ရေနံဂိတ်,Bogyoke Nay Win Road,Thanlyin
+1803,Yay Nan Gate,16.773198,96.246896,ရေနံဂိတ်,Bogyoke Nay Win Road,Thanlyin
+1804,Dar Gude,16.770742,96.246504,ဒါကုရ်,Bogyoke Nay Win Road,Thanlyin
+1805,Dar Gude,16.770732,96.24658,ဒါကုရ်,Bogyoke Nay Win Road,Thanlyin
+1806,Myoma,16.768025,96.246483,မြို့မ,Bogyoke Nay Win Road,Thanlyin
+1807,Myoma,16.768015,96.246542,မြို့မ,Bogyoke Nay Win Road,Thanlyin
+1808,Myoma Zay,16.763618,96.24622,မြို့မဈေး,Bogyoke Nay Win Road,Thanlyin
+1809,Myoma Zay,16.763617,96.246097,မြို့မဈေး,Bogyoke Nay Win Road,Thanlyin
+1810,Kyar Paya,16.757768,96.2566,ကျားဘုရား,Kyaik Khauk Pagoda Road,Thanlyin
+1811,Kyar Paya,16.757735,96.25641,ကျားဘုရား,Kyaik Khauk Pagoda Road,Thanlyin
+1812,Sal Myaung,16.750962,96.261367,ဆည်မြောင်း,Kyaik Khauk Pagoda Road,Thanlyin
+1813,Sal Myaung,16.750871,96.261025,ဆည်မြောင်း,Kyaik Khauk Pagoda Road,Thanlyin
+1814,Bahosi/ Mawtin,16.780018,96.140015,ဗဟိုစည်/ မော်တင်,Bogyoke Aung San Road,Lanmadaw
+1815,Mit Zu Lan,16.850721,96.162009,မဉ္ဇူလမ်း,Parami Road,Mayangone
+1816,Mit Zu Lan,16.85094,96.162279,မဉ္ဇူလမ်း,Parami Road,Mayangone
+1817,Chaw Twin Kone,16.850728,96.15771,ချော်တွင်းကုန်း,Kabar Aye Pagoda Road,Mayangone
+1818,Sar Taik,16.861586,96.155325,စာတိုက်,Kabar Aye Pagoda Road,Mayangone
+1819,Nawaday,16.866799,96.152637,နဝဒေး,Kabar Aye Pagoda Road,Mayangone
+1820,Nawaday,16.866678,96.152519,နဝဒေး,Kabar Aye Pagoda Road,Mayangone
+1821,Ngar Lan,16.874205,96.156698,(၅) လမ်း,Thudhamar Road,North Okkalapa
+1822,Gate Haung,16.893763,96.157627,ဂိတ်ဟောင်း,Industrial Road,North Okkalapa
+1823,Ayar,16.917305,96.163675,ဧရာ,Thudhamar Road,North Okkalapa
+1824,Paya Kone Lan Sone,16.728672,96.273535,ဘုရားကုန်းလမ်းဆုံ,Thanlyin-Kyauktan Road,Thanlyin
+1825,Paya Kone Lan Sone,16.728782,96.274,ဘုရားကုန်းလမ်းဆုံ,Thanlyin-Kyauktan Road,Thanlyin
+1826,Nat Sin Ta-Yar,16.726203,96.279984,နတ်စင်တစ်ရာ,Thanlyin-Kyauktan Road,Thanlyin
+1827,Nat Sin Ta-Yar,16.72618,96.279795,နတ်စင်တစ်ရာ,Thanlyin-Kyauktan Road,Thanlyin
+1828,Sit See Taw,16.723936,96.283436,စစ်စည်းတော,Thanlyin-Kyauktan Road,Thanlyin
+1829,Sit See Taw,16.723853,96.283266,စစ်စည်းတော,Thanlyin-Kyauktan Road,Thanlyin
+1830,San Set,16.722754,96.285016,ဆန်စက်,Thanlyin-Kyauktan Road,Thanlyin
+1831,San Set,16.722716,96.284852,ဆန်စက်,Thanlyin-Kyauktan Road,Thanlyin
+1832,Kyaik Inn,16.718722,96.289196,ကျိုက်အင်း,Thanlyin-Kyauktan Road,Thanlyin
+1833,Kyaik Inn,16.7187,96.28904,ကျိုက်အင်း,Thanlyin-Kyauktan Road,Thanlyin
+1834,Gate Wa,16.716113,96.290613,ဂိတ်ဝ,Thanlyin-Kyauktan Road,Thanlyin
+1835,Gate Wa,16.716027,96.290433,ဂိတ်ဝ,Thanlyin-Kyauktan Road,Thanlyin
+1836,Nat Sin Koun,16.71348,96.292326,နတ်စင်ကုန်း,Thanlyin-Kyauktan Road,Thanlyin
+1837,Nat Sin Koun,16.713274,96.292069,နတ်စင်ကုန်း,Thanlyin-Kyauktan Road,Thanlyin
+1838,Saw Bwar,16.711143,96.294064,စော်ဘွား,Thanlyin-Kyauktan Road,Thanlyin
+1839,Saw Bwar,16.711055,96.293914,စော်ဘွား,Thanlyin-Kyauktan Road,Thanlyin
+1840,Ngar Su,16.707808,96.295367,ငါးစု,Thanlyin-Kyauktan Road,Thanlyin
+1841,Ngar Su,16.707849,96.295202,ငါးစု,Thanlyin-Kyauktan Road,Thanlyin
+1842,Hta Ma Lon,16.705506,96.297305,ထားမလုံ,Thanlyin-Kyauktan Road,Thanlyin
+1843,Hta Ma Lon,16.705342,96.297004,ထားမလုံ,Thanlyin-Kyauktan Road,Thanlyin
+1844,Paya Lay,16.698724,96.304815,ဘုရားလေး,Thanlyin-Kyauktan Road,Thanlyin
+1845,Paya Lay,16.698623,96.304659,ဘုရားလေး,Thanlyin-Kyauktan Road,Thanlyin
+1846,Ko Tin Maung Chan Wa,16.695938,96.305851,ကိုတင်မောင်ခြံဝ,Thanlyin-Kyauktan Road,Thanlyin
+1847,Ko Tin Maung Chan Wa,16.695801,96.305729,ကိုတင်မောင်ခြံဝ,Thanlyin-Kyauktan Road,Thanlyin
+1848,Aung Ta Pyay,16.685701,96.309379,အောင်သပြေ,Thanlyin-Kyauktan Road,Thanlyin
+1849,Aung Ta Pyay,16.685633,96.309362,အောင်သပြေ,Thanlyin-Kyauktan Road,Thanlyin
+1850,Gate Tit,16.683114,96.311874,ဂိတ် (၁),Thanlyin-Kyauktan Road,Thanlyin
+1851,Gate Tit,16.683069,96.311797,ဂိတ် (၁),Thanlyin-Kyauktan Road,Thanlyin
+1852,Gate Haung,16.68189,96.314025,ဂိတ်ဟောင်း,Thanlyin-Kyauktan Road,Thanlyin
+1853,Gate Haung,16.681839,96.313968,ဂိတ်ဟောင်း,Thanlyin-Kyauktan Road,Thanlyin
+1854,Alal Ywar,16.680632,96.315658,အလယ်ရွာ,Thanlyin-Kyauktan Road,Thanlyin
+1855,Alal Ywar,16.680586,96.315575,အလယ်ရွာ,Thanlyin-Kyauktan Road,Thanlyin
+1856,Hta Ma Ni Phone Gyi Kyaung Shae,16.679234,96.317391,ထမနီးဘုန်းကြီးကျောင်းရှေ့,Thanlyin-Kyauktan Road,Thanlyin
+1857,Hta Ma Ni Phone Gyi Kyaung Shae,16.679167,96.317348,ထမနီးဘုန်းကြီးကျောင်းရှေ့,Thanlyin-Kyauktan Road,Thanlyin
+1858,Hta Ma Ni Koun Htate,16.676291,96.319506,ထမနီးကုန်းထိပ်,Thanlyin-Kyauktan Road,Thanlyin
+1859,Hta Ma Ni Koun Htate,16.676204,96.319488,ထမနီးကုန်းထိပ်,Thanlyin-Kyauktan Road,Thanlyin
+1860,Saik Pyoe Yay,16.67336,96.320736,စိုက်ပျိုးရေး,Thanlyin-Kyauktan Road,Thanlyin
+1861,Saik Pyoe Yay,16.673387,96.32066,စိုက်ပျိုးရေး,Thanlyin-Kyauktan Road,Thanlyin
+1862,Nyaung Wine,16.667553,96.321462,ညောင်ဝိုင်း,Thanlyin-Kyauktan Road,Thanlyin
+1863,Nyaung Wine,16.667589,96.321332,ညောင်ဝိုင်း,Thanlyin-Kyauktan Road,Thanlyin
+1864,Mway Paya,16.662736,96.321136,မြွေဘုရား,Thanlyin-Kyauktan Road,Thanlyin
+1865,Mway Paya,16.662789,96.321042,မြွေဘုရား,Thanlyin-Kyauktan Road,Thanlyin
+1866,Pa Da Kyi,16.656502,96.318447,ပါဒကြီး,Thanlyin-Kyauktan Road,Thanlyin
+1867,Pa Da Kyi,16.656567,96.318359,ပါဒကြီး,Thanlyin-Kyauktan Road,Thanlyin
+1868,Chan Myae Thar Yar,16.649859,96.319806,ချမ်းမြေ့သာယာ,Thanlyin-Kyauktan Road,Kyauktan
+1869,Chan Myae Thar Yar,16.649874,96.319688,ချမ်းမြေ့သာယာ,Thanlyin-Kyauktan Road,Kyauktan
+1870,Si Saing,16.648075,96.321124,ဆီဆိုင်,Thanlyin-Kyauktan Road,Kyauktan
+1871,Si Saing,16.648049,96.321018,ဆီဆိုင်,Thanlyin-Kyauktan Road,Kyauktan
+1872,Aung Chan Thar,16.644469,96.323547,အောင်ချမ်းသာ,Thanlyin-Kyauktan Road,Kyauktan
+1873,Aung Chan Thar,16.644481,96.323474,အောင်ချမ်းသာ,Thanlyin-Kyauktan Road,Kyauktan
+1874,Pal Hlaw Pho,16.640714,96.323798,ပဲလှော်ဖို,Thanlyin-Kyauktan Road,Kyauktan
+1875,Pal Hlaw Pho,16.640729,96.323694,ပဲလှော်ဖို,Thanlyin-Kyauktan Road,Kyauktan
+1876,Gat Tae Kwae,16.638335,96.325244,ဂါတ်တဲကွေ့,Thanlyin-Kyauktan Road,Kyauktan
+1877,Gat Tae Kwae,16.638298,96.324992,ဂါတ်တဲကွေ့,Thanlyin-Kyauktan Road,Kyauktan
+1878,Zay Kwae,16.635822,96.326508,ဈေးကွေ့,Thanlyin-Kyauktan Road,Kyauktan
+1879,Kyauk Tan,16.633214,96.327295,ကျောက်တန်း,Thanlyin-Kyauktan Road,Kyauktan
+1880,Kar Gyi Gate,16.734605,96.290047,ကားကြီးဂိတ်,No. 6 Main Road,Thanlyin
+1881,Kar Gyi Gate,16.73478,96.290014,ကားကြီးဂိတ်,No. 6 Main Road,Thanlyin
+1882,Ngone Chan,16.737647,96.295502,ငုံးခြံ,No. 6 Main Road,Thanlyin
+1883,Ngone Chan,16.737318,96.295674,ငုံးခြံ,No. 6 Main Road,Thanlyin
+1884,Chauk Lan Twar,16.738345,96.296875,ခြောက်လမ်းသွား,No. 6 Main Road,Thanlyin
+1885,Chauk Lan Twar,16.738099,96.297305,ခြောက်လမ်းသွား,No. 6 Main Road,Thanlyin
+1886,Kyar Ni Kan,16.740729,96.301725,ကြာနီကန်,No. 6 Main Road,Thanlyin
+1887,Kyar Ni Kan,16.740359,96.301811,ကြာနီကန်,No. 6 Main Road,Thanlyin
+1888,Nay La,16.74151,96.303356,နေလ,No. 6 Main Road,Thanlyin
+1889,Nay La,16.741222,96.30357,နေလ,No. 6 Main Road,Thanlyin
+1890,Chaung Tit,16.74566,96.31181,ချောင်း (၁),No. 6 Main Road,Thanlyin
+1891,Chaung Tit,16.745332,96.311681,ချောင်း (၁),No. 6 Main Road,Thanlyin
+1892,Sit Pin Kwinn,16.748537,96.317475,စစ်ပင်ကွင်း,No. 6 Main Road,Thanlyin
+1893,Sit Pin Kwinn,16.748167,96.317604,စစ်ပင်ကွင်း,No. 6 Main Road,Thanlyin
+1894,Nyaung Pin Lay Zay,16.753674,96.327424,ညောင်ပင်လေးဈေး,No. 6 Main Road,Thanlyin
+1895,Nyaung Pin Lay Zay,16.753099,96.327939,ညောင်ပင်လေးဈေး,No. 6 Main Road,Thanlyin
+1896,Ma Yin Kwae,16.756879,96.334376,မရင်ကွေ့,No. 6 Main Road,Thanlyin
+1897,Ma Yin Kwae,16.756633,96.33472,မရင်ကွေ့,No. 6 Main Road,Thanlyin
+1898,Ta-Htay Kwinn,16.765385,96.34743,သူဌေးကွင်း,No. 6 Main Road,Thanlyin
+1899,Ta-Htay Kwinn,16.765056,96.347516,သူဌေးကွင်း,No. 6 Main Road,Thanlyin
+1900,Kayin Seik Anout Phyar,16.764111,96.362257,ကရင်ဆိပ်အနောက်ဖျား,No. 6 Main Road,Thanlyin
+1901,Kayin Seik Anout Phyar,16.763125,96.362085,ကရင်ဆိပ်အနောက်ဖျား,No. 6 Main Road,Thanlyin
+1902,Kayin Seik Thama,16.763783,96.366034,ကရင်ဆိပ်သမ,No. 6 Main Road,Thanlyin
+1903,Kayin Seik Thama,16.762303,96.366034,ကရင်ဆိပ်သမ,No. 6 Main Road,Thanlyin
+1904,Chin Ma Lay Kayin Seik,16.762961,96.370497,ချင်းမလေးကရင်ဆိပ် (ကရင်ဆိပ်),No. 6 Main Road,Thanlyin
+1905,Chin Ma Lay Kayin Seik,16.761975,96.370325,ချင်းမလေးကရင်ဆိပ် (ကရင်ဆိပ်),No. 6 Main Road,Thanlyin
+1906,Shwe Htan Pin,16.761482,96.379251,ရွှေထန်းပင်,No. 6 Main Road,Thanlyin
+1907,Shwe Htan Pin,16.76066,96.37908,ရွှေထန်းပင်,No. 6 Main Road,Thanlyin
+1908,San Da Thu,16.758358,96.389379,ဆန္ဒတူ,No. 6 Main Road,Thanlyin
+1909,San Da Thu,16.757208,96.389379,ဆန္ဒတူ,No. 6 Main Road,Thanlyin
+1910,Palae Maw Taw Seik,16.755811,96.39631,ပုလဲမော်တော်ဆိပ်,No. 6 Main Road,Thanlyin
+1911,Palae Maw Taw Seik,16.755482,96.396482,ပုလဲမော်တော်ဆိပ်,No. 6 Main Road,Thanlyin
+1912,Palae,16.755852,96.398242,ပုလဲ,No. 6 Main Road,Thanlyin
+1913,Palae,16.755523,96.398199,ပုလဲ,No. 6 Main Road,Thanlyin
+1914,Kan Myint,16.749975,96.410859,ကံမြင့်,No. 6 Main Road,Thanlyin
+1915,Kan Myint,16.749606,96.410944,ကံမြင့်,No. 6 Main Road,Thanlyin
+1916,Ou Yin Thar,16.748414,96.423898,ဥယာဉ်သာ,No. 6 Main Road,Thanlyin
+1917,Ou Yin Thar,16.747921,96.424069,ဥယာဉ်သာ,No. 6 Main Road,Thanlyin
+1918,Kar Gyi Tae,16.754824,96.400734,ကားကြီးတဲ,No. 6 Main Road,Thanlyin
+1919,Kar Gyi Tae,16.754496,96.400498,ကားကြီးတဲ,No. 6 Main Road,Thanlyin
+1920,Pyinn Ma Kan,16.749489,96.413985,ပျဉ်းမကန်,No. 6 Main Road,Thanlyin
+1921,Pyinn Ma Kan,16.749154,96.414027,ပျဉ်းမကန်,No. 6 Main Road,Thanlyin
+1922,Taung Mo/ Hle Lan,16.747756,96.428969,တောင်မို့/လှည်းလမ်း,No. 6 Main Road,Thanlyin
+1923,Taung Mo/ Hle Lan,16.747345,96.429012,တောင်မို့/လှည်းလမ်း,No. 6 Main Road,Thanlyin
+1926,Bo Tae Kone,16.747921,96.435921,ဗိုလ်တဲကုန်း,No. 6 Main Road,Thanlyin
+1927,Bo Tae Kone,16.747345,96.435964,ဗိုလ်တဲကုန်း,No. 6 Main Road,Thanlyin
+1928,Five Star,16.747921,96.438746,ဖိုက်စတား,No. 6 Main Road,Thanlyin
+1929,Five Star,16.747407,96.438714,ဖိုက်စတား,No. 6 Main Road,Thanlyin
+1930,Tadar Ni,16.747921,96.448274,တံတားနီ,No. 6 Main Road,Thanlyin
+1931,Tadar Ni,16.747592,96.448274,တံတားနီ,No. 6 Main Road,Thanlyin
+1932,Tadar Phyu,16.748003,96.451535,တံတားဖြူ,No. 6 Main Road,Thanlyin
+1933,Tadar Phyu,16.747345,96.451707,တံတားဖြူ,No. 6 Main Road,Thanlyin
+1934,Pwint Oo,16.747921,96.454625,ပွင့်ဦး,No. 6 Main Road,Thanlyin
+1935,Pwint Oo,16.747592,96.454625,ပွင့်ဦး,No. 6 Main Road,Thanlyin
+1936,Taik Tu Kan,16.748167,96.456943,တိုက်တူးကန်,No. 6 Main Road,Thanlyin
+1937,Taik Tu Kan,16.747592,96.456943,တိုက်တူးကန်,No. 6 Main Road,Thanlyin
+1938,Nyaung Ni Tadar,16.748167,96.45823,ညောင်နီတံတား,No. 6 Main Road,Thanlyin
+1939,Nyaung Ni Tadar,16.747838,96.458316,ညောင်နီတံတား,No. 6 Main Road,Thanlyin
+1940,Hnit Htat Kwae,16.750715,96.473429,နှစ်ထပ်ကွေ့,No. 6 Main Road,Thanlyin
+1941,Hnit Htat Kwae,16.750469,96.473558,နှစ်ထပ်ကွေ့,No. 6 Main Road,Thanlyin
+1942,Own Tadar,16.752153,96.480253,အုန်းတံတား,No. 6 Main Road,Thanlyin
+1943,Own Tadar,16.751784,96.480339,အုန်းတံတား,No. 6 Main Road,Thanlyin
+1944,Ye Nwe,16.752441,96.482227,ရဲနွယ်,No. 6 Main Road,Thanlyin
+1945,Ye Nwe,16.752112,96.482184,ရဲနွယ်,No. 6 Main Road,Thanlyin
+1946,U Tin Hla Tadar,16.752729,96.484072,ဦးတင်လှတံတား,No. 6 Main Road,Thanlyin
+1947,U Tin Hla Tadar,16.752359,96.484158,ဦးတင်လှတံတား,No. 6 Main Road,Thanlyin
+1948,Ngapi Oak Pauk,16.753222,96.487291,ငပိအုတ်ပေါက်,No. 6 Main Road,Thanlyin
+1949,Ngapi Oak Pauk,16.752852,96.487334,ငပိအုတ်ပေါက်,No. 6 Main Road,Thanlyin
+1950,Paya Lay Tadar,16.753962,96.49317,ဘုရားလေးတံတား,No. 6 Main Road,Thanlyin
+1951,Paya Lay Tadar,16.753715,96.493256,ဘုရားလေးတံတား,No. 6 Main Road,Thanlyin
+1952,War Tadar,16.755153,96.497376,ဝါးတံတား,No. 6 Main Road,Thanlyin
+1953,War Tadar,16.754824,96.497462,ဝါးတံတား,No. 6 Main Road,Thanlyin
+1954,Mee Thar Su Tadar,16.757167,96.504285,မိသားစုတံတား,No. 6 Main Road,Thanlyin
+1955,Mee Thar Su Tadar,16.756879,96.504285,မိသားစုတံတား,No. 6 Main Road,Thanlyin
+1956,Kyo So Par Ei,16.759221,96.50995,ကြိုဆိုပါ၏,No. 6 Main Road,Thonegwa
+1957,Kyo So Par Ei,16.758893,96.510036,ကြိုဆိုပါ၏,No. 6 Main Road,Thonegwa
+1958,Saik Pyoe Yay Kwae,16.760701,96.514971,စိုက်ပျိုးရေးကွေ့,No. 6 Main Road,Thonegwa
+1959,Saik Pyoe Yay Kwae,16.760413,96.5151,စိုက်ပျိုးရေးကွေ့,No. 6 Main Road,Thonegwa
+1960,Khun Htate,16.760125,96.516387,ခွန်ထိပ်,No. 6 Main Road,Thonegwa
+1961,Khun Htate,16.759838,96.516216,ခွန်ထိပ်,No. 6 Main Road,Thonegwa
+1962,Lay Saing,16.760125,96.518104,လေဆိုင်,No. 6 Main Road,Thonegwa
+1963,Lay Saing,16.759879,96.518147,လေဆိုင်,No. 6 Main Road,Thonegwa
+1964,Shwe Pu Zun Kwae,16.760331,96.519434,ရွှေပုစွန်ကွေ့,No. 6 Main Road,Thonegwa
+1965,Shwe Pu Zun Kwae,16.760002,96.519778,ရွှေပုစွန်ကွေ့,No. 6 Main Road,Thonegwa
+1966,Bar Lan,16.761112,96.519477,ဘားလမ်း,No. 6 Main Road,Thonegwa
+1967,Bar Lan,16.761112,96.519778,ဘားလမ်း,No. 6 Main Road,Thonegwa
+1968,Ban Shae,16.762735,96.520489,ဘဏ်ရှေ့,No. 6 Main Road,Thonegwa
+1969,Ban Shae,16.762386,96.520489,ဘဏ်ရှေ့,No. 6 Main Road,Thonegwa
+1970,Htauk Kyant Lan Sone,17.042337,96.133387,ထောက်ကြန့်လမ်းဆုံ,No. 1 Main Road,Mingalardon
+1971,Htauk Kyant Lan Sone,17.04259,96.133331,ထောက်ကြန့်လမ်းဆုံ,No. 1 Main Road,Mingalardon
+1972,Myo Shouk Lan,17.048467,96.141617,မြို့လျှောက်လမ်း,No. 1 Main Road,Mingalardon
+1973,Myo Shouk Lan,17.048292,96.141779,မြို့လျှောက်လမ်း,No. 1 Main Road,Mingalardon
+1974,Sauk Lote Yae,17.055859,96.152054,ဆောက်လုပ်ရေး,No. 1 Main Road,Mingalardon
+1975,Sauk Lote Yae,17.055638,96.152167,ဆောက်လုပ်ရေး,No. 1 Main Road,Mingalardon
+1976,Ka Lai Htaw,17.058052,96.155103,ကလိုင်ထော်,No. 1 Main Road,Mingalardon
+1977,Ka Lai Htaw,17.057838,96.155258,ကလိုင်ထော်,No. 1 Main Road,Mingalardon
+1978,Sain Lae Oo,17.0608,96.159087,စိမ်းလဲ့ဦး,No. 1 Main Road,Mingalardon
+1979,Sain Lae Oo,17.060682,96.159289,စိမ်းလဲ့ဦး,No. 1 Main Road,Mingalardon
+1980,A Mhat Thone,17.065687,96.165984,အမှတ် (၃),No. 1 Main Road,Mingalardon
+1981,A Mhat Thone,17.065441,96.16607,အမှတ် (၃),No. 1 Main Road,Mingalardon
+1982,Htan Pin Kan,17.072829,96.176372,ထန်းပင်ကန်,No. 1 Main Road,Hlegu
+1983,Htan Pin Kan,17.072669,96.176555,ထန်းပင်ကန်,No. 1 Main Road,Hlegu
+1984,Shwe War Myay,17.076429,96.181575,ရွှေဝါမြေ,No. 1 Main Road,Hlegu
+1985,Shwe War Myay,17.076308,96.181704,ရွှေဝါမြေ,No. 1 Main Road,Hlegu
+1986,Yadanar Myay,17.078205,96.184119,ရတနာမြေ,No. 1 Main Road,Hlegu
+1987,Yadanar Myay,17.078066,96.184267,ရတနာမြေ,No. 1 Main Road,Hlegu
+1988,San Set,17.082413,96.190104,ဆန်စက်,No. 1 Main Road,Hlegu
+1989,San Set,17.08221,96.190225,ဆန်စက်,No. 1 Main Road,Hlegu
+1990,Kyun Ka Lay,17.084012,96.192472,ကျွန်းကလေး,No. 1 Main Road,Hlegu
+1991,Kyun Ka Lay,17.083887,96.192608,ကျွန်းကလေး,No. 1 Main Road,Hlegu
+1992,Yate Thein,17.084997,96.193823,ရိတ်သိမ်း,No. 1 Main Road,Hlegu
+1993,Yate Thein,17.084826,96.193975,ရိတ်သိမ်း,No. 1 Main Road,Hlegu
+1994,A Nout Zayat,17.085752,96.194914,အနောက်ဇရပ်,No. 1 Main Road,Hlegu
+1995,A Nout Zayat,17.085617,96.195093,အနောက်ဇရပ်,No. 1 Main Road,Hlegu
+1996,A Shae Zayat,17.087738,96.197799,အရှေ့ဇရပ်,No. 1 Main Road,Hlegu
+1997,A Shae Zayat,17.0876,96.197951,အရှေ့ဇရပ်,No. 1 Main Road,Hlegu
+1998,Ar-zi-wa,17.08903,96.20091,အာဇီဝ,No. 1 Main Road,Hlegu
+1999,Ar-zi-wa,17.088824,96.20096,အာဇီဝ,No. 1 Main Road,Hlegu
+2000,Sein Nagar,17.091682,96.206883,စိန်နဂါး,No. 1 Main Road,Hlegu
+2001,Sein Nagar,17.091451,96.207024,စိန်နဂါး,No. 1 Main Road,Hlegu
+2002,Yankin Ngar Lan,17.092665,96.209303,ရန်ကင်း (၅) လမ်း,No. 1 Main Road,Hlegu
+2003,Yankin Ngar Lan,17.092514,96.209359,ရန်ကင်း (၅) လမ်း,No. 1 Main Road,Hlegu
+2004,Yone Shae,17.093756,96.211774,ရုံးရှေ့,No. 1 Main Road,Hlegu
+2005,Yone Shae,17.093583,96.211842,ရုံးရှေ့,No. 1 Main Road,Hlegu
+2006,Yoke Shin Yon,17.095246,96.21526,ရုပ်ရှင်ရုံ,No. 1 Main Road,Hlegu
+2007,Yoke Shin Yon,17.09506,96.215379,ရုပ်ရှင်ရုံ,No. 1 Main Road,Hlegu
+2008,Yeik Thar,17.095923,96.216799,ရိပ်သာ,No. 1 Main Road,Hlegu
+2009,Yeik Thar,17.095747,96.216921,ရိပ်သာ,No. 1 Main Road,Hlegu
+2010,Hlegu Zay,17.096831,96.219037,လှည်းကူးဈေး,No. 1 Main Road,Hlegu
+2011,Hlegu Zay,17.096672,96.219097,လှည်းကူးဈေး,No. 1 Main Road,Hlegu
+2012,Tin Zar Oo,17.098559,96.223129,သဉ္ဇာဦး,No. 1 Main Road,Hlegu
+2013,Tin Zar Oo,17.098352,96.223179,သဉ္ဇာဦး,No. 1 Main Road,Hlegu
+2014,Hlegu Tar Sone,17.099807,96.225899,လှည်းကူးတာဆုံ,Hlegu-Phaung Gyi Road,Hlegu
+2015,Hlegu Tar Sone,17.099879,96.225738,လှည်းကူးတာဆုံ,Hlegu-Phaung Gyi Road,Hlegu
+2016,San Taw Tar,17.104258,96.2268,စန်းသော်တာ,Hlegu-Phaung Gyi Road,Hlegu
+2017,San Taw Tar,17.104422,96.226661,စန်းသော်တာ,Hlegu-Phaung Gyi Road,Hlegu
+2018,Nyaung Pin,17.108062,96.226777,ညောင်ပင်,Hlegu-Phaung Gyi Road,Hlegu
+2019,Nyaung Pin,17.108185,96.226991,ညောင်ပင်,Hlegu-Phaung Gyi Road,Hlegu
+2020,Sal Myaung Yone,17.111631,96.226627,ဆည်မြောင်းရုံး,Hlegu-Phaung Gyi Road,Hlegu
+2021,Sal Myaung Yone,17.111672,96.226326,ဆည်မြောင်းရုံး,Hlegu-Phaung Gyi Road,Hlegu
+2022,Ngapi Tae,17.115035,96.226623,ငပိတဲ,Hlegu-Phaung Gyi Road,Hlegu
+2023,Ngapi Tae,17.115199,96.226451,ငပိတဲ,Hlegu-Phaung Gyi Road,Hlegu
+2024,Sakhan Kyi,17.122253,96.226537,စခန်းကြီး,Hlegu-Phaung Gyi Road,Hlegu
+2025,Sakhan Kyi,17.122499,96.226966,စခန်းကြီး,Hlegu-Phaung Gyi Road,Hlegu
+2026,Mhan Kone,17.129636,96.227224,မှန်ကုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2027,Mhan Kone,17.129841,96.227567,မှန်ကုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2028,Htain Thone Pin,17.138248,96.226623,ထိန်သုံးပင်,Hlegu-Phaung Gyi Road,Hlegu
+2029,Htain Thone Pin,17.138412,96.226838,ထိန်သုံးပင်,Hlegu-Phaung Gyi Road,Hlegu
+2030,Ka Li Htaw,17.143497,96.226366,ကလီထော်,Hlegu-Phaung Gyi Road,Hlegu
+2031,Ka Li Htaw,17.143579,96.226666,ကလီထော်,Hlegu-Phaung Gyi Road,Hlegu
+2032,Aung Ta Pyay,17.15055,96.226487,အောင်သပြေ,Hlegu-Phaung Gyi Road,Hlegu
+2033,Aung Ta Pyay,17.150468,96.22683,အောင်သပြေ,Hlegu-Phaung Gyi Road,Hlegu
+2034,Kyar Kan,17.153257,96.226838,ကြာကန်,Hlegu-Phaung Gyi Road,Hlegu
+2035,Kyar Kan,17.15338,96.22731,ကြာကန်,Hlegu-Phaung Gyi Road,Hlegu
+2036,Ka Dit,17.164082,96.228812,ကဒစ်,Hlegu-Phaung Gyi Road,Hlegu
+2037,Ka Dit,17.164041,96.229112,ကဒစ်,Hlegu-Phaung Gyi Road,Hlegu
+2038,Nat-Khan-Mhway Taik,17.180237,96.232159,နှုတ်ခမ်းမွှေးသိုက်,Hlegu-Phaung Gyi Road,Hlegu
+2039,Nat-Khan-Mhway Taik,17.180237,96.232588,နှုတ်ခမ်းမွှေးသိုက်,Hlegu-Phaung Gyi Road,Hlegu
+2040,Si Own,17.188232,96.233919,ဆီအုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2041,Si Own,17.188273,96.234391,ဆီအုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2042,Tha Pyay Kone,17.193931,96.234133,သပြေကုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2043,Tha Pyay Kone,17.194095,96.234477,သပြေကုန်း,Hlegu-Phaung Gyi Road,Hlegu
+2044,Sar Boo Taung,17.207172,96.226666,စာဘူးတောင်း,Hlegu-Phaung Gyi Road,Hlegu
+2045,Sar Boo Taung,17.207336,96.227009,စာဘူးတောင်း,Hlegu-Phaung Gyi Road,Hlegu
+2046,A Myan Lan Sone,17.225783,96.210787,အမြန်လမ်းဆုံ,Hlegu-Phaung Gyi Road,Hlegu
+2047,A Myan Lan Sone,17.22566,96.210315,အမြန်လမ်းဆုံ,Hlegu-Phaung Gyi Road,Hlegu
+2048,Nyaung Kone,17.230784,96.206882,ညောင်ကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2049,Nyaung Kone,17.230948,96.207268,ညောင်ကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2050,Kyo Kone Lan Thit,17.247015,96.20023,ကြို့ကုန်းလမ်းသစ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2051,Kyo Kone Lan Thit,17.247302,96.199844,ကြို့ကုန်းလမ်းသစ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2052,Hine Koo,17.274965,96.192677,ဟိုင်းကူး,Hlegu-Phaung Gyi Road,Phaung Gyi
+2053,Hine Koo,17.274801,96.192462,ဟိုင်းကူး,Hlegu-Phaung Gyi Road,Phaung Gyi
+2054,Ou Yin Wa,17.298117,96.184866,ဥယျာဉ်ဝ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2055,Ou Yin Wa,17.298281,96.184609,ဥယျာဉ်ဝ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2056,Tha Pyay Taung,17.28902,96.185253,သပြေတောင်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2057,Tha Pyay Taung,17.28902,96.185038,သပြေတောင်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2058,Ou Yin Wa Lan Thit,17.308155,96.181262,ဥယျာဉ်ဝလမ်းသစ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2059,Ou Yin Wa Lan Thit,17.308114,96.181004,ဥယျာဉ်ဝလမ်းသစ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2060,Paya Kone,17.316636,96.181347,ဘုရားကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2061,Paya Kone,17.316472,96.181047,ဘုရားကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2062,Si Pin Lan Khwe,17.319955,96.180961,စည်ပင်လမ်းခွဲ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2063,Si Pin Lan Khwe,17.320119,96.180661,စည်ပင်လမ်းခွဲ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2064,Phaung Gyi Tar Sone,17.322331,96.179502,ဖောင်ကြီးတာဆုံ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2065,Phaung Gyi Tar Sone,17.32229,96.179202,ဖောင်ကြီးတာဆုံ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2066,Aung Chan Thar,17.324175,96.180747,အောင်ချမ်းသာ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2067,Aung Chan Thar,17.324379,96.180532,အောင်ချမ်းသာ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2068,Say Yone Kone,17.327288,96.185811,ဆေးရုံကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2069,Say Yone Kone,17.327411,96.185596,ဆေးရုံကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2070,Baho Wun Htan Takke Tho,17.331549,96.187184,ဗဟိုဝန်ထမ်းတက္ကသိုလ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2071,Baho Wun Htan Takke Tho,17.331385,96.18727,ဗဟိုဝန်ထမ်းတက္ကသိုလ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2072,San Pya,17.335318,96.196239,စံပြ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2073,San Pya,17.335523,96.195982,စံပြ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2074,Hnit Gate,17.339783,96.197698,(၂) ဂိတ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2075,Hnit Gate,17.340111,96.197269,(၂) ဂိတ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2076,Thama War Ya Ma College,17.345723,96.200917,သမဝါယမကောလိပ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2077,Thama War Ya Ma College,17.345846,96.200702,သမဝါယမကောလိပ်,Hlegu-Phaung Gyi Road,Phaung Gyi
+2078,Sauk Lote Yae Lan Khwe,17.347525,96.203964,ဆောက်လုပ်ရေးလမ်းခွဲ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2079,Sauk Lote Yae Lan Khwe,17.347648,96.203706,ဆောက်လုပ်ရေးလမ်းခွဲ,Hlegu-Phaung Gyi Road,Phaung Gyi
+2080,Min Kone,17.350638,96.208084,မင်းကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2081,Min Kone,17.350679,96.207826,မင်းကုန်း,Hlegu-Phaung Gyi Road,Phaung Gyi
+2082,Chan Wine,16.76255,96.343739,ခြံဝိုင်း,No. 6 Main Road,Thanlyin
+2083,Chan Wine,16.762755,96.343267,ခြံဝိုင်း,No. 6 Main Road,Thanlyin
+2084,Lay Daung Kan (Site Mway Tit),16.959838,96.294813,လေးထောင့်ကန် (ဆိုက်မွေး-၁),No. 2 Main Road,South Dagon
+2085,Yeik Thar,16.958359,96.293384,ရိပ်သာ,No. 2 Main Road,South Dagon
+2086,Yeik Thar,16.958333,96.293432,ရိပ်သာ,No. 2 Main Road,South Dagon
+2087,Thama,16.956322,96.291811,သမ,No. 2 Main Road,South Dagon
+2088,Thama,16.956527,96.291597,သမ,No. 2 Main Road,South Dagon
+2089,U Khway Pu,16.954393,96.290224,ဦးခွေးပု,No. 2 Main Road,South Dagon
+2090,U Khway Pu,16.954532,96.290074,ဦးခွေးပု,No. 2 Main Road,South Dagon
+2091,Moke Pho,16.950985,96.287177,မုန့်ဖို,No. 2 Main Road,South Dagon
+2092,Moke Pho,16.951143,96.287073,မုန့်ဖို,No. 2 Main Road,South Dagon
+2093,Tha Pyay Chan,16.94703,96.28377,သပြေခြံ,No. 2 Main Road,South Dagon
+2094,Tha Pyay Chan,16.947098,96.283471,သပြေခြံ,No. 2 Main Road,South Dagon
+2095,December Alal Pauk,16.943087,96.280308,ဒီဇင်ဘာအလယ်ပေါက်,No. 2 Main Road,South Dagon
+2096,December Alal Pauk,16.943143,96.28017,ဒီဇင်ဘာအလယ်ပေါက်,No. 2 Main Road,South Dagon
+2097,A Aye Khan,16.939312,96.277016,အအေးခန်း,No. 2 Main Road,South Dagon
+2098,A Aye Khan,16.939519,96.276947,အအေးခန်း,No. 2 Main Road,South Dagon
+2099,Unit Three,16.934893,96.273358,ယူနစ် (၃),No. 2 Main Road,South Dagon
+2100,Unit Three,16.935126,96.273106,ယူနစ် (၃),No. 2 Main Road,South Dagon
+2101,Kyo So Yay,16.924367,96.263958,ကြိုဆိုရေး,No. 2 Main Road,South Dagon
+2102,Kyo So Yay,16.924359,96.263776,ကြိုဆိုရေး,No. 2 Main Road,South Dagon
+2103,Sal Myaung,16.922802,96.262699,ဆည်မြောင်း,No. 2 Main Road,South Dagon
+2104,Sal Myaung,16.922925,96.262463,ဆည်မြောင်း,No. 2 Main Road,South Dagon
+2105,Tayar-Lay-Sae,16.915026,96.25581,တစ်ရာ့လေးဆယ်,No. 2 Main Road,South Dagon
+2106,Tayar-Lay-Sae,16.915075,96.255732,တစ်ရာ့လေးဆယ်,No. 2 Main Road,South Dagon
+2107,Kyaung Shae,16.911141,96.252676,ကျောင်းရှေ့,No. 2 Main Road,South Dagon
+2108,Kyaung Shae,16.911324,96.252426,ကျောင်းရှေ့,No. 2 Main Road,South Dagon
+2109,Ah Kyaw Tae,16.906974,96.250269,အကြော်တဲ,No. 2 Main Road,South Dagon
+2110,Ah Kyaw Tae,16.907097,96.249969,အကြော်တဲ,No. 2 Main Road,South Dagon
+2111,Nyaung Pin,16.905372,96.249197,ညောင်ပင်,No. 2 Main Road,South Dagon
+2112,Nyaung Pin,16.905454,96.248939,ညောင်ပင်,No. 2 Main Road,South Dagon
+2113,A Kauk Khun,16.903114,96.248038,အကောက်ခွန်,No. 2 Main Road,South Dagon
+2114,A Kauk Khun,16.90336,96.247823,အကောက်ခွန်,No. 2 Main Road,South Dagon
+2115,Lai Sin Yone Alal Pauk,16.895045,96.242849,လိုင်စင်ရုံး (အလယ်ပေါက်),No. 2 Main Road,South Dagon
+2116,Lai Sin Yone Alal Pauk,16.895251,96.24257,လိုင်စင်ရုံး (အလယ်ပေါက်),No. 2 Main Road,South Dagon
+2117,Sate Kyan Mar Yae Say Yon,16.961884,96.256893,စိတ်ကျန်းမာရေးဆေးရုံ,No. 7 Main Road,East Dagon
+2118,Nee Pyinyar Takke Tho (G.T.U),16.689967,96.307434,နည်းပညာတက္ကသိုလ်(ဂျီတီယူ),Thanlyin-Kyauktan Road,Thanlyin
+2119,Nee Pyinyar Takke Tho (G.T.U),16.689958,96.307371,နည်းပညာတက္ကသိုလ်(ဂျီတီယူ),Thanlyin-Kyauktan Road,Thanlyin
+2120,A Nout Paing Takke Tho,16.947079,96.015806,အနောက်ပိုင်းတက္ကသိုလ်,West University Road,Hlaing Tharyar
+2121,A Nout Paing Takke Tho,16.947158,96.015846,အနောက်ပိုင်းတက္ကသိုလ်,West University Road,Hlaing Tharyar
+2122,Sal Mile,16.913297,96.211864,(၁၀) မိုင်,Dagon University,North Dagon
+2123,Yone Shae,16.915206,96.210791,ရုံးရှေ့,Dagon University,North Dagon
+2124,Bay Li,16.859959,96.178682,ဘေလီ,Thanthumar Road,South Okkalapa
+2125,Kaytu Marlar Kwae,16.85613,96.172072,ကေတုမာလာကွေ့,Parami Road,South Okkalapa
+2126,Thone-sae-tit Gate/ Tit Gate,16.84888,96.19402,(၃၁) ဂိတ်/(၁) ဂိတ်,Thanthumar Road,South Okkalapa
+2127,Thanat Pyit Kwin,16.854523,96.183842,သေနတ်ပစ်ကွင်း,Thanthumar Road,South Okkalapa
+2128,Thanat Pyit Kwin,16.85446,96.183724,သေနတ်ပစ်ကွင်း,Thanthumar Road,South Okkalapa
+2129,Kyaetamar,16.851082,96.187644,ကျေးတမာ,Thanthumar Road,South Okkalapa
+2130,Paya Lan,16.847724,96.181653,ဘုရားလမ်း,Thitsar Road,South Okkalapa
+2131,Thayet Taw,16.832547,96.187779,သရက်တော,Thu Mingalar Road,Thingangyun
+2132,Yone Shae,16.844449,96.181095,ရုံးရှေ့,Thu Mingalar Road,South Okkalapa
+2134,Tadar Htate,16.85598,96.237389,တံတားထိပ်,Maungmakan Kantha Road,South Dagon
+2135,Phone Gyi Kyaung Kwae,16.854072,96.239806,ဘုန်းကြီးကျောင်းကွေ့,Maungmakan Kantha Road,South Dagon
+2136,Phone Gyi Kyaung Kwae,16.853908,96.240161,ဘုန်းကြီးကျောင်းကွေ့,Maungmakan Kantha Road,South Dagon
+2137,Kar Lay Gate,16.85169,96.237956,ကားလေးဂိတ်,Hlawga Road,South Dagon
+2138,Thit Saing Kwae,16.847184,96.22348,သစ်ဆိုင်ကွေ့,Pyi Htaung Su Main Road,South Dagon
+2139,Sauk Lote Yae,16.828337,96.240638,ဆောက်လုပ်ရေး,Ayar Wun Main Road,South Dagon
+2140,Sauk Lote Yae,16.828251,96.240696,ဆောက်လုပ်ရေး,Ayar Wun Main Road,South Dagon
+2141,Thone-Sae-Hnit Gate,16.821236,96.266156,(၃၂) ဂိတ်,Kyun Shwe Wah Road,South Dagon
+2143,Paya Lay,16.812716,96.22903,ဘုရားလေး,Ayar Wun Main Road,South Dagon
+2144,Paya Lay,16.812593,96.229069,ဘုရားလေး,Ayar Wun Main Road,South Dagon
+2145,Kanaung Kwae,16.832329,96.276597,ကနောင်ကွေ့,Kanaung Minthargyi Road,Dagon Seikkan
+2146,Kyaetamar,16.850998,96.18753,ကျေးတမာ,Thanthumar Road,South Okkalapa
+2147,Kanaung Kwae,16.832331,96.276538,ကနောင်ကွေ့,Kanaung Minthargyi Road,Dagon Seikkan
+2154,Chauk-Sae-Hnit,16.880796,96.250144,(၆၂),Yadanarpon Road,South Dagon
+2155,Chauk-Sae-Hnit,16.88059,96.250294,(၆၂),Yadanarpon Road,South Dagon
+2158,Awine,16.807905,96.21795,အဝိုင်း,Shukinthar Road,Thaketa
+2159,Thaketa Awine,16.806457,96.216833,သာကေတအဝိုင်း,Ayar Wun Main Road,Thaketa
+2160,Myittar Shwe Yi,16.838715,96.201094,မေတ္တာရွှေရည်,Lay Daung Kan Road,Thingangyun
+2161,Myittar Shwe Yi,16.838646,96.201233,မေတ္တာရွှေရည်,Lay Daung Kan Road,Thingangyun
+2162,Sagar Wah,16.819464,96.214172,စကားဝါ,Kamarkyi Road,Thingangyun
+2163,Sagar Wah,16.819443,96.214001,စကားဝါ,Kamarkyi Road,Thingangyun
+2164,Sat Yon Shae,16.817656,96.214966,စက်ရုံရှေ့,Kamarkyi Road,Thingangyun
+2165,Sat Yon Shae,16.817646,96.214762,စက်ရုံရှေ့,Kamarkyi Road,Thingangyun
+2174,Than Lan,16.839088,96.1696,သံလမ်း,Kanbe Road,Yankin
+2175,Moe Kaung,16.83766,96.166338,မိုးကောင်း,Kanbe Road,Yankin
+2177,Shwe Gon Daing,16.80679,96.156254,ရွှေဂုံတိုင်,East Shwe Gon Daing Road,Bahan
+2181,Za-myin-zwe Zay,16.911896,96.162179,(ဈ) ဈေး,Khaymarthi Road,North Okkalapa
+2188,Sae-Chauk Kwae,16.935919,96.180321,(၁၆) ကွေ့,Innwa Road,North Okkalapa
+2189,Parami,16.9313,96.180621,ပါရမီ,Taung Goo Road,North Okkalapa
+2190,Parami,16.931341,96.180857,ပါရမီ,Taung Goo Road,North Okkalapa
+2193,Kyaung Kwae,16.848012,96.136442,ကျောင်းကွေ့,Pyay Road,Hlaing
+2194,Kyaung Shae/ Dhamar Yon,16.826186,96.132782,ကျောင်းရှေ့/ဓမ္မာရုံ,University Avenue Road,Kamayut
+2195,Insein Pan Chan,16.888465,96.107835,အင်းစိန်ပန်းခြံ,Lan Thit Road,Insein
+2196,Insein Pan Chan,16.88859,96.107699,အင်းစိန်ပန်းခြံ,Lan Thit Road,Insein
+2197,Ywarma Kwae,16.834529,96.1219,ရွာမကွေ့,Baho Road,Hlaing
+2198,Site Kar Gate,16.83164,96.123348,ဆိုက်ကားဂိတ်,Baho Road,Kamayut
+2199,Thamine Lan Son,16.860992,96.114802,သမိုင်းလမ်းဆုံ,Baho Road,Mayangone
+2200,Kyway Tit,16.861161,96.120687,ကြွေ (၁),Thamine Buteryon Road,Mayangone
+2201,Lay-sae-shit Gate,16.886359,96.097391,(၄၈) ဂိတ်,Bayint Naung Road,Insein
+2202,Insein Say Yon Gyi,16.892488,96.103826,အင်းစိန်ဆေးရုံကြီး,Lower Mingalardon Road,Insein
+2203,Insein Say Yon Gyi,16.892367,96.103645,အင်းစိန်ဆေးရုံကြီး,Lower Mingalardon Road,Insein
+2206,Lan Thit,17.037432,96.131431,လမ်းသစ်,No. 1 Main Road,Mingalardon
+2207,Lan Thit,17.037798,96.131291,လမ်းသစ်,No. 1 Main Road,Mingalardon
+2208,Shwe La Min,16.93441,96.18043,ရွှေလမင်း,Taung Goo Road,North Okkalapa
+2209,Shwe La Min,16.934472,96.180248,ရွှေလမင်း,Taung Goo Road,North Okkalapa
+2212,Sin Phon Kwae,16.93428,96.190996,ဆင်ဖုံကွေ့,Hanthar Waddy Road,North Okkalapa
+2213,Sin Phon Kwae,16.934145,96.190949,ဆင်ဖုံကွေ့,Hanthar Waddy Road,North Okkalapa
+2214,Kyauk Lan,16.9316,96.187939,ကျောက်လမ်း,Bagan Road,North Okkalapa
+2215,Kyauk Lan,16.931683,96.187906,ကျောက်လမ်း,Bagan Road,North Okkalapa
+2216,Sein Paul,16.777861,96.167352,စိန်ပေါ(လ်),Thein Phyu Road,Botahtaung
+2218,Baho Yone,16.768988,96.16702,ဗဟိုရုံး,Strand Road,Seikkan
+2219,Ocean,16.773717,96.177385,အိုးရှင်း,Mahabandoola Road,Botahtaung
+2220,Ocean,16.773625,96.177384,အိုးရှင်း,Mahabandoola Road,Botahtaung
+2221,Ngar-sae Kwae,16.774432,96.172566,(၅၀) ကွေ့,Botahtaung Pagoda Road,Botahtaung
+2222,Out Htate,16.864759,96.052575,အောက်ထိပ်,No. 5 Main Road,Hlaing Tharyar
+2223,Out Htate,16.864584,96.05251,အောက်ထိပ်,No. 5 Main Road,Hlaing Tharyar
+2224,Toe Chae,16.86825,96.044236,တိုးချဲ့,No. 5 Main Road,Hlaing Tharyar
+2225,Toe Chae,16.867975,96.044045,တိုးချဲ့,No. 5 Main Road,Hlaing Tharyar
+2227,Yone Shae,16.876089,96.062918,ရုံးရှေ့,Kyansitthar Road,Hlaing Tharyar
+2228,Yone Shae,16.875541,96.062147,ရုံးရှေ့,Nyaung Done Road,Hlaing Tharyar
+2229,Yone Shae,16.875692,96.062609,ရုံးရှေ့,Nyaung Done Road,Hlaing Tharyar
+2230,Mee Khwat Zay,16.874503,96.05142,မီးခွက်ဈေး,Bo Aung Kyaw Road,Hlaing Tharyar
+2231,Zay Lan,16.894878,96.043919,ဈေးလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2232,Zay Lan,16.894867,96.043842,ဈေးလမ်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2233,Arr Man,16.879488,96.03504,အားမာန်,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2234,Arr Man,16.879434,96.034902,အားမာန်,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2235,Gate Haung,16.8973,96.044907,ဂိတ်ဟောင်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2236,Gate Haung,16.897147,96.044739,ဂိတ်ဟောင်း,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2237,Yoe Gyi,16.905523,96.048372,ရိုးကြီး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2238,Yoe Gyi,16.905563,96.048265,ရိုးကြီး,Shwe Pyi Thar Bridge Road,Hlaing Tharyar
+2240,Tayar-Tone Gate Haung,16.881894,96.061319,(၁၀၃) ဂိတ်ဟောင်း,Kyansitthar Road,Hlaing Tharyar
+2242,Kan Baw Za,16.886997,96.061587,ကမ္ဘာဇ,Kyansitthar Road,Hlaing Tharyar
+2244,Gate Haung,16.88943,96.06223,ဂိတ်ဟောင်း,Kyansitthar Road,Hlaing Tharyar
+2245,Ayar Myay,16.930825,96.083202,ဧရာမြေ,Shwe Pyi Thar Bridge Road,Insein
+2246,Ayar Myay,16.93039,96.08282,ဧရာမြေ,Shwe Pyi Thar Bridge Road,Insein
+2249,Computer,16.998621,96.088304,ကွန်ပျူတာ,No. 4 Main Road,Shwe Pyithar
+2250,Saw Bwar Gyi Kone Lan Sone,16.892777,96.119488,စော်ဘွားကြီးကုန်းလမ်းဆုံ,Insein Butaryon Road,Insein
+2251,Saw Bwar Gyi Kone Lan Sone,16.892179,96.119078,စော်ဘွားကြီးကုန်းလမ်းဆုံ,Insein Butaryon Road,Insein
+2323,Koke Kine,16.823559,96.153043,ကုက္ကိုင်း,University Avenue Road,Bahan
+2325,Inya Myaing,16.824823,96.147237,အင်ယာမြိုင်,University Avenue Road,Bahan
+2327,Thanlwin,16.824228,96.145139,သံလွင်,University Avenue Road,Bahan
+2329,UFL,16.825133,96.142044,ယူအပ်ဖ်အယ်,University Avenue Road,Bahan
+2331,Kyuanlan,16.825918,96.13846,ကျောင်းလမ်း,University Avenue Road,Kamayut
+2333,Kyuanlan,16.825767,96.138751,ကျောင်းလမ်း,University Avenue Road,Kamayut
+2335,UFL,16.825153,96.142351,ယူအပ်ဖ်အယ်,University Avenue Road,Bahan
+2337,Thanlwin,16.82406,96.145241,သံလွင်,University Avenue Road,Bahan
+2339,Inya Myaing,16.824615,96.147194,အင်ယာမြိုင်,University Avenue Road,Bahan
+2341,Koke Kine,16.823772,96.152223,ကုက္ကိုင်း,University Avenue Road,Bahan
+2342,Hlegu Tar Sone,17.099458,96.225736,လှည်းကူးတာဆုံ,No. 1 Main Road,Hlegu
+2343,Hlegu Tar Sone,17.09956,96.225669,လှည်းကူးတာဆုံ,No. 1 Main Road,Hlegu
+2344,Lay Daung Kan (Site Mway Tit),16.960345,96.294871,လေးထောင့်ကန် (ဆိုက်မွေး-၁),No. 2 Main Road,South Dagon
+2345,Thone-Sae-Hnit Gate,16.821278,96.266126,(၃၂) ဂိတ်,Kyun Shwe Wah Road,South Dagon
+2346,Ma Wa Ta,16.877415,96.204193,မဝတ,Pyi Htaung Su Main Road,North Dagon
+2347,Arr Kasar Kwin,16.872686,96.206363,အားကစားကွင်း,Pyi Htaung Su Main Road,North Dagon
+2348,Ka Pa Ya,16.869952,96.207484,ကပရ,Pyi Htaung Su Main Road,North Dagon
+2349,Tadar Htate,16.866103,96.208974,တံတားထိပ်,Pyi Htaung Su Main Road,North Dagon
+2350,Khun/ Shit Lan Sone,16.892272,96.195975,(၇/၈) လမ်းဆုံ,Pyi Htaung Su Main Road,North Dagon
+2351,Dagon Ayar A Way Pyay,16.87797,96.024065,ဒဂုံဧရာအဝေးပြေး,No. 5 Main Road,Hlaing Tharyar
+2352,Pinya,16.859505,96.176086,ပင်းယ,Parami Road,South Okkalapa
+2354,Kili,16.77484,96.139348,ကီလီ,Strand Road,Lanmadaw
+2355,Nyaung Pin Lay Zay,16.772377,96.146561,ညောင်ပင်လေးဈေး,Strand Road,Latha
+2356,Latha,16.771997,96.151238,လသာ,Strand Road,Latha
+2357,Shwe Pyi Thar Kwae,16.961113,96.096238,ရွှေပြည်သာကွေ့,Bogyoke Aung San Road,Shwe Pyithar
+2358,Shwe Pyi Thar Kwae,16.961032,96.096288,ရွှေပြည်သာကွေ့,Bogyoke Aung San Road,Shwe Pyithar
+2359,Kan Tharyar,16.913023,96.165978,ကန်သာယာ,Khaymarthi Road,North Okkalapa
+2360,Bayint Naung Lan Sone,16.858691,96.108487,ဘုရင့်နောင်လမ်းဆုံ,Bayint Naung Road,Mayangone
+2362,Shwe Lin Pan Lan Sone,16.919713,96.064228,ရွှေလင်ပန်း,Khayae Pin Road,Hlaing Tharyar
+2363,Ywar Htate,16.908443,96.199826,ရွာထိပ်,Kyan Sit Thar Road,North Dagon
+2364,Ywar Htate,16.908304,96.199592,ရွာထိပ်,Kyan Sit Thar Road,North Dagon
+2365,Ma Da,16.91266,96.194512,မဓ,Yarza Thingyan Road,North Dagon
+2366,Ma Da,16.912609,96.194442,မဓ,Yarza Thingyan Road,North Dagon
+2367,Aung Taw My,16.912259,96.193211,အောင်တော်မူ,Yarza Thingyan Road,North Dagon
+2368,Aung Taw My,16.912207,96.193247,အောင်တော်မူ,Yarza Thingyan Road,North Dagon
+2369,A Mhyit Pone,16.911488,96.191842,အမိုက်ပုံး,Yarza Thingyan Road,North Dagon
+2370,A Mhyit Pone,16.911432,96.191848,အမိုက်ပုံး,Yarza Thingyan Road,North Dagon
+2371,Dhamar Yone,16.910583,96.190171,ဓမ္မာရုံ,Yarza Thingyan Road,North Dagon
+2372,Dhamar Yone,16.910516,96.190158,ဓမ္မာရုံ,Yarza Thingyan Road,North Dagon
+2373,B.O.C,16.76858,96.186345,ဘီအိုစီ,Than Lyet Soon Road,Pazundaung
+2374,B.O.C,16.768667,96.186328,ဘီအိုစီ,Than Lyet Soon Road,Pazundaung
+2375,Than Lyet Soon,16.768352,96.19206,သံလျှက်စွန်း,Than Lyet Soon Road,Pazundaung
+2376,Waibargi,16.91219,96.151138,ဝေဘာဂီ,Waibargi Road,North Okkalapa
+2377,Nwethargi,16.913797,96.154269,နွယ်သာဂီ,Waibargi Road,North Okkalapa
+2378,Myo Thit,16.915187,96.156827,မြို့သစ်,Waibargi Road,North Okkalapa
+2379,Gate Haung,16.916998,96.159936,ဂိတ်ဟောင်း,Waibargi Road,North Okkalapa
+2380,Gate Haung,16.917156,96.159841,ဂိတ်ဟောင်း,Waibargi Road,North Okkalapa
+2381,Myo Thit,16.91543,96.156648,မြို့သစ်,Waibargi Road,North Okkalapa
+2382,Nwethargi,16.914043,96.154073,နွယ်သာဂီ,Waibargi Road,North Okkalapa
+2383,Set Hmu (1),16.825994,96.158801,စက်မှု (၁),No. 1 Industrial Road,Yankin
+2384,Waibargi,16.912253,96.151052,ဝေဘာဂီ,Waibargi Road,North Okkalapa
+2385,Baho Bank,16.824887,96.160199,ဗဟိုဘဏ်,No. 1 Industrial Road,Yankin
+2386,Kyel Ngar Pwint,16.77228,96.16715,ကြယ်ငါးပွင့်,Thein Phyu Road,Botahtaung
+2387,Baho Bank,16.824887,96.160199,ဗဟိုဘဏ်,No. 1 Industrial Road,Yankin
+2388,Set Hmu (1),16.826159,96.158185,စက်မှု (၁),No. 1 Industrial Road,Yankin
+2389,Wizaya Plaza,16.805031,96.143436,ဝိဇယပလာဇာ,Dhamazedi Road,Bahan
+2392,Paya Lan,16.857746,96.123548,ဘုရားလမ်း,Yangon-Insein Road,Hlaing
+2393,Thuwunna Lan Sone,16.813151,96.191771,သုဝဏ္ဏလမ်းဆုံ,Waizayandar Road,Thingangyun
+2394,Thuwunna Lan Sone,16.813133,96.191946,သုဝဏ္ဏလမ်းဆုံ,Waizayandar Road,Thingangyun
+2395,Pauk Taw Wa,16.885452,96.097714,ပေါက်တောဝ,Hlaing River Road,Insein
+2396,Khayae Pin Yate Mon,16.934479,96.148878,ခရေပင်ရိပ်မွန်,Khayae Pin Road,Mingaladon
+2397,Khayae Pin Yate Mon,16.934387,96.148932,ခရေပင်ရိပ်မွန်,Khayae Pin Road,Mingaladon
+2398,Sauk Lote Yae,16.78323,96.153327,ဆောက်လုပ်ရေး,Shwedagon Pagoda Road,Dagon
+2399,Lay Har Pyin Zay,16.77819,96.153137,လေဟာပြင်စျေး,Shwedagon Pagoda Road,Latha
+2400,Lay Har Pyin Zay,16.778205,96.153299,လေဟာပြင်စျေး,Shwedagon Pagoda Road,Latha
+2401,Ayar,16.91733,96.163487,ဧရာ,Thudhamar Road,North Okkalapa
+2402,Thamine Lan Son,16.863301,96.121606,သမိုင်းလမ်းဆုံ,Yangon-Insein Road,Mayangone
+2403,Lai Sin Yone,16.846215,96.200441,လိုင်စင်ရုံး,Thanthumar Road,Thingangyun
+2404,Moke Wa,16.904594,96.204478,မုခ်ဝ,Kyan Sit Thar Road,North Dagon
+2405,Moke Wa,16.904439,96.204486,မုခ်ဝ,Kyan Sit Thar Road,North Dagon
+2406,Gate Haung,16.896519,96.207488,ဂိတ်ဟောင်း,Yarzardirit Road,North Dagon
+2407,Gate Haung,16.897321,96.207043,ဂိတ်ဟောင်း,Min Ye Kyaw Swa Rd,North Dagon
+2408,Kyaung Lan,16.894545,96.203621,ကျောင်းလမ်း,Yarzardirit Road,North Dagon
+2409,Kyaung Lan,16.895347,96.203113,ကျောင်းလမ်း,Min Ye Kyaw Swa Rd,North Dagon
+2410,8 Tama,16.893047,96.200696,၈ သမ,Yarzardirit Road,North Dagon
+2411,8 Tama,16.893488,96.199524,၈ သမ,Min Ye Kyaw Swa Rd,North Dagon
+2412,Bhone Gyi Kyaung Kwae,16.899291,96.210824,ဘုန်းကြီးကျောင်းကွေ့,Min Ye Kyaw Swa Rd,North Dagon
+2413,Bhone Gyi Kyaung Kwae,16.899176,96.211286,ဘုန်းကြီးကျောင်းကွေ့,Kyan Sit Thar Road,North Dagon
+2414,Tamwe Zay Haung/ Akhun Lut Zay,16.81322,96.174533,တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး,Kyaikkasan Road,Tamwe
+2415,Zay Mat Tine,16.843561,96.185558,စျေးမှတ်တိုင်,Metta Road,South Okkalapa
+2416,Zay Mat Tine,16.843536,96.185371,စျေးမှတ်တိုင်,Metta Road,South Okkalapa
+2417,Say Yone Shae,16.84468,96.186772,ဆေးရုံရှေ့,Metta Road,South Okkalapa
+2418,Say Yone Shae,16.844593,96.186874,ဆေးရုံရှေ့,Metta Road,South Okkalapa
+2419,13 Lan,16.847523,96.190186,၁၃ လမ်း,Metta Road,South Okkalapa
+2420,13 Lan,16.847425,96.190262,၁၃ လမ်း,Metta Road,South Okkalapa
+2421,Gate Haung,16.848098,96.190852,ဂိတ်ဟောင်း,Metta Road,South Okkalapa
+2422,Gate Haung,16.848036,96.190927,ဂိတ်ဟောင်း,Metta Road,South Okkalapa
+2423,Phone Gyi Lan,16.775242,96.144748,ဘုန်းကြီးလမ်း,Phone Gyi Road,Lanmadaw
+2424,Set Hmu Tit/Myanmar Plaza,16.827033,96.154205,စက်မှု (၁)/မြန်မာပလာဇာ,Kabar Aye Pagoda Road,Bahan
+2425,Shwe Gon Daing,16.80528,96.155952,ရွှေဂုံတိုင်,Kabar Aye Pagoda Road,Bahan
+2426,Taung Phat Moke,16.793695,96.150949,တောင်ဘက်မုခ်,Shwedagon Pagoda Road,Dagon
+2427,Thakhin Mya Pan Cha,16.780298,96.134971,သခင်မြပန်းခြံ,Thakhin Mya Garden Street,Ahlone
+2428,Thakhin Mya Pan Cha,16.780258,96.135098,သခင်မြပန်းခြံ,Thakhin Mya Garden Street,Ahlone
+2429,Damaryone Lan,16.802412,96.216589,ဓမာရုံလမ်း,Shu Kin Thar Road,Thaketa
+2430,Damaryone Lan,16.80237,96.216689,ဓမာရုံလမ်း,Shu Kin Thar Road,Thaketa
+2431,Khine Shwe War,16.798781,96.215147,ခိုင်ရွှေဝါ,Shu Kin Thar Road,Thaketa
+2432,Khine Shwe War,16.798739,96.215231,ခိုင်ရွှေဝါ,Shu Kin Thar Road,Thaketa
+2433,Ayat Sine Kwae,16.795642,96.213988,အရက်ဆိုင်ကွေ့,Shu Kin Thar Road,Thaketa
+2434,Ayat Sine Kwae,16.795662,96.213901,အရက်ဆိုင်ကွေ့,Shu Kin Thar Road,Thaketa
+2435,Awine,16.921796,96.056181,အဝိုင်း,West University Road,Hlaing Tharyar
+2436,Awine,16.92158,96.056128,အဝိုင်း,West University Road,Hlaing Tharyar
+2437,Kyauk Kwae,16.78646,96.162337,ကျောက်ကွေ့,Upper Pansodan Road,Mingala Taungnyunt
+2438,91 Lan,16.789018,96.165477,၉၁ လမ်း,Daw Thein Tin St,Mingala Taungnyunt
+2439,Kyauk Kwae,16.786382,96.162075,ကျောက်ကွေ့,Upper Pansodan Road,Mingala Taungnyunt
+2440,91 Lan,16.788934,96.165552,၉၁ လမ်း,Daw Thein Tin St,Mingala Taungnyunt
+2445,Myawaddy Min Gyi,16.929392,96.088793,မြဝတီမင်ကြီးလမ်း,Bayint Naung Road,Insein
+2446,Myawaddy Min Gyi,16.929367,96.08888,မြဝတီမင်ကြီးလမ်း,Bayint Naung Road,Insein
+2447,U Tun,16.923253,96.088679,ဦးထွန်း,Bayint Naung Road,Insein
+2448,U Tun,16.923233,96.088915,ဦးထွန်း,Bayint Naung Road,Insein
+2449,Set Hmu,16.920666,96.088746,စက်မှု,Bayint Naung Road,Insein
+2450,Set Hmu,16.920614,96.089013,စက်မှု,Bayint Naung Road,Insein
+2451,U Mye,16.917464,96.088887,ဦးမြဲ,Bayint Naung Road,Insein
+2452,U Mye,16.9174,96.089093,ဦးမြဲ,Bayint Naung Road,Insein
+2453,Gandamar Wholesale,16.86419,96.159522,ဂန္ဓမာဟိုးဆေး(မြို့ထဲ),Waizayanta Road,South Okkalapa
+2454,Gandamar Wholesale,16.863598,96.160014,ဂန္ဓမာဟိုးဆေး(မြို့ပြင်),Waizayanta Road,South Okkalapa
+2457,Byamaso,16.84679,96.169628,ဗြဟ္မစိုရ်,Waizayanta Road,South Okkalapa
+2458,Byamaso,16.846502,96.170121,ဗြဟ္မစိုရ်,Waizayanta Road,South Okkalapa
+2459,Baho Zay,16.840516,96.173677,ဗဟိုစျေး,Waizayanta Road,South Okkalapa
+2460,Baho Zay,16.840648,96.173891,ဗဟိုစျေး,Waizayanta Road,South Okkalapa
+2461,Yadanar Lan,16.835179,96.177276,ရတနာလမ်း(မြို့ထဲ),Waizayandar Road,Thingangyun
+2462,Yadanar Lan,16.834777,96.17777,ရတနာလမ်း(မြို့ပြင်),Waizayandar Road,Thingangyun
+2463,Pyithaya,16.829299,96.179507,ပြည်သာယာ,Pyithaya Street,Thingangyun
+2464,Pyithaya,16.831541,96.179103,ပြည်သာယာ,Pyithaya Street,Thingangyun
+2465,Athin Thike,16.823686,96.181026,အသင်းတိုက်,Pyithaya Street,Thingangyun
+2466,Athin Thike,16.824758,96.180914,အသင်းတိုက်,Pyithaya Street,Thingangyun
+2467,Zay Kwae,16.635842,96.326655,ဈေးကွေ့,Thanlyin-Kyauktan Road,Kyauktan
+2468,Alote Thamar Say Yone,16.797937,96.172712,အလုပ်သမားဆေးရုံကြီး,Kyaikasan Road,Tamwe
+2469,Alote Thamar Say Yone,16.797865,96.172906,အလုပ်သမားဆေးရုံကြီး,Kyaikasan Road,Tamwe
+2470,Myanmar Maritime University,16.705042,96.266486,ရေကြောင်းတက္ကသိုလ်,Thanlyin,Thanlyin
+2471,Myanmar Maritime University,16.705002,96.266402,ရေကြောင်းတက္ကသိုလ်,Thanlyin,Thanlyin
+2472,Yay Kyaung Lan Sone,16.716939,96.261362,ရေကြောင်းလမ်းဆုံ,Thanlyin,Thanlyin
+2473,Yay Kyaung Lan Sone,16.717022,96.261414,ရေကြောင်းလမ်းဆုံ,Thanlyin,Thanlyin
+2474,Phar Out,16.727522,96.268749,ဖားအောက်,Thanlyin,Thanlyin
+2475,Phar Out,16.727565,96.268661,ဖားအောက်,Thanlyin,Thanlyin
+2476,Kyeik Kouk Phayar,16.729647,96.269416,ကျိုက်ခေါက်ဘုရား,Thanlyin,Thanlyin
+2477,Kyeik Kouk Phayar,16.729657,96.269298,ကျိုက်ခေါက်ဘုရား,Thanlyin,Thanlyin
+2478,Yangon Intl. Airport Terminal 2,16.901486,96.135287,ရန်ကုန်လေဆိပ် တာမီနယ် (၂),Yangon Airport Road,Mingaladon
+2479,Phone Gyi Kyaung Kwae,16.85411,96.23989,ဘုန်းကြီးကျောင်းကွေ့,Maungmakan Kantha Road,South Dagon
+2480,Chaw Twin Kone,16.850098,96.158028,ချော်တွင်းကုန်း,Parami Road,Mayangone
+2481,Tit Zay Kwae,16.796363,96.195578,(၁) ဈေးကွေ့,Zingama Road,Thaketa
+2482,Tit Zay Kwae,16.796254,96.195559,(၁) ဈေးကွေ့,Zingama Road,Thaketa
+2484,Thama Kone,16.875023,96.033038,သမကုန်း,Anawratha Road,Hlaingtharya
+2485,Thama Kone,16.874974,96.033111,သမကုန်း,Anawratha Road,Hlaingtharya
+2486,Tine Yin Tharr Nee Pyin Nyar,16.81935,96.241069,တိုင်းရင်းသားနည်းပညာသက္ကသိုလ်,Industrial Zone Road,Dagon Seikkan
+2487,Tine Yin Tharr Nee Pyin Nyar,16.819423,96.241103,တိုင်းရင်းသားနည်းပညာသက္ကသိုလ်,Industrial Zone Road,Dagon Seikkan
+2488,Yadanar Lann,16.817905,96.244589,ရတနာလမ်း,Yadanar Road,Dagon Seikkan
+2489,Yadanar Lann,16.817761,96.244632,ရတနာလမ်း,Yadanar Road,Dagon Seikkan
+2490,Hnin Si Kone Yate Thar,16.810351,96.155935,နှင်းဆီကုန်းရိပ်သာ,Kabar Aye Pagoda Road,Bahan
+2491,Hnin Si Kone Yate Thar,16.810326,96.156182,နှင်းဆီကုန်းရိပ်သာ,Kabar Aye Pagoda Road,Bahan
+2492,Shwe Li Road,16.827104,96.245743,ရွှေလီလမ်း,Shwe Li Road,Dagon Seikkan
+2494,Thanghar Thetkathol,16.867534,96.15822,သံဃာတက္ကသိုလ်,Waizayantar Road,Mayangone
+2495,Thanghar Thetkathol,16.866833,96.15862,သံဃာတက္ကသိုလ်,Waizayantar Road,Mayangone
+2496,Parami,16.851365,96.167433,ပါရမီ,Waizayanta Road,South Okkalapa
+2497,Parami,16.851232,96.167691,ပါရမီ,Waizayanta Road,South Okkalapa
+2500,Hantharwaddy,16.843534,96.171757,ဟံသာဝတီလမ်း,Waizayanta Road,South Okkalapa
+2501,Hantharwaddy,16.843635,96.171971,ဟံသာဝတီလမ်း,Waizayanta Road,South Okkalapa
+2502,Thuwanna Stadium,16.820033,96.184398,သုဝဏ္ဏဘောလုံးကွင်း(မြို့ထဲ),Waizayanta Road,Thingangyun
+2503,Thuwanna Stadium,16.81947,96.185596,သုဝဏ္ဏဘောလုံးကွင်း(မြို့ပြင်),Waizayanta Road,Thingangyun
+2504,Okkan,17.500193,95.85472,ဥက္ကံ,Pyay Road,Okkan
+2505,Okkan,17.500114,95.854539,ဥက္ကံ,Pyay Road,Okkan
+2506,Khayae Pin Lan Khawe,16.928434,96.132024,ခရေပင်လမ်းခွဲ,Khayae Pin Road,Mingalardon
+2507,Bhone Gyi Kyaung Kwae,16.899439,96.211089,ဘုန်းကြီးကျောင်းကွေ့,Min Ye Kyaw Swa Rd,North Dagon
+2508,Min Dhamma Eain Yar,16.871007,96.130589,မင်းဓမ္မအိမ်ယာ,,Min Dhamma Road
+2509,Paduak Lan,16.908298,96.211277,ပိတောက်လမ်း,Bo Hmu Ba Htoo Road,North Dagon
+2510,Paduak Lan,16.908159,96.211388,ပိတောက်လမ်း,Bo Hmu Ba Htoo Road,North Dagon
+2511,Yangon Intl. Airport Terminal 1,16.902771,96.136228,ရန်ကုန်လေဆိပ် တာမီနယ် (၁),Yangon Airport Road,Mingaladon
+2512,Yangon Intl. Airport Terminal 3,16.898366,96.132672,ရန်ကုန်လေဆိပ် တာမီနယ် (၃),Yangon Airport Road,Mingaladon
+2513,Yangon Intl. Airport Car Parking,16.900917,96.13618,ရန်ကုန်လေဆိပ် ကားပါကင်,Yangon Airport Road,Mingaladon
+2514,Yangon Central Railway Station,16.784881,96.162024,ရန်ကုန်ဘူတာကြီး,Upper Pansodan Road,Mingala Taungnyunt
+2515,Yangon Central Railway Station,16.784855,96.16219,ရန်ကုန်ဘူတာကြီး,Upper Pansodan Road,Mingala Taungnyunt

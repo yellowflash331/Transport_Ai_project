@@ -1,0 +1,119 @@
+id,route_number,route_name,description,color
+1,1,Hlegu Zay – Zawana,(၁) လှည်းကူးဈေးရှေ့ - ဇဝန,405CAA
+2,2,Thone-Sae-Hnit Gate – Aung Mingalar A Way Pyay,(၂) ယုဇန(ခိုင်ရွှေဝါလမ်း) - အောင်မင်္ဂလာအဝေးပြေးဝင်း,DF504E
+4,4,Thone-Sae-Hnit Gate – Sule Pan Chan,(၄) ယုဇနဥယျာဉ်မြို့တော် - ဆူးလေ,DF504E
+5,5,Shit-sae-koe Kwae – Masalar Set/ Gandi,(၅) ရိုးမရိပ်သာ - ဗိုလ်ချုပ်အောင်ဆန်းလမ်း,DF504E
+8,8,Thein Kyaung – Lan Thone Sae,(၈) လမ်းမတော် - တောင်ဒဂုံအင်းဝအိမ်ရာ,96509F
+9,9,Yadanar Lann – Mingalar Zay,(၉) တိုင်းရင်းသား နည်းပညာတက္ကသိုလ် - ကျောက်တိုင်,96509F
+10,10,Lelyar Gate Yinn – Myauk Okkalar Awine,(၁၀) တိုင်းရင်းသားကျေးရွာ - ဒဂုံတက္ကသိုလ်,96509F
+11,11,Aung Mingalar A Way Pyay – Maung Khaing,(၁၁) အောင်မင်္ဂလာအဝေးပြေး - ရွှေတိဂုံဘုရား,405CAA
+12,12,Ngar-sae Kwae – Sule Myodaw Khan Ma,(၁၂) အရှေ့ဒဂုံ - ဆူးလေ,DF504E
+13,13,Nyaung Pin – Botahtaung Paya,(၁၃) ပါရမီ - ဗိုလ်တစ်ထောင်ဘုရား,DF504E
+14,14,Nyaung Pin – Thakhin Mya Pan Chan,(၁၄) ပါရမီ (ညောင်ပင်) - သခင်မြပန်းခြံ,DF504E
+17,17,Sin Phon Kwae – Dagon Ayar A Way Pyay,(၁၇) ရွှေပေါက်ကံ - အနောက်ပိုင်းနည်းပညာတက္ကသိုလ်,DF504E
+18,18,Khayae Pin Lan Khawe – Arthawka,(၁၈) ခရေရိပ်မွန် - ဇဝန,DF504E
+19,19,Sin Phon Kwae – Thakhin Mya Pan Chan,(၁၉) ရွှေပေါက်ကံ - သခင်မြပန်းခြံ,DF504E
+20,20,Dagon Ayar A Way Pyay – Ye Sa Khan,(၂၀) ဒဂုံဧရာအဝေးပြေး - ကုန်သည်လမ်း - သခင်မြပန်းခြံ,405CAA
+21,21,A Nout Paing Takke Tho – Phone Gyi Lan,(၂၁) အနောက်ပိုင်းတက္ကသိုလ်(ထန်းတပင်) - မဟာဗန္ဓုလလမ်း,405CAA
+22,22,A Nout Paing Takke Tho – Thakhin Mya Pan Cha,(၂၂) အနောက်ပိုင်းတက္ကသိုလ်(ထန်းတပင်) - သခင်မြပန်းခြံ,405CAA
+25,25,Bokalay Zay – Dagon Takke Tho,(၂၅) ဒဂုံတက္ကသိုလ် - မင်္ဂလာဈေး,DF504E
+26,26,Dagon Takke Tho – Baho Yone,(၂၆) ဒဂုံတက္ကသိုလ် - ဗိုလ်တထောင်ဘုရားလမ်း,DF504E
+27,27,Yuzana Plaza/ Lan Kyal – Sate Kyan Mar Yae Say Yon,(၂၇) စိတ်ကျန်းမာရေးဆေးရုံ - ကျိုက္ကဆံလမ်း,DF504E
+28,28,Dagon Takke Tho – Sule Myodaw Khan Ma,(၂၈) ဒဂုံတက္ကသိုလ် - ဆူးလေမြို့တော်ခန်းမ,DF504E
+29,29,Dagon Takke Tho – Sule Myodaw Khan Ma,(၂၉) ဒဂုံတက္ကသိုလ် - ဆူးလေ,DF504E
+31,31,Botahtaung Paya – A Shae Paing Takke Tho,(၃၁) သန်လျင်(အရှေ့ပိုင်းတက္ကသိုလ်) - ဗိုလ်တထောင်ဈေးလမ်း,96509F
+32,32,Myanmar Maritime University – Myo Shouk Lan,(၃၂) ရေကြောင်းတက္ကသိုလ် - ထောက်ကြန့်,96509F
+33,33,Kyauk Tan – Thida,(၃၃) ကျောက်တန်း - ယုဇနပလာဇာ ,96509F
+34,34,Ban Shae – Kyel Ngar Pwint,(၃၄) ခရမ်း - မဟာဗန္ဓုလလမ်း,96509F
+35,35,Htauk Kyant Lan Sone – Maw Tin,(၃၅) ထောက်ကြန့် - မဟာဗန္ဓုလလမ်း,405CAA
+38,38,Nyaung Pin – Butar Yon Lan,(၃၈) ပါရမီ (ညောင်ပင်) - သီရိမင်္ဂလာဈေးသစ်,DF504E
+39,39,Maw Tin – Auk Gate,(၃၉) ရွှေပြည်သာ(လိန်ကုန်း) - မဟာဗန္ဓုလလမ်း,405CAA
+40,40,Auk Gate – Thakhin Mya Pan Chan,(၄၀) ရွှေပြည်သာ(လိန်ကုန်း) - သခင်မြပန်းခြံ,405CAA
+41,41,Equator – Thakhin Mya Pan Cha,(၄၁) ထောက်ကြန့် - သခင်မြပန်းခြံ,405CAA
+42,42,Auk Gate – Sauk Lote Yae,(၄၂) ရွှေပြည်သာ(လိန်ကုန်း) - ရတနာလမ်း,405CAA
+43,43,Yae Kyi I – Botahtaung Paya,(၄၃) ဝါယာလက် - ဗိုလ်တထောင်ဘုရား,405CAA
+44,44,Hlegu Tar Sone – Shit Mile,(၄၄) လိန်ကုန်း - လှည်းကူးဈေးရှေ့,2C8A6C
+45,45,Hlegu Zay – Min Kone,(၄၅) လှည်းကူးဈေးရှေ့ - မင်းကုန်း,2C8A6C
+46,46,Lay Daung Kan (Site Mway Tit) – Zawana,(၄၆) ဒါးပိန် - တောင်မြောက်လမ်းဆုံ,2C8A6C
+53,53,Shwe Lin Pan Lan Sone – Mee Khwat Zay,(၅၃) ရွှေလင်ဗန်းလမ်းဆုံ - ရွှေလင်ဗန်းလမ်းဆုံ,2C8A6C
+54,54,B.O.C – Paya Lan,(၅၄) ၈၆ဂိတ် - ၈၆ဂိတ်,2C8A6C
+55,55,Nyaung Pin – Thakhin Mya Pan Chan,(၅၅) ပါရမီ-စော်ဘွားကြီးကုန်း-သခင်မြပန်းခြံ,DF504E
+56,56,Bogyoke Kwae – Thida Seik,(၅၆)  - မြို့တွင်း,86603E
+57,57,Ye Sa Khan – Thakhin Mya Pan Cha,(၅၇)  - မြို့တွင်း,86603E
+58,58,Thakhin Mya Pan Chan – Lin Sadaung,(၅၈)  - မြို့တွင်း,86603E
+59,59,Thein Kyaung – White Taw,(၅၉) တောင်ဒဂုံသိမ်ကျောင်းလမ်းဆုံ - ဗဟိုအမျိုးသမီးဆေးရုံ,DF504E
+60,60,Padauk Chaung/Thiri Mingalar Market – (Moke Oo Yuzana Garden),(၆၀ အကြီး) ယုဇနဥယျာဉ်မြို့တော် - ကျောက်ကုန်း,2C8A6C
+61,61,Nee Pyinyar Takke Tho – Sule Myodaw Khan Ma,(၆၁) အနောက်ပိုင်းနည်းပညာတက္ကသိုလ် - ဆူးလေ,405CAA
+62,62,Dagon Takke Tho – Sar Taik,(၆၂) ဒဂုံတက္ကသိုလ် - ကြည့်မြင်တိုင်,DF504E
+63,63,Kyauk Kone Htate – Than Lyet Soon,(၆၃) စံပြစျေး - သံလျက်စွန်း,DF504E
+66,66,Computer – Sate Kyan Mar Yae Say Yon,(၆၆) ကွန်ပူတာတက္ကသိုလ် - စိတ်ကျန်းမာရေးဆေးရုံ,2C8A6C
+68,68,Aung Myittar – Kyway Tit,(၆၈) ရွှေပြည်သာ (အိမ်မည်းကြီး) - နည်းပညာတက္ကသိုလ်,405CAA
+69,69,Auk Gate – B.O.C,(၆၉) ရွှေပြည်သာ (အောက်ဆိပ်) - ဒဂုံဧရာအဝေးပြေး,405CAA
+70,70,Nee Pyinyar Takke Tho (G.T.U) – Ocean,(၇၀) တောင်ဒဂုံ - ကျောက်ကုန်း,96509F
+71,71,Lay Daung Kan (Site Mway Tit) – Zawana,(၇၁) သရက်ပင်ချောင် - စံပြဈေး,2C8A6C
+72,72,Thone-Sae-Lay Kar Gyi Gate – Sule Pan Chan,(၇၂) ဧရာဝဏ် - ဆူးလေ,405CAA
+73,73,Htauk Kyant Lan Sone – Tayar-Chauk,(၇၃) ရွှေပြည်သာ - ထောက်ကြန့်,2C8A6C
+74,74,Htan Chauk Pin – Dagon Ayar A Way Pyay,(၇၄) ရွှေပြည်သာ - ဒဂုံဧရာအဝေးပြေး,405CAA
+75,75,Nyaung Pin – Kannar Zay,(၇၅) သုဝဏ္ဏဘုရား - ကြည့်မြင်တိုင်,DF504E
+76,76,A Shae Paing Takke Tho – Set Hmu Tit,(၇၆) အရှေ့ ပိုင်းတက္ကသိုလ် - စက်မှု(၁),405CAA
+77,77,Palae Lan – Sauk Lote Yae,(၇၇) ဦးထောင်ဘို - မြင်းလှည်းဂိတ,405CAA
+78,78,Computer – Sule Myodaw Khan Ma,(၇၈) ကွန်ပျူတာသက္ကသိုလ် -ဆူးလေ (ဘူတာကြီး),405CAA
+79,79,Awine – Lin Sadaung,(၇၉) လင်းစဒေါင်း - အနောက်ပိုင်းတက္ကသိုလ,405CAA
+81,81,U Tun Myat – (Pansodan Seikkanthar),(၈၁) တောင်မြောက်လမ်းဆုံ - ပန်းဆိုးတန်း,DF504E
+83,83,Dagon Ayar A Way Pyay – Ayar Wun,(၈၃) ဒဂုံဧရာအဝေးပြေး - အင်းဝအိမ်ရာ,405CAA
+84,84,Lay-sae-koe Asane Gate – Khun/ Shit Lan Sone,(၈၄) သာကေတ - မြောက်ဒဂ,405CAA
+85,85,Thaketa Awine – Dagon Ayar A Way Pyay,(၈၅) သာကေတ - တီဘီဆေးရ,405CAA
+86,86,Thida Seik – Thayet Taw,(၈၆) တာမွေ - အင်းစိန်,DF504E
+88,88,Dagon Takke Tho – Pyi Taw Thar/ G.T.I Htate,(၈၈) ဒဂုံတက္ကသိုလ် - ဒညင်းကုန်း,DF504E
+90,90,Taik Kyi Zay – Thakhin Mya Pan Cha,(၉၀) ဥက္ကံ - သခင်မြပန်းခြံ,405CAA
+91,91,Taik Kyi Zay – Khayae Pin Yate Mon,(၉၁) တိုက်ကြီး - အမှတ်(၃)လမ်းဆုံ,2C8A6C
+93,93,A Nout Paing Takke Tho – Lan Ngar Sae,(၉၃) အနောက်ပိုင်းတက္ကသိုလ် - ရန်ကုန်ဘူတာကြီး,405CAA
+94,94,Tar Sone – Lan Thone Sae,(၉၄) ကွန်ပျူတာတက္ကသိုလ် - ရန်ကုန်ဘူတာကြီး,405CAA
+95,95,Kyauk Tan – Tamwe Bali,(၉၅) ကျောက်တန်း - အလုပ်သမားဆေးရုံ,96509F
+96,96,Tar Sone – Ta Sal Zay,(၉၆) လှော်ကားတာဆုံ - သာကေတ,405CAA
+97,97,See Pwar Yay Takke Tho – Myaynigone,(၉၇) စီးပွားရေးတက္ကသိုလ်“ရွာသာကြီးနယ်မြေ”- ထောက်ကြန့်,DF504E
+98,98,Dagon Ayar A Way Pyay – Than Lyet Soon,(၉၈) ဒဂုံဧရာအဝေးပြေး – ဗိုလ်တထောင် (အထက်ကြည့်မြင်တိုင်လမ်း),405CAA
+99,99,Dagon Ayar A Way Pyay – Shwe Li Road,(၉၉) ဒဂုံဧရာအဝေးပြေး – ရွှေလီလမ်း(ရွှေလီအိမ်ရာ),405CAA
+100,100,Thein Kyaung – Lin Sadaung,(၁၀၀) မင်းရဲကောင်းပုံလမ်း - ဗိုလ်တစ်ထောင်,DF504E
+15-BoHmuBaHtoo,15-BoHmuBaHtoo,Moke Wa – Sayardaw Gyi,(၁၅ ဗိုလ်မူးဗထူး) ဒဂုံတက္ကသိုလ် - ပြည်လမ်း - တညင်းကုန်း,DF504E
+15-BoHmuBaHtooBayintNaung,15-BoHmuBaHtooBayintNaung,Dagon Takke Tho – Sayardaw Gyi,(၁၅ ဗိုလ်မူးဗထူး - ဘုရင့်နောင်လမ်း) ဒဂုံတက္ကသိုလ် - ဘုရင့်နောင်လမ်း - တညင်းကုန်း,DF504E
+15-ShwePaukKan,15-ShwePaukKan,Dagon Takke Tho – Sayardaw Gyi,(၁၅ ရွှေပေါက္ကံ) ဒဂုံတက္ကသိုလ်  - ဘုရင့်နောင်လမ်း - တညင်းကုန်း,DF504E
+16A,16A,Sae-Chauk Kwae – Dagon Ayar A Way Pyay,(၁၆ တောင်ငူလမ်း) ရွှေပေါက်ကံ - ဒဂုံဧရာအဝေးပြေးဝင်း,DF504E
+16B,16B,Hmaw Kyun – Dagon Ayar A Way Pyay,(၁၆ ဗိုလ်တေဇလမ်း) ရွှေပေါက်ကံ - ဒဂုံဧရာအဝေးပြေးဝင်း,DF504E
+16C,16C,Alal Pauk – Dagon Ayar A Way Pyay,(၁၆ အောင်မင်္ဂလာ) အောင်မင်္ဂလာ - ဒဂုံဧရာအဝေးပြေးဝင်း,DF504E
+23A,23A,Nee Pyinyar Takke Tho – Thakhin Mya Pan Cha,(၂၃ ဘုရင်နောင်တံတား) (တူးချောင်း) - သခင်မြပန်းခြံ,405CAA
+23B,23B,Nee Pyinyar Takke Tho – Thakhin Mya Pan Chan,(၂၃ လှိုင်မြစ်လမ်း) (တူးချောင်း) - သခင်မြပန်းခြံ,405CAA
+24A,24A,Sae-Thone Gate – Botahtaung Paya,(၂၄) ကျန်စစ်သားလမ်း - ဗိုလ်တထောင်ဘုရားလမ်း,DF504E
+24B,24B,Dagon Takke Tho – Botahtaung Paya,(၂၄) ဒဂုံတက္ကသိုလ် - ဗိုလ်တထောင်ဘုရားလမ်း,DF504E
+30-Pyay,30-Pyay,Dagon Takke Tho – Thit Taw,(၃၀ ပြည်လမ်း) ဒဂုံတက္ကသိုလ် - သခင်မြပန်းခြံ,DF504E
+30-Thamine,30-Thamine,Yone Shae – Thit Taw,(၃၀ သမိုင်း) ဒဂုံတက္ကသိုလ် - သခင်မြပန်းခြံ,DF504E
+36-AungMingalar,36-AungMingalar,Aung Mingalar A Way Pyay – Sule Myodaw Khan Ma,(၃၆ အောင်မင်္ဂလာ) အောင်မင်္ဂလာ - ဆူးလေ,405CAA
+36-HtaukKyant,36-HtaukKyant,Htauk Kyant Lan Sone – Sule Myodaw Khan Ma,(၃၆ ထောက်ကြန့်) ထောက်ကြန့် - ဆူးလေ,405CAA
+36-ShwePaukKan,36-ShwePaukKan,Sin Phon Kwae – Sule Myodaw Khan Ma,(၃၆ ရွှေပေါက္ကံ) ရွှေပေါက္ကံ - ဆူးလေ,405CAA
+37-Hlegu,37-Hlegu,Hlegu Tar Sone – Nyaung Pin Lay Zay,(၃၇ လှည်းကူး) ဆူးလေ - လှည်းကူး,405CAA
+37-Hmawbi,37-Hmawbi,G.T.C Alal Pauk – Chauk Htat Yone,(၃၇ မှော်ဘီ) ဆူးလေ - မှော်ဘီ,405CAA
+37-HtaukKyant,37-HtaukKyant,Gate Haung – Chauk Htat Yone,(၃၇ ထောက်ကြန့်) ဆူးလေ - ထောက်ကြန့်,405CAA
+37-Okekan,37-Okekan,Okkan – Chauk Htat Yone,(၃၇ ဥက္ကံ) ဆူးလေ - ဥက္ကံ,405CAA
+37-Waryarlatt,37-Waryarlatt,Waryar Let – Lan Thone Sae,(၃၇ ဝါယာလက်) ဆူးလေ - ဝါယာလက်,405CAA
+3A,3A,Sae-Tit Lan – Sule Pan Chan,(၃ တာမွေ) ယုဇနဥယျာဉ်မြို့တော် - မင်္ဂလာစျေး - လမ်း၅၀,DF504E
+3B,3B,Sae-Tit Lan – Sule Myodaw Khan Ma,(၃ သုဝဏ္ဏစျေး) ယုဇနဥယျာဉ်မြို့တော် - လမ်း၅၀,DF504E
+60-Mini,60-Mini,Padauk Chaung/Thiri Mingalar Market – Sauk Lote Yae,(၆၀ မီနီ) တောင်ဒဂုံ - ကျောက်ကုန်း,2C8A6C
+64A,64A,Waibargi – Baho Yone,(၆၄ သုဓမ္မာလမ်း) ဝေဘာဂီ - နန်းသီတာဆိပ်ကမ်း,DF504E
+64B,64B,Waibargi – Baho Yone,(၆၄ ခေမာသီလမ်း) ဝေဘာဂီ - နန်းသီတာဆိပ်ကမ်း,DF504E
+65A,65A,Auk Gate – Lin Sadaung,(၆၅ ပုလဲလမ်း) ဗိုလ်တထောင်ဘုရား - ရွှေပြည်သာ,405CAA
+65B,65B,Auk Gate – Lin Sadaung,(၆၅ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း) ဗိုလ်တထောင်ဘုရား - ရွှေပြည်သာ,405CAA
+6A,6A,Thein Kyaung – Dagon Ayar A Way Pyay,(၆-က) တောင်ဒဂုံ သိမ်ချောင်း - လှိုင်သာယာ,DF504E
+6B,6B,Yone Shae – Dagon Ayar A Way Pyay,(၆-ခ) တောင်ဒဂုံ (၇၀/၇၁) ဈေး - လှိုင်သာယာ,DF504E
+7A,7A,Chauk-Sae-Hnit – Sule Pan Chan,(၇ စက်မှုဇုံ (၂)) တောင်ဒဂုံ (၇၀/၇၂)ရပ်ကွက် - မဟာဗန္ဓုလလမ်း,DF504E
+7B,7B,Chauk-Sae-Hnit – Sule Pan Chan,(၇ မောင်မကန်လမ်း) တောင်ဒဂုံ (၇၀/၇၂)ရပ်ကွက် - မဟာဗန္ဓုလလမ်း,DF504E
+80-KhineShweWar,80-KhineShweWar,(Moke Oo Yuzana Garden) – White Taw,(၈၀ ခိုင်ရွှေဝါ) သခင်မြပန်းခြံ - ခိုင်ရွှေဝါ - ရတနာနှင်းဆီအိမ်ယာ,DF504E
+80-Mini,80-Mini,Anawmar – Youk Lan,(၈၀ မီနီ) အထက်ပန်းဆိုးတန်း - သာကေတ,DF504E
+80-MyinThawTar,80-MyinThawTar,(Moke Oo Yuzana Garden) – White Taw,(၈၀ မြင်တော်သာ) သခင်မြပန်းခြံ - မြင်တော်သာ - ရတနာနှင်းဆီအိမ်ယာ,DF504E
+87-MaWaTa,87-MaWaTa,Dagon Takke Tho – Sule Myodaw Khan Ma,(၈၇ မဝတ) ဒဂုံတက္ကသိုလ် - ဆူးလေ,DF504E
+87-MaharMyaing,87-MaharMyaing,Dagon Takke Tho – Sule Myodaw Khan Ma,(၈၇ မဟာမြိုင်) ဒဂုံတက္ကသိုလ် - ဆူးလေ,DF504E
+89-MinNanda,89-MinNanda,Shit Gate – Kyee Myin Daing Nya Zay,(၈၉ မင်းနန္ဒ) ဧရာဝဏ် - ပန်းပင်ကြီး,DF504E
+89-MyinTawThar,89-MyinTawThar,Shit Gate – Kyee Myin Daing Nya Zay,(၈၉ မြင်တော်သာ) ဧရာဝဏ် - ပန်းပင်ကြီး,DF504E
+92-KhayMarThi,92-KhayMarThi,Htauk Kyant Lan Sone – Zawana,(၉၂ ခေမာသီလမ်း) အမှတ်(၃)လမ်းဆုံ - ဇဝန,405CAA
+92-Thudhamma,92-Thudhamma,Htauk Kyant Lan Sone – Zawana,(၉၂ သုဓမ္မာလမ်း) အမှတ်(၃)လမ်းဆုံ - ဇဝန,405CAA
+APS-Kabaraye,APS-Kabaraye,Yangon Intl. Airport Terminal 1 – Lan Thone Sae,Airport Shuttle Bus လေဆိပ် - ကမ္ဘာအေး - ဆူးလေ - ပြည်လမ်း,808080
+APS-Pyay,APS-Pyay,Yangon Intl. Airport Terminal 1 – Sule Myodaw Khan Ma,Airport Shuttle Bus လေဆိပ် - ပြည်လမ်း - ဆူးလေ - ကမ္ဘာအေး,808080
