@@ -2,6 +2,7 @@ import { BusFront, Flag, Footprints, MapPin, Sparkles } from "lucide-react";
 import type { Journey } from "@/lib/transit/types";
 import { ROUTE_COLOR_CLASSES } from "./JourneyCard";
 import { CrowdingBadge } from "./CrowdingBadge";
+import { TrafficBadge } from "./TrafficBadge";
 import { cn } from "@/lib/utils";
 
 export function JourneySteps({ journey, currency }: { journey: Journey; currency: string }) {
@@ -35,9 +36,10 @@ export function JourneySteps({ journey, currency }: { journey: Journey; currency
               <div className="text-xs text-muted-foreground">
                 {leg.routeName} · {Math.round(leg.minutes)} min · {leg.fare} {currency}
               </div>
-              {leg.crowding && (
-                <div className="mt-1.5">
-                  <CrowdingBadge crowding={leg.crowding} />
+              {(leg.crowding || leg.traffic) && (
+                <div className="mt-1.5 flex flex-wrap gap-1.5">
+                  {leg.crowding && <CrowdingBadge crowding={leg.crowding} />}
+                  {leg.traffic && <TrafficBadge traffic={leg.traffic} />}
                 </div>
               )}
               {middle > 0 && (

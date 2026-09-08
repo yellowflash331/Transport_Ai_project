@@ -5,13 +5,10 @@ import { z } from "zod";
 import { BusFront, ChevronLeft, Clock, Coins, Footprints, Repeat, SlidersHorizontal } from "lucide-react";
 import { planJourney } from "@/lib/ai/ai.functions";
 import { AIRecommendationCard } from "@/components/transit/AIRecommendationCard";
-import { badgesAcross } from "@/lib/transit/engine";
-import { PREFERENCES, type Preference } from "@/lib/transit/types";
 import { JourneyCard } from "@/components/transit/JourneyCard";
 import { JourneySteps } from "@/components/transit/JourneySteps";
 import { JourneyFlowSummary } from "@/components/transit/JourneyFlowSummary";
 import { SearchForm } from "@/components/transit/SearchForm";
-import { DemoBanner } from "@/components/transit/DemoBanner";
 import { cn } from "@/lib/utils";
 
 const RouteMap = lazy(() => import("@/components/transit/RouteMap"));
@@ -23,7 +20,6 @@ const searchSchema = z.object({
   to: z.string().default(""),
   toLat: z.coerce.number().default(0),
   toLng: z.coerce.number().default(0),
-  pref: z.enum(["recommended", "fastest", "least_walking", "fewest_transfers", "cheapest"]).default("recommended"),
 });
 type SearchParams = z.infer<typeof searchSchema>;
 
@@ -35,7 +31,7 @@ const routesQuery = (s: SearchParams) =>
         data: {
           origin: { name: s.from, lat: s.fromLat, lng: s.fromLng, kind: "place" },
           destination: { name: s.to, lat: s.toLat, lng: s.toLng, kind: "place" },
-          preference: s.pref,
+          preference: "recommended",
         },
       }),
     staleTime: 5 * 60_000,
@@ -137,8 +133,6 @@ function Results({ search }: { search: SearchParams }) {
   const [editing, setEditing] = useState(false);
   useEffect(() => setSelectedId(data.ai.best?.journeyId ?? data.journeys[0]?.id ?? ""), [data]);
   const selected = data.journeys.find((j) => j.id === selectedId) ?? data.journeys[0];
-  const badges = badgesAcross(data.journeys);
-  const prefLabel = PREFERENCES.find((p) => p.id === data.preference)?.label;
 
   return (
     <div className="flex h-screen flex-col overflow-hidden bg-background">
@@ -162,7 +156,7 @@ function Results({ search }: { search: SearchParams }) {
           className="flex h-9 items-center gap-2 rounded-lg border bg-card px-3 text-sm font-medium hover:bg-accent"
         >
           <SlidersHorizontal className="size-4" />
-          <span className="hidden sm:inline">{editing ? "Close" : `Edit · ${prefLabel}`}</span>
+          <span className="hidden sm:inline">{editing ? "Close" : "Edit search"}</span>
         </button>
       </header>
 
@@ -174,7 +168,6 @@ function Results({ search }: { search: SearchParams }) {
               initial={{
                 origin: { name: data.origin.name, lat: data.origin.lat, lng: data.origin.lng, kind: "place" },
                 destination: { name: data.destination.name, lat: data.destination.lat, lng: data.destination.lng, kind: "place" },
-                preference: data.preference as Preference,
               }}
             />
           </div>
@@ -205,7 +198,6 @@ function Results({ search }: { search: SearchParams }) {
         {/* Side panel */}
         <aside className="flex min-h-0 flex-1 flex-col overflow-y-auto border-t bg-background lg:order-1 lg:w-[440px] lg:flex-none lg:border-t-0 lg:border-r xl:w-[480px]">
           <div className="space-y-4 p-4">
-            <DemoBanner source={data.network} />
             {data.journeys.length === 0 ? (
               <div className="rounded-2xl border bg-card p-6 text-center">
                 <h2 className="font-display text-lg font-bold">No bus connection found</h2>
@@ -229,7 +221,6 @@ function Results({ search }: { search: SearchParams }) {
                 />
                 <div className="flex items-end justify-between">
                   <h1 className="font-display text-xl font-bold">Valid routes from the engine</h1>
-                  <span className="text-xs text-muted-foreground">Optimised: {prefLabel}</span>
                 </div>
                 <div className="space-y-3">
                   {data.journeys.map((j, i) => (
@@ -237,7 +228,6 @@ function Results({ search }: { search: SearchParams }) {
                       key={j.id}
                       journey={j}
                       rank={i}
-                      badges={badges.get(j.id) ?? []}
                       selected={j.id === selected?.id}
                       currency={data.network.currency}
                       aiScore={data.ai.ranked.find((r) => r.journeyId === j.id)?.score}

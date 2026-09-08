@@ -1,6 +1,7 @@
 import { ArrowRight, BusFront, Clock, Coins, Footprints, Repeat } from "lucide-react";
 import type { Journey } from "@/lib/transit/types";
 import { CrowdingBadge } from "./CrowdingBadge";
+import { TrafficBadge } from "./TrafficBadge";
 import { cn } from "@/lib/utils";
 
 export const ROUTE_COLOR_CLASSES = [
@@ -15,7 +16,6 @@ export const ROUTE_COLOR_CLASSES = [
 interface Props {
   journey: Journey;
   rank: number;
-  badges: string[];
   selected: boolean;
   currency: string;
   aiScore?: number | undefined;
@@ -23,7 +23,7 @@ interface Props {
   onSelect: () => void;
 }
 
-export function JourneyCard({ journey, rank, badges, selected, currency, aiScore, predictedMinutes, onSelect }: Props) {
+export function JourneyCard({ journey, rank, selected, currency, aiScore, predictedMinutes, onSelect }: Props) {
   const buses = journey.legs.filter((l) => l.kind === "bus");
   return (
     <button
@@ -45,13 +45,6 @@ export function JourneyCard({ journey, rank, badges, selected, currency, aiScore
           >
             {rank + 1}
           </span>
-          <div className="flex flex-wrap gap-1">
-            {badges.map((b) => (
-              <span key={b} className="rounded-full bg-accent px-2 py-0.5 text-[11px] font-semibold text-accent-foreground">
-                {b}
-              </span>
-            ))}
-          </div>
         </div>
         <div className="text-right">
           <div className="font-display text-2xl leading-none font-bold">
@@ -78,6 +71,7 @@ export function JourneyCard({ journey, rank, badges, selected, currency, aiScore
                 {b.routeNumber}
               </span>
               {b.crowding && <CrowdingBadge crowding={b.crowding} compact />}
+              {b.traffic && <TrafficBadge traffic={b.traffic} compact />}
               {i < buses.length - 1 && <ArrowRight className="size-3 text-muted-foreground" />}
             </span>
           ) : null,

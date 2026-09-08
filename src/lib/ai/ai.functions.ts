@@ -4,9 +4,18 @@ import { findRoutes } from "@/lib/transit/engine";
 import { getDataSource } from "@/lib/transit/data-source";
 import type { BusLeg, RouteResponse } from "@/lib/transit/types";
 import { recommend, type Recommendation } from "./recommender";
-import { getPredictor } from "./travel-time-predictor";
+import { getPredictor, type TravelTimePredictor } from "./travel-time-predictor";
 import { ASSUMED_BUS_CAPACITY, ASSUMED_CURRENT_BUSES, getCrowdingPredictor } from "./crowding-predictor";
-import { timeOfDayLabel, yangonNow, type CrowdingFeatures, type ModelInfo, type TrafficLevel } from "./contracts";
+import {
+  timeBucketForHour,
+  timeOfDayLabel,
+  yangonNow,
+  type CrowdingFeatures,
+  type ModelInfo,
+  type TimeBucket,
+  type TrafficLevel,
+  type TravelTimeFeatures,
+} from "./contracts";
 
 const placeSchema = z.object({
   name: z.string().min(1),
@@ -31,25 +40,30 @@ export interface PlanResponse extends RouteResponse {
   crowdingModel: ModelInfo;
 }
 
-const trafficLevelForBucket = (bucket: string): TrafficLevel =>
+/** Rush hour (morning/evening peak) means heavier traffic; midday is moderate; early/night is light. */
+const trafficLevelForBucket = (bucket: TimeBucket): TrafficLevel =>
   bucket.endsWith("peak") ? "High" : bucket === "midday" ? "Medium" : "Low";
 
 /**
- * Annotates every bus leg of every journey with a predicted crowding level.
- * Merged from the standalone AI/ folder's passenger-demand model (see
- * ml-service/ and lib/ai/crowding-predictor.ts). Never changes which routes,
- * stops or minutes the deterministic engine returned — purely additive.
+ * Annotates every bus leg of every journey with predicted crowding AND predicted
+ * traffic congestion. Crowding comes from the standalone AI/ folder's passenger-demand
+ * model (see ml-service/ and lib/ai/crowding-predictor.ts). Traffic congestion re-uses
+ * the travel-time predictor's rush-hour/off-peak multipliers (see travel-time-predictor.ts)
+ * to work out how many minutes a leg is predicted to lose to congestion at this time of
+ * day. Neither ever changes which routes, stops or minutes the deterministic engine
+ * returned — both are purely additive.
  */
-async function annotateCrowding(
+async function annotateLegs(
   journeys: RouteResponse["journeys"],
-  ctx: { hour: number; dayOfWeek: number; bucket: string },
-): Promise<{ journeys: RouteResponse["journeys"]; model: ModelInfo }> {
-  const predictor = getCrowdingPredictor({ ML_CROWDING_URL: process.env["ML_CROWDING_URL"] });
+  ctx: { hour: number; dayOfWeek: number; bucket: TimeBucket },
+  timePredictor: TravelTimePredictor,
+): Promise<{ journeys: RouteResponse["journeys"]; crowdingModel: ModelInfo }> {
+  const crowdingPredictor = getCrowdingPredictor({ ML_CROWDING_URL: process.env["ML_CROWDING_URL"] });
   const trafficLevel = trafficLevelForBucket(ctx.bucket);
 
-  // One feature row per distinct route across all journeys (routes repeat across candidates).
+  // Crowding: one feature row per distinct route across all journeys (routes repeat across candidates).
   const routeIds = [...new Set(journeys.flatMap((j) => j.legs.filter((l): l is BusLeg => l.kind === "bus").map((l) => l.routeId)))];
-  const features: CrowdingFeatures[] = routeIds.map((route_id) => ({
+  const crowdingFeatures: CrowdingFeatures[] = routeIds.map((route_id) => ({
     route_id,
     hour: ctx.hour,
     weather: "Clear",
@@ -58,31 +72,70 @@ async function annotateCrowding(
     capacity: ASSUMED_BUS_CAPACITY,
     current_buses: ASSUMED_CURRENT_BUSES,
   }));
-  const predictions = routeIds.length ? await predictor.predictBatch(features) : [];
-  const byRoute = new Map(routeIds.map((id, i) => [id, predictions[i]]));
-  const model = predictor.info();
+  const crowdingPreds = routeIds.length ? await crowdingPredictor.predictBatch(crowdingFeatures) : [];
+  const crowdingByRoute = new Map(routeIds.map((id, i) => [id, crowdingPreds[i]]));
+  const crowdingModel = crowdingPredictor.info();
 
-  const annotated = journeys.map((j) => ({
+  // Traffic: one feature row per stop-to-stop hop, tagged with the (journey, leg) it belongs to,
+  // so congestion can be compared against each leg's own historical minutes.
+  const hopRows: { j: number; l: number; features: TravelTimeFeatures }[] = [];
+  journeys.forEach((j, ji) => {
+    j.legs.forEach((leg, li) => {
+      if (leg.kind !== "bus") return;
+      for (const hop of leg.hops) {
+        hopRows.push({
+          j: ji,
+          l: li,
+          features: {
+            route_id: leg.routeId,
+            from_stop_id: hop.fromStopId,
+            to_stop_id: hop.toStopId,
+            hour: ctx.hour,
+            day_of_week: ctx.dayOfWeek,
+            time_bucket: ctx.bucket,
+            is_weekend: ctx.dayOfWeek === 0 || ctx.dayOfWeek === 6,
+            distance_m: hop.meters,
+            historical_minutes: hop.minutes,
+            traffic_index: null,
+            is_raining: null,
+          },
+        });
+      }
+    });
+  });
+  const hopPreds = hopRows.length ? await timePredictor.predictBatch(hopRows.map((r) => r.features)) : [];
+  const timeModel = timePredictor.info();
+  const predictedMinutesByLeg = new Map<string, number>();
+  hopRows.forEach((r, i) => {
+    const key = `${r.j}|${r.l}`;
+    predictedMinutesByLeg.set(key, (predictedMinutesByLeg.get(key) ?? 0) + (hopPreds[i]?.predicted_minutes ?? 0));
+  });
+
+  const annotated = journeys.map((j, ji) => ({
     ...j,
-    legs: j.legs.map((leg) => {
+    legs: j.legs.map((leg, li) => {
       if (leg.kind !== "bus") return leg;
-      const p = byRoute.get(leg.routeId);
-      if (!p) return leg;
+      const crowding = crowdingByRoute.get(leg.routeId);
+      const predictedMinutes = predictedMinutesByLeg.get(`${ji}|${li}`);
+      const delayMinutes = predictedMinutes !== undefined ? Math.max(0, Math.round(predictedMinutes - leg.minutes)) : 0;
       return {
         ...leg,
-        crowding: {
-          predictedPassengers: p.predicted_passengers,
-          capacity: p.capacity,
-          occupancyPct: p.occupancy_pct,
-          riskLevel: p.risk_level,
-          additionalBusesNeeded: p.additional_buses_needed,
-          isDemo: model.isDemo,
-        },
+        crowding: crowding
+          ? {
+              predictedPassengers: crowding.predicted_passengers,
+              capacity: crowding.capacity,
+              occupancyPct: crowding.occupancy_pct,
+              riskLevel: crowding.risk_level,
+              additionalBusesNeeded: crowding.additional_buses_needed,
+              isDemo: crowdingModel.isDemo,
+            }
+          : leg.crowding,
+        traffic: { level: trafficLevel, delayMinutes, isDemo: timeModel.isDemo },
       };
     }),
   }));
 
-  return { journeys: annotated, model };
+  return { journeys: annotated, crowdingModel };
 }
 
 /**
@@ -95,9 +148,11 @@ export const planJourney = createServerFn({ method: "POST" })
     const now = yangonNow();
     const hour = data.hour ?? now.hour;
     const dayOfWeek = data.dayOfWeek ?? now.dayOfWeek;
-    const bucket = timeOfDayLabel(
-      hour < 6 ? "early" : hour < 10 ? "morning_peak" : hour < 16 ? "midday" : hour < 20 ? "evening_peak" : "night",
-    );
+    // Rush-hour-aware bucket (early / morning_peak / midday / evening_peak / night), used for
+    // traffic congestion and the travel-time predictor. The engine only understands the coarser
+    // morning_peak / evening_peak / offpeak split, derived from this one.
+    const rawBucket = timeBucketForHour(hour);
+    const engineBucket = timeOfDayLabel(rawBucket);
 
     const network = await getDataSource().loadNetwork();
     // 1. Deterministic engine (unchanged) — generates the only routes that may be shown.
@@ -105,7 +160,7 @@ export const planJourney = createServerFn({ method: "POST" })
       origin: data.origin,
       destination: data.destination,
       preference: data.preference,
-      timeOfDay: bucket,
+      timeOfDay: engineBucket,
       dayOfWeek: dayOfWeek === 0 || dayOfWeek === 6 ? "weekend" : "weekday",
     });
 
@@ -113,9 +168,12 @@ export const planJourney = createServerFn({ method: "POST" })
     const predictor = getPredictor({ ML_PREDICTOR_URL: process.env["ML_PREDICTOR_URL"] });
     const ai = await recommend({ journeys: routes.journeys, preference: data.preference, hour, dayOfWeek }, predictor);
 
-    // 3. Crowding layer (merged AI/ passenger-demand model) — annotates bus legs only.
-    const { journeys: crowdedJourneys, model: crowdingModel } = await annotateCrowding(routes.journeys, { hour, dayOfWeek, bucket });
+    // 3. Crowding + traffic congestion layer — annotates bus legs only. During rush hours
+    //    (morning/evening peak) legs are flagged with heavier traffic and a predicted delay
+    //    on top of the historical schedule, same as the predictor already applies to the AI
+    //    recommendation's predicted time.
+    const { journeys: annotatedJourneys, crowdingModel } = await annotateLegs(routes.journeys, { hour, dayOfWeek, bucket: rawBucket }, predictor);
 
     const label = `${["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][dayOfWeek]} ${String(hour).padStart(2, "0")}:00`;
-    return { ...routes, journeys: crowdedJourneys, ai, timeContext: { hour, dayOfWeek, label }, crowdingModel };
+    return { ...routes, journeys: annotatedJourneys, ai, timeContext: { hour, dayOfWeek, label }, crowdingModel };
   });

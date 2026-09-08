@@ -12,8 +12,8 @@ import busStopsCsv from "./data/ybs/bus_stops.csv?raw";
 import busRoutesCsv from "./data/ybs/bus_routes.csv?raw";
 import routeStopsCsv from "./data/ybs/route_stops.csv?raw";
 
-/** Assumed standard YBS flat fare per bus ride (MMK). Not part of the dataset. */
-export const ASSUMED_FLAT_FARE_MMK = 200;
+/** Flat fare charged per bus ride (MMK). Not part of the dataset — every bus leg costs this fixed amount. */
+export const ASSUMED_FLAT_FARE_MMK = 400;
 
 let cached: TransitNetwork | null = null;
 

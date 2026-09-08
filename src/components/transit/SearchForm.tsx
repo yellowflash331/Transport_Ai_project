@@ -3,11 +3,11 @@ import { useNavigate } from "@tanstack/react-router";
 import { ArrowUpDown, MapPinned, Search } from "lucide-react";
 import { LocationSearch } from "./LocationSearch";
 import { StopPickerDialog } from "./StopPickerDialog";
-import { PREFERENCES, type Place, type Preference } from "@/lib/transit/types";
+import type { Place } from "@/lib/transit/types";
 import { cn } from "@/lib/utils";
 
 interface Props {
-  initial?: { origin: Place | null; destination: Place | null; preference: Preference };
+  initial?: { origin: Place | null; destination: Place | null };
   compact?: boolean;
 }
 
@@ -18,7 +18,7 @@ function MapPickButton({ onClick }: { onClick: () => void }) {
       onClick={onClick}
       className="mt-1.5 inline-flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-primary hover:underline"
     >
-      <MapPinned className="size-3.5" /> Or pick an exact bus stop from the map
+      <MapPinned className="size-3.5" /> Or pick any place or bus stop from the map
     </button>
   );
 }
@@ -27,7 +27,6 @@ export function SearchForm({ initial, compact }: Props) {
   const navigate = useNavigate();
   const [origin, setOrigin] = useState<Place | null>(initial?.origin ?? null);
   const [destination, setDestination] = useState<Place | null>(initial?.destination ?? null);
-  const [preference, setPreference] = useState<Preference>(initial?.preference ?? "recommended");
   const [error, setError] = useState<string | null>(null);
   const [picker, setPicker] = useState<"origin" | "destination" | null>(null);
   const closePicker = useCallback(() => setPicker(null), []);
@@ -53,7 +52,6 @@ export function SearchForm({ initial, compact }: Props) {
         to: destination.name,
         toLat: destination.lat,
         toLng: destination.lng,
-        pref: preference,
       },
     });
   };
@@ -97,34 +95,11 @@ export function SearchForm({ initial, compact }: Props) {
 
       <StopPickerDialog
         open={picker !== null}
-        title={picker === "origin" ? "Choose your start bus stop" : "Choose your destination bus stop"}
+        title={picker === "origin" ? "Choose your start point" : "Choose your destination"}
         accent={picker === "origin" ? "oklch(0.55 0.14 150)" : "oklch(0.6 0.2 25)"}
         onClose={closePicker}
         onPick={(p) => (picker === "origin" ? setOrigin(p) : setDestination(p))}
       />
-
-      <fieldset>
-        <legend className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted-foreground">Optimise for</legend>
-        <div className="flex flex-wrap gap-2">
-          {PREFERENCES.map((p) => (
-            <button
-              type="button"
-              key={p.id}
-              title={p.hint}
-              onClick={() => setPreference(p.id)}
-              aria-pressed={preference === p.id}
-              className={cn(
-                "rounded-full border px-3.5 py-1.5 text-sm font-medium transition",
-                preference === p.id
-                  ? "border-primary bg-primary text-primary-foreground shadow-xs"
-                  : "border-border bg-card text-foreground hover:border-primary/40 hover:bg-accent",
-              )}
-            >
-              {p.label}
-            </button>
-          ))}
-        </div>
-      </fieldset>
 
       {error && <p className="text-sm text-destructive">{error}</p>}
 

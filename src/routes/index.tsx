@@ -1,10 +1,9 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { BusFront, Database, GitBranch, Route as RouteIcon } from "lucide-react";
 import { SearchForm } from "@/components/transit/SearchForm";
-import { DemoBanner } from "@/components/transit/DemoBanner";
 
 const TITLE = "TransitAI — Yangon Bus Route Finder";
-const DESC = "Find the best bus routes across Yangon: nearest stops, transfers, walking distance, travel time and fare, ranked by your preference.";
+const DESC = "Find the best bus routes across Yangon: nearest stops, transfers, walking distance, travel time and fare.";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -52,7 +51,7 @@ function Index() {
           </p>
           <ul className="mt-6 grid max-w-md grid-cols-3 gap-3 text-xs">
             <Feature icon={RouteIcon} title="Nearest stop" text="Any place → closest walkable bus stops" />
-            <Feature icon={GitBranch} title="5 preferences" text="Fastest, least walking, cheapest…" />
+            <Feature icon={GitBranch} title="Traffic-aware" text="Rush-hour delay factored into travel time" />
             <Feature icon={Database} title="Crowding-aware" text="Predicted occupancy per bus leg" />
           </ul>
         </div>
@@ -61,9 +60,6 @@ function Index() {
           <h2 className="font-display text-xl font-bold">Plan a journey</h2>
           <p className="mb-5 text-sm text-muted-foreground">Try “Hledan” to “Sule Pagoda”.</p>
           <SearchForm />
-          <div className="mt-5">
-            <DemoBanner />
-          </div>
         </div>
       </section>
 
@@ -71,13 +67,9 @@ function Index() {
         <div className="mx-auto grid max-w-6xl gap-8 px-5 py-12 md:grid-cols-3">
           <HowStep n="01" title="Find nearby stops" text="Both ends are geocoded from whatever place you type, then several walkable stops around each are considered — not just the closest one." />
           <HowStep n="02" title="Search the network" text="Bus stops are nodes; consecutive stops on a route are edges carrying travel-time data. Transfers and walking legs are part of the graph." />
-          <HowStep n="03" title="Rank, explain & predict crowding" text="Time, walking, transfers and fare are combined per your preference, and each bus leg is annotated with predicted occupancy. Explanations only restate computed facts — the AI never invents buses or stops." />
+          <HowStep n="03" title="Rank, explain & predict conditions" text="Time, walking, transfers and fare are combined, and each bus leg is annotated with predicted occupancy and traffic congestion. Explanations only restate computed facts — the AI never invents buses or stops." />
         </div>
       </section>
-
-      <footer className="mx-auto max-w-6xl px-5 py-8 text-xs text-muted-foreground">
-        Map data © OpenStreetMap contributors. Bus network: YBS open data (CC BY-SA 4.0) — travel times and fares are estimates.
-      </footer>
     </main>
   );
 }

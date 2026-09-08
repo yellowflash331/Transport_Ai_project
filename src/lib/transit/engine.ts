@@ -474,7 +474,6 @@ function toJourney(graph: Graph, path: Label[], origin: Place, destination: Plac
     fare,
     score: last.cost,
     explanation: [],
-    badges: [],
   };
   journey.explanation = explainJourney(journey, preference);
   return journey;
@@ -529,7 +528,7 @@ export function findRoutes(network: TransitNetwork, req: RouteRequest): RouteRes
     .map((j) => ({ ...j, score: scoreFor(j, primaryWeights) }))
     .sort((a, b) => a.score - b.score || a.totalMinutes - b.totalMinutes)
     .slice(0, 3)
-    .map((j, i) => ({ ...j, id: `route-${i + 1}`, badges: badgesFor(j, i) }));
+    .map((j, i) => ({ ...j, id: `route-${i + 1}` }));
 
   // Recompute explanations with rank context
   for (const j of ranked) j.explanation = explainJourney(j, req.preference, ranked);
@@ -543,27 +542,4 @@ export function findRoutes(network: TransitNetwork, req: RouteRequest): RouteRes
     candidateStops: { origin: originStops.map((s) => s.stop), destination: destStops.map((s) => s.stop) },
     computedInMs: Date.now() - t0,
   };
-}
-
-function badgesFor(j: Journey, rank: number) {
-  const b: string[] = [];
-  if (rank === 0) b.push("Best match");
-  if (j.transferCount === 0) b.push("Direct");
-  return b;
-}
-
-export function badgesAcross(journeys: Journey[]): Map<string, string[]> {
-  const out = new Map<string, string[]>();
-  if (!journeys.length) return out;
-  const min = (f: (j: Journey) => number) => Math.min(...journeys.map(f));
-  for (const j of journeys) {
-    const arr = [...j.badges];
-    if (journeys.length > 1) {
-      if (j.totalMinutes === min((x) => x.totalMinutes)) arr.push("Fastest");
-      if (j.walkMeters === min((x) => x.walkMeters)) arr.push("Least walking");
-      if (j.fare === min((x) => x.fare)) arr.push("Cheapest");
-    }
-    out.set(j.id, [...new Set(arr)]);
-  }
-  return out;
 }

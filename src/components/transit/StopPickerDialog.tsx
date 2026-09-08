@@ -3,9 +3,9 @@ import { createPortal } from "react-dom";
 import { ClientOnly } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useServerFn } from "@tanstack/react-start";
-import { BusFront, Check, Loader2, X } from "lucide-react";
-import { listStops } from "@/lib/transit/transit.functions";
-import type { BusStop, Place } from "@/lib/transit/types";
+import { BusFront, Check, Loader2, MapPin, X } from "lucide-react";
+import { listStops, reverseGeocode } from "@/lib/transit/transit.functions";
+import type { BusStop, LatLng, Place } from "@/lib/transit/types";
 import { cn } from "@/lib/utils";
 
 const StopPickerMap = lazy(() => import("./StopPickerMap"));
@@ -20,12 +20,18 @@ interface Props {
 
 export function StopPickerDialog({ open, title, accent, onClose, onPick }: Props) {
   const fetchStops = useServerFn(listStops);
+  const fetchName = useServerFn(reverseGeocode);
   const { data: stops, isLoading } = useQuery({ queryKey: ["stops"], queryFn: () => fetchStops(), staleTime: Infinity, enabled: open });
   const [selected, setSelected] = useState<BusStop | null>(null);
+  const [pin, setPin] = useState<LatLng | null>(null);
+  const [pinPlace, setPinPlace] = useState<Place | null>(null);
+  const [namingPin, setNamingPin] = useState(false);
 
   useEffect(() => {
     if (!open) return;
     setSelected(null);
+    setPin(null);
+    setPinPlace(null);
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
     document.addEventListener("keydown", onKey);
     document.body.style.overflow = "hidden";
@@ -35,7 +41,20 @@ export function StopPickerDialog({ open, title, accent, onClose, onPick }: Props
     };
   }, [open, onClose]);
 
+  const dropPin = (p: LatLng) => {
+    setSelected(null);
+    setPin(p);
+    setPinPlace(null);
+    setNamingPin(true);
+    fetchName({ data: p })
+      .then((place) => setPinPlace(place))
+      .catch(() => setPinPlace({ name: `Pinned location (${p.lat.toFixed(4)}, ${p.lng.toFixed(4)})`, lat: p.lat, lng: p.lng, kind: "place" }))
+      .finally(() => setNamingPin(false));
+  };
+
   if (!open || typeof document === "undefined") return null;
+
+  const chosen = selected ? { name: selected.name, detail: "Bus stop" } : pinPlace ? { name: pinPlace.name, detail: pinPlace.detail ?? "Dropped pin" } : null;
 
   return createPortal(
     <div className="fixed inset-0 z-[1000] flex items-center justify-center bg-ink/60 p-3 backdrop-blur-sm" onMouseDown={onClose}>
@@ -53,7 +72,7 @@ export function StopPickerDialog({ open, title, accent, onClose, onPick }: Props
           <div className="min-w-0 flex-1">
             <h2 className="font-display text-base font-bold">{title}</h2>
             <p className="text-xs text-muted-foreground">
-              Optional — most people just type a place instead. Tap a bus stop marker to pin an exact one.
+              Tap a bus stop marker for an exact stop, or tap anywhere else to drop a pin — we'll find the nearest stop for you.
             </p>
           </div>
           <button type="button" onClick={onClose} aria-label="Close" className="rounded-lg p-2 hover:bg-accent">
@@ -69,7 +88,18 @@ export function StopPickerDialog({ open, title, accent, onClose, onPick }: Props
           ) : (
             <ClientOnly fallback={<div className="h-full bg-muted" />}>
               <Suspense fallback={<div className="h-full bg-muted" />}>
-                <StopPickerMap stops={stops} accent={accent} selected={selected} onSelect={setSelected} />
+                <StopPickerMap
+                  stops={stops}
+                  accent={accent}
+                  selected={selected}
+                  pin={pin}
+                  onSelect={(s) => {
+                    setPin(null);
+                    setPinPlace(null);
+                    setSelected(s);
+                  }}
+                  onPin={dropPin}
+                />
               </Suspense>
             </ClientOnly>
           )}
@@ -82,29 +112,41 @@ export function StopPickerDialog({ open, title, accent, onClose, onPick }: Props
 
         <footer className="flex items-center gap-3 border-t px-4 py-3">
           <div className="min-w-0 flex-1 text-sm">
-            {selected ? (
+            {namingPin ? (
+              <span className="flex items-center gap-2 text-muted-foreground">
+                <Loader2 className="size-3.5 animate-spin" /> Naming this spot…
+              </span>
+            ) : chosen ? (
               <>
-                <span className="text-xs font-semibold tracking-wider text-muted-foreground uppercase">Selected stop</span>
-                <div className="truncate font-medium">{selected.name}</div>
+                <span className="flex items-center gap-1 text-xs font-semibold tracking-wider text-muted-foreground uppercase">
+                  {selected ? <BusFront className="size-3" /> : <MapPin className="size-3" />}
+                  {selected ? "Selected stop" : "Dropped pin"}
+                </span>
+                <div className="truncate font-medium">{chosen.name}</div>
               </>
             ) : (
-              <span className="text-muted-foreground">No stop selected yet.</span>
+              <span className="text-muted-foreground">Tap the map to choose a stop or any place.</span>
             )}
           </div>
           <button
             type="button"
-            disabled={!selected}
+            disabled={!selected && !pinPlace}
             onClick={() => {
-              if (!selected) return;
-              onPick({ name: selected.name, lat: selected.latitude, lng: selected.longitude, kind: "stop", detail: "Bus stop" });
+              if (selected) {
+                onPick({ name: selected.name, lat: selected.latitude, lng: selected.longitude, kind: "stop", detail: "Bus stop" });
+              } else if (pinPlace) {
+                onPick(pinPlace);
+              } else {
+                return;
+              }
               onClose();
             }}
             className={cn(
               "inline-flex h-10 items-center gap-2 rounded-xl px-4 font-display text-sm font-bold transition",
-              selected ? "bg-gold text-gold-foreground hover:brightness-105" : "cursor-not-allowed bg-muted text-muted-foreground",
+              selected || pinPlace ? "bg-gold text-gold-foreground hover:brightness-105" : "cursor-not-allowed bg-muted text-muted-foreground",
             )}
           >
-            <Check className="size-4" /> Use this stop
+            <Check className="size-4" /> Use this location
           </button>
         </footer>
       </div>

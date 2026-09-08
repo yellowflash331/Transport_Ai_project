@@ -99,3 +99,33 @@ export const searchPlaces = createServerFn({ method: "GET" })
       })
       .slice(0, 8);
   });
+
+/** Names an arbitrary map point (e.g. a dropped pin) so it can be used like any typed place. */
+export const reverseGeocode = createServerFn({ method: "GET" })
+  .inputValidator((input) => z.object({ lat: z.number(), lng: z.number() }).parse(input))
+  .handler(async ({ data }): Promise<Place> => {
+    const fallback: Place = { name: `Pinned location (${data.lat.toFixed(4)}, ${data.lng.toFixed(4)})`, lat: data.lat, lng: data.lng, kind: "place" };
+    try {
+      const url = new URL("https://nominatim.openstreetmap.org/reverse");
+      url.searchParams.set("lat", String(data.lat));
+      url.searchParams.set("lon", String(data.lng));
+      url.searchParams.set("format", "jsonv2");
+      const res = await fetch(url, {
+        headers: { "User-Agent": "TransitAI-Yangon/0.1 (route finder)", "Accept-Language": "en" },
+        signal: AbortSignal.timeout(3500),
+      });
+      if (!res.ok) return fallback;
+      const row = (await res.json()) as { display_name?: string; name?: string };
+      if (!row.display_name && !row.name) return fallback;
+      const parts = (row.display_name ?? "").split(",").map((s) => s.trim());
+      return {
+        name: row.name || parts[0] || fallback.name,
+        detail: parts.slice(1, 3).join(", ") || "Dropped pin",
+        lat: data.lat,
+        lng: data.lng,
+        kind: "place",
+      };
+    } catch {
+      return fallback;
+    }
+  });

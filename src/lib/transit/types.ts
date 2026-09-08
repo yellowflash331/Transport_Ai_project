@@ -64,15 +64,8 @@ export interface TransitSource {
   notes?: string[] | undefined;
 }
 
+/** Internal ranking mode used by the engine and recommender. Always "recommended" — there is no user-facing selector. */
 export type Preference = "recommended" | "fastest" | "least_walking" | "fewest_transfers" | "cheapest";
-
-export const PREFERENCES: { id: Preference; label: string; hint: string }[] = [
-  { id: "recommended", label: "Recommended", hint: "Balanced time, walking and transfers" },
-  { id: "fastest", label: "Fastest", hint: "Shortest total travel time" },
-  { id: "least_walking", label: "Least Walking", hint: "Minimise walking distance" },
-  { id: "fewest_transfers", label: "Fewest Transfers", hint: "Stay on one bus if possible" },
-  { id: "cheapest", label: "Cheapest", hint: "Lowest total fare" },
-];
 
 export interface LatLng {
   lat: number;
@@ -113,6 +106,8 @@ export interface BusLeg {
   colorIndex: number;
   /** Predicted crowding for this bus leg, added by the AI layer (see lib/ai/crowding-predictor.ts). Absent until annotated. */
   crowding?: LegCrowding | undefined;
+  /** Predicted traffic congestion for this bus leg, added by the AI layer. Absent until annotated. */
+  traffic?: LegTraffic | undefined;
 }
 
 export interface LegCrowding {
@@ -121,6 +116,14 @@ export interface LegCrowding {
   occupancyPct: number;
   riskLevel: "low" | "medium" | "high" | "critical";
   additionalBusesNeeded: number;
+  isDemo: boolean;
+}
+
+export interface LegTraffic {
+  /** Congestion level for the time this leg is being ridden, driven by rush-hour vs off-peak timing. */
+  level: "Low" | "Medium" | "High";
+  /** Minutes this leg is predicted to take beyond the historical average because of congestion. */
+  delayMinutes: number;
   isDemo: boolean;
 }
 
@@ -141,7 +144,6 @@ export interface Journey {
   score: number;
   /** Human-readable, deterministic explanation. Never invents data. */
   explanation: string[];
-  badges: string[];
 }
 
 export interface RouteRequest {
