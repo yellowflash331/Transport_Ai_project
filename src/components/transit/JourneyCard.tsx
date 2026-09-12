@@ -2,6 +2,7 @@ import { ArrowRight, BusFront, Clock, Coins, Footprints, Repeat } from "lucide-r
 import type { Journey } from "@/lib/transit/types";
 import { CrowdingBadge } from "./CrowdingBadge";
 import { TrafficBadge } from "./TrafficBadge";
+import { PrologRuleBadge } from "./PrologRuleBadge";
 import { cn } from "@/lib/utils";
 
 export const ROUTE_COLOR_CLASSES = [
@@ -45,6 +46,7 @@ export function JourneyCard({ journey, rank, selected, currency, aiScore, predic
           >
             {rank + 1}
           </span>
+          {journey.prologAudit && <PrologRuleBadge audit={journey.prologAudit} compact />}
         </div>
         <div className="text-right">
           <div className="font-display text-2xl leading-none font-bold">

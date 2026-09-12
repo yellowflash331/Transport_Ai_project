@@ -1,6 +1,8 @@
+import { useState } from "react";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { BusFront, Database, GitBranch, Route as RouteIcon } from "lucide-react";
+import { BusFront, Database, GitBranch, Route as RouteIcon, ShieldCheck, Terminal } from "lucide-react";
 import { SearchForm } from "@/components/transit/SearchForm";
+import { PrologConsoleDialog } from "@/components/transit/PrologConsoleDialog";
 
 const TITLE = "TransitAI — Yangon Bus Route Finder";
 const DESC = "Find the best bus routes across Yangon: nearest stops, transfers, walking distance, travel time and fare.";
@@ -18,8 +20,11 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
+  const [prologOpen, setPrologOpen] = useState(false);
+
   return (
     <main className="min-h-screen paper-grid">
+      <PrologConsoleDialog open={prologOpen} onClose={() => setPrologOpen(false)} />
       <header className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5">
         <Link to="/" className="flex items-center gap-2 font-display text-lg font-bold tracking-tight">
           <span className="flex size-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
@@ -27,13 +32,23 @@ function Index() {
           </span>
           TransitAI
         </Link>
-        <span className="rounded-full border bg-card px-3 py-1 text-xs font-medium text-muted-foreground">Yangon · MVP</span>
+        <div className="flex items-center gap-2">
+          <button
+            type="button"
+            onClick={() => setPrologOpen(true)}
+            className="flex items-center gap-1.5 rounded-full border border-emerald-500/40 bg-emerald-500/10 px-3 py-1 text-xs font-semibold text-emerald-700 dark:text-emerald-300 hover:bg-emerald-500/20 transition shadow-2xs"
+          >
+            <Terminal className="size-3" />
+            <span>Prolog Console</span>
+          </button>
+          <span className="rounded-full border bg-card px-3 py-1 text-xs font-medium text-muted-foreground">Yangon · MVP</span>
+        </div>
       </header>
 
       <section className="mx-auto grid max-w-6xl gap-10 px-5 pt-8 pb-16 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:pt-16">
         <div className="animate-rise">
           <p className="mb-3 inline-flex items-center gap-2 rounded-full bg-accent px-3 py-1 text-xs font-semibold text-accent-foreground">
-            <span className="size-1.5 rounded-full bg-gold" /> AI-assisted public transport routing
+            <span className="size-1.5 rounded-full bg-gold" /> AI & Prolog-assisted public transport routing
           </p>
           <h1 className="font-display text-5xl leading-[0.98] font-extrabold tracking-tight md:text-6xl">
             Which bus,
@@ -49,8 +64,9 @@ function Index() {
           <p className="mt-3 max-w-md rounded-xl border bg-card px-3 py-2 text-xs font-medium text-muted-foreground">
             📍 Your place → 🚶 Walk → 🚌 Bus stop → Route → 🚌 Bus stop → 🚶 Walk → 📍 Destination
           </p>
-          <ul className="mt-6 grid max-w-md grid-cols-3 gap-3 text-xs">
+          <ul className="mt-6 grid max-w-md grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
             <Feature icon={RouteIcon} title="Nearest stop" text="Any place → closest walkable bus stops" />
+            <Feature icon={ShieldCheck} title="Prolog Rules" text="14,503 logic facts & deduction rules" />
             <Feature icon={GitBranch} title="Traffic-aware" text="Rush-hour delay factored into travel time" />
             <Feature icon={Database} title="Crowding-aware" text="Predicted occupancy per bus leg" />
           </ul>

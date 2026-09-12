@@ -2,6 +2,7 @@
  * Core transit data types. These mirror the database schema 1:1 so that
  * records can be imported from Supabase tables or CSV files without mapping.
  */
+import type { PrologAudit } from "@/lib/prolog/types";
 
 export interface BusStop {
   id: string;
@@ -144,6 +145,8 @@ export interface Journey {
   score: number;
   /** Human-readable, deterministic explanation. Never invents data. */
   explanation: string[];
+  /** Symbolic AI logic audit from SWI-Prolog rules. Added by prolog-service. */
+  prologAudit?: PrologAudit | undefined;
 }
 
 export interface RouteRequest {

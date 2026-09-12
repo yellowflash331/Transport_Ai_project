@@ -6,6 +6,7 @@ import type { BusLeg, RouteResponse } from "@/lib/transit/types";
 import { recommend, type Recommendation } from "./recommender";
 import { getPredictor, type TravelTimePredictor } from "./travel-time-predictor";
 import { ASSUMED_BUS_CAPACITY, ASSUMED_CURRENT_BUSES, getCrowdingPredictor } from "./crowding-predictor";
+import { auditJourneysWithProlog } from "@/lib/prolog/prolog-service";
 import {
   timeBucketForHour,
   timeOfDayLabel,
@@ -174,6 +175,9 @@ export const planJourney = createServerFn({ method: "POST" })
     //    recommendation's predicted time.
     const { journeys: annotatedJourneys, crowdingModel } = await annotateLegs(routes.journeys, { hour, dayOfWeek, bucket: rawBucket }, predictor);
 
+    // 4. Prolog logic rules layer — verifies journey stop sequences, cycles, transfers & fares.
+    const auditedJourneys = await auditJourneysWithProlog(annotatedJourneys);
+
     const label = `${["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][dayOfWeek]} ${String(hour).padStart(2, "0")}:00`;
-    return { ...routes, journeys: annotatedJourneys, ai, timeContext: { hour, dayOfWeek, label }, crowdingModel };
+    return { ...routes, journeys: auditedJourneys, ai, timeContext: { hour, dayOfWeek, label }, crowdingModel };
   });
