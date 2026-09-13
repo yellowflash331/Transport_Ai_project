@@ -1,4 +1,4 @@
-# AGENTS.md
+git commit -m "docs: add AGENTS.md for OpenCode project initialization"# AGENTS.md
 
 TransitAI / TransitMate Yangon: a TanStack Start (React 19 + TS + Vite) full-stack bus route finder for Yangon. Deterministic route engine in TS; two optional Python services (ML crowding, Prolog rules) live next to it.
 

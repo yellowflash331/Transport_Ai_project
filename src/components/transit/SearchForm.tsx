@@ -18,7 +18,7 @@ function MapPickButton({ onClick }: { onClick: () => void }) {
       onClick={onClick}
       className="mt-1.5 inline-flex items-center gap-1.5 text-xs font-medium text-muted-foreground hover:text-primary hover:underline"
     >
-      <MapPinned className="size-3.5" /> Or pick any place or bus stop from the map
+      <MapPinned className="size-3.5" /> Choose from the map
     </button>
   );
 }

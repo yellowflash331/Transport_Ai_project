@@ -2,7 +2,7 @@ import { lazy, Suspense, useEffect, useState } from "react";
 import { createFileRoute, Link, ClientOnly } from "@tanstack/react-router";
 import { queryOptions, useSuspenseQuery } from "@tanstack/react-query";
 import { z } from "zod";
-import { BusFront, ChevronLeft, Clock, Coins, Footprints, Repeat, SlidersHorizontal, Terminal } from "lucide-react";
+import { BusFront, ChevronLeft, Clock, Coins, Footprints, Repeat, SlidersHorizontal } from "lucide-react";
 import { planJourney } from "@/lib/ai/ai.functions";
 import { AIRecommendationCard } from "@/components/transit/AIRecommendationCard";
 import { JourneyCard } from "@/components/transit/JourneyCard";
@@ -10,7 +10,6 @@ import { JourneySteps } from "@/components/transit/JourneySteps";
 import { JourneyFlowSummary } from "@/components/transit/JourneyFlowSummary";
 import { SearchForm } from "@/components/transit/SearchForm";
 import { PrologAuditCard } from "@/components/transit/PrologAuditCard";
-import { PrologConsoleDialog } from "@/components/transit/PrologConsoleDialog";
 import { cn } from "@/lib/utils";
 
 const RouteMap = lazy(() => import("@/components/transit/RouteMap"));
@@ -133,13 +132,11 @@ function Results({ search }: { search: SearchParams }) {
   const initialId = data.ai.best?.journeyId ?? data.journeys[0]?.id ?? "";
   const [selectedId, setSelectedId] = useState(initialId);
   const [editing, setEditing] = useState(false);
-  const [prologOpen, setPrologOpen] = useState(false);
   useEffect(() => setSelectedId(data.ai.best?.journeyId ?? data.journeys[0]?.id ?? ""), [data]);
   const selected = data.journeys.find((j) => j.id === selectedId) ?? data.journeys[0];
 
   return (
     <div className="flex h-screen flex-col overflow-hidden bg-background">
-      <PrologConsoleDialog open={prologOpen} onClose={() => setPrologOpen(false)} />
       <header className="z-20 flex h-14 shrink-0 items-center gap-3 border-b bg-card px-4">
         <Link to="/" className="flex items-center gap-2 font-display text-base font-bold" aria-label="TransitAI home">
           <span className="flex size-7 items-center justify-center rounded-md bg-primary text-primary-foreground">
@@ -155,14 +152,6 @@ function Results({ search }: { search: SearchParams }) {
           <span className="size-2.5 shrink-0 rounded-full bg-route-1" />
           <span className="truncate font-medium">{data.destination.name}</span>
         </div>
-        <button
-          type="button"
-          onClick={() => setPrologOpen(true)}
-          className="flex h-9 items-center gap-1.5 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 text-sm font-semibold text-emerald-700 dark:text-emerald-300 hover:bg-emerald-500/20 transition"
-        >
-          <Terminal className="size-4" />
-          <span className="hidden sm:inline">Prolog Console</span>
-        </button>
         <button
           onClick={() => setEditing((e) => !e)}
           className="flex h-9 items-center gap-2 rounded-lg border bg-card px-3 text-sm font-medium hover:bg-accent"
@@ -229,7 +218,6 @@ function Results({ search }: { search: SearchParams }) {
                   selectedId={selected?.id ?? ""}
                   onSelect={setSelectedId}
                   timeLabel={`Yangon ${data.timeContext.label}`}
-                  currency={data.network.currency}
                 />
                 <div className="flex items-end justify-between">
                   <h1 className="font-display text-xl font-bold">Valid routes from the engine</h1>
